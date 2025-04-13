@@ -74,4 +74,3 @@ if prompt := st.chat_input("Can you help me build a team..."):
             stream=True,
         )
         response = st.write_stream(stream)
-    st.session_state.messages.append({"role": "assistant", "content": response})
