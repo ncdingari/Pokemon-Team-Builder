@@ -36,10 +36,12 @@ async def search(query):
     return response
 
 def get_search(query):
+    print("Before loop")
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
+    print("After loop creation")
     result = loop.run_until_complete(search(query))
-    print(result)
+    print("Results: ", result)
     loop.close()
     return result
 
