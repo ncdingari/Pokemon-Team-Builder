@@ -13,7 +13,6 @@ import streamlit as st
 PROJECT_DIRECTORY = os.getcwd() + "/data"
 
 graphrag_config = load_config(Path(PROJECT_DIRECTORY))
-print(graphrag_config)
 entities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/entities.parquet")
 print(entities)
 communities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/communities.parquet")
