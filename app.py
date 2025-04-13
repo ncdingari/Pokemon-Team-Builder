@@ -46,7 +46,7 @@ def get_prompt(retriever_result, query):
     
     {retriever_result}"""
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key=st.secrets["GRAPHRAG_API_KEY"])
 
 st.title("Pokemon Team Builder")
 
