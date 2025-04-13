@@ -9,7 +9,7 @@ from openai import OpenAI
 
 import streamlit as st
 
-PROJECT_DIRECTORY = "data"
+PROJECT_DIRECTORY = "./data"
 
 graphrag_config = load_config(Path(PROJECT_DIRECTORY))
 entities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/entities.parquet")
