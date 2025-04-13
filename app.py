@@ -14,15 +14,10 @@ PROJECT_DIRECTORY = os.getcwd() + "/data"
 
 graphrag_config = load_config(Path(PROJECT_DIRECTORY))
 entities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/entities.parquet")
-print(entities)
 communities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/communities.parquet")
-print(communities)
 community_reports = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/community_reports.parquet")
-print(community_reports)
 text_units = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/text_units.parquet")
-print(text_units)
 relationships = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/relationships.parquet")
-print(relationships)
 
 async def search(query):
     response, context = await api.local_search(
@@ -37,12 +32,14 @@ async def search(query):
         response_type="Multiple Paragraphs",
         query=query,
     )
+    print(response)
     return response
 
 def get_search(query):
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
     result = loop.run_until_complete(search(query))
+    print(result)
     loop.close()
     return result
 
