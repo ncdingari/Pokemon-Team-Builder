@@ -13,12 +13,17 @@ import streamlit as st
 PROJECT_DIRECTORY = os.getcwd() + "/data"
 
 graphrag_config = load_config(Path(PROJECT_DIRECTORY))
+print(graphrag_config)
 entities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/entities.parquet")
+print(entities)
 communities = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/communities.parquet")
+print(communities)
 community_reports = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/community_reports.parquet")
+print(community_reports)
 text_units = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/text_units.parquet")
+print(text_units)
 relationships = pd.read_parquet(f"{PROJECT_DIRECTORY}/output/relationships.parquet")
-
+print(relationships)
 
 async def search(query):
     response, context = await api.local_search(
