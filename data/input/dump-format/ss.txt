@@ -1,0 +1,4501 @@
+Generation: ss
+Format: 1v1
+
+Overview: 1v1 is an Independent Unofficial Metagame where players choose a Pokemon that they believe is capable of defeating most—if not all—other Pokemon in a one-on-one situation. Players are allowed to bring a team of three Pokemon to the team preview but must select only one to battle with. So, while your team of three should be able to cover a wide variety of common threats, the Pokemon you send out must be able to beat any of your opponent's Pokemon, or at least the one you think they will use against you.
+This metagame is run by Mishlef and a council.
+
+Description: Play Restrictions
+
+Accuracy Moves Clause: Pokemon cannot use accuracy-lowering moves such as Mud-Slap.
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Evasion Moves Clause: Players cannot use the moves Double Team or Minimize.
+OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or Sheer Cold.
+Species Clause: A player cannot have two Pokemon with the same National Pokédex number on a team.
+Dynamax Clause: A player cannot use Dynamax.
+
+Pokemon Restrictions
+Players cannot use any of the following Pokemon:
+
+Cinderace
+Dialga
+Dragonite
+Eternatus
+Genesect
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Jirachi
+Kyogre
+Kyurem-Black
+Kyurem-White
+Lugia
+Lunala
+Magearna
+Marshadow
+Melmetal
+Mew
+Mewtwo
+Mimikyu
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Rayquaza
+Reshiram
+Sableye
+Solgaleo
+Snorlax
+Victini
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+
+Item Restrictions
+Players cannot use the following items:
+
+Bright Powder
+Focus Band
+Focus Sash
+Lax Incense
+Quick Claw
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Moody
+Power Construct
+
+Move Restrictions
+Players cannot use the following moves:
+
+Acupressure
+Hypnosis
+Perish Song
+Sing
+
+Basic Strategy
+Brute strength decides a lot of 1v1 matches, so common threats on the ladder include Galarian Darmanitan, Haxorus, and Porygon-Z. Abilities that dampen the foe's power like Intimidate are useful because your Pokemon will take less damage from physical attacks, giving your Pokemon a turn to set up or attack. Arcanine and Landorus-Therian can use this strategy.
+Because some matches are typically decided within a single turn, recharge moves that would normally have little viability in a standard metagame actually excel here. Primarina's ability Torrent boosts the power of Hydro Cannon to staggering levels, after getting into Torrent's HP range with Endure. Pixilate Sylveon turns Hyper Beam into a blisteringly strong Fairy-type attack.
+Strategies built around countering these tactics are also very common. Sturdy is a free Focus Sash for Pokemon to survive any single attack with at least 1 HP, most notably used by Crustle. Also, investing a lot in bulk helps, so your Pokemon can survive the initial attack and retaliate with Counter, Mirror Coat, or Metal Burst, which rebound the damage back at the foe for the KO.
+
+Pokemon List:
+
+Aegislash
+Aggron
+Arcanine
+Archeops
+Aromatisse
+Avalugg
+Azumarill
+Blacephalon
+Blastoise
+Blaziken
+Blissey
+Buzzwole
+Carracosta
+Celebi
+Celesteela
+Chandelure
+Chansey
+Clefable
+Conkeldurr
+Corsola-Galar
+Corviknight
+Cresselia
+Crustle
+Darmanitan
+Darmanitan-Galar
+Diancie
+Diggersby
+Dracovish
+Dracozolt
+Dragapult
+Durant
+Entei
+Escavalier
+Excadrill
+Ferrothorn
+Garchomp
+Gardevoir
+Gastrodon
+Gengar
+Glastrier
+Golisopod
+Goodra
+Grimmsnarl
+Gyarados
+Haxorus
+Heatran
+Hydreigon
+Incineroar
+Jellicent
+Kartana
+Keldeo
+Kommo-o
+Krookodile
+Kyurem
+Landorus
+Landorus-Therian
+Latias
+Latios
+Magnezone
+Mamoswine
+Marowak-Alola
+Metagross
+Moltres
+Moltres-Galar
+Naganadel
+Nidoking
+Nihilego
+Ninetales
+Ninetales-Alola
+Pheromosa
+Porygon2
+Porygon-Z
+Primarina
+Pyukumuku
+Quagsire
+Raboot
+Raikou
+Regice
+Regidrago
+Regieleki
+Regirock
+Registeel
+Reuniclus
+Rhyperior
+Rillaboom
+Roserade
+Rotom-Heat
+Rotom-Wash
+Salamence
+Salazzle
+Sawk
+Seismitoad
+Shedinja
+Silvally-Fairy
+Silvally-Grass
+Silvally-Poison
+Silvally-Water
+Skarmory
+Slowbro-Galar
+Slowking-Galar
+Slurpuff
+Spectrier
+Steelix
+Suicune
+Swampert
+Sylveon
+Talonflame
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Tentacruel
+Terrakion
+Thundurus-Therian
+Togekiss
+Torkoal
+Toxapex
+Toxtricity
+Type: Null
+Tyranitar
+Urshifu
+Urshifu-Rapid-Strike
+Venusaur
+Volcanion
+Volcarona
+Weavile
+Whimsicott
+Zapdos
+Zapdos-Galar
+Zarude
+Zeraora
+Zygarde
+
+
+Generation: ss
+Format: 2v2 Doubles
+
+Overview: 
+
+Description: Composition
+2v2 Doubles is a metagame with a plethora of strategies, as it allows players to fully utilize everything Pokemon has to offer, meaning that they can use strategies that are considered niche in singles formats, such as Fake Out and Trick Room. Popular strategies involve the use of Speed control, weather, Trick Room, and more. If you already play 1v1, this metagame is relatively easy to get into since it has a similar concept, and most Pokemon that are viable in 1v1 are very useful here. Putting four 1v1-viable Pokemon onto a team is a good way to start out, and then players can start making changes as needed to face and adapt to the metagame.
+This metagame is run by Mubs and a council. You can discuss strategies with friends in the 2v2 room on the simulator, the 2v2 Discord, or in the main thread on the forums.
+Play Restrictions
+
+Accuracy Moves Clause: Pokemon cannot use accuracy-lowering moves such as Mud-Slap.
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Evasion Moves Clause: Players cannot use the moves Double Team or Minimize.
+OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or Sheer Cold.
+Species Clause: A player cannot have two Pokemon with the same National Pokédex number on a team.
+Dynamax Clause: A player cannot Dynamax their Pokemon.
+Sleep Clause Mod: A player can only put one of the foe's Pokemon to sleep at a time.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Calyrex-Ice
+Calyrex-Shadow
+Dialga
+Eternatus
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Jirachi
+Kyogre
+Kyurem-White
+Lugia
+Lunala
+Magearna
+Marshadow
+Melmetal
+Mewtwo
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Rayquaza
+Reshiram
+Solgaleo
+Urshifu
+Whimsicott
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Power Construct
+
+Item Restrictions
+Players cannot use the following items:
+
+Focus Sash
+
+Move Restrictions
+Players cannot use the following moves:
+
+Ally Switch
+Final Gambit
+Perish Song
+Swagger
+
+Basic Strategy
+Strategy and brute strength decide a lot of 2v2 Doubles matches, so common threats on the ladder include Naganadel, Cinderace, and Genesect. Abilities that set or utilize weather like Drizzle and Swift Swim are useful because the weather makes the other Pokemon faster, and in the case of rain/sun, also increases the power of the weather utilizer's moves. Fake Out Pokemon such as Zeraora and Incineroar are also common, allowing a powerful partner to avoid one opponent's move on turn 1.
+
+Pokemon List:
+
+Blastoise
+Celesteela
+Cinderace
+Cresselia
+Diancie
+Dracovish
+Ferrothorn
+Genesect
+Heatran
+Incineroar
+Indeedee-F
+Kingdra
+Kyurem-Black
+Landorus-Therian
+Metagross
+Mew
+Moltres-Galar
+Naganadel
+Nihilego
+Ninetales-Alola
+Pheromosa
+Politoed
+Porygon2
+Regidrago
+Regieleki
+Rillaboom
+Sableye
+Talonflame
+Tapu Fini
+Togekiss
+Tyranitar
+Victini
+Volcanion
+Weavile
+Zapdos-Galar
+Zeraora
+Zygarde
+
+
+Generation: ss
+Format: AG
+
+Overview: AG (Anything Goes) is a 6v6 singles metagame that has the fewest restrictions found in any of Smogon's formats. Every Pokemon from any tier is allowed, and because the Species Clause is lifted, you can have up to six of the same Pokemon on your team. In fact, all clauses besides Endless Battle are gone, so strategies that are generally deemed uncompetitive such as Moody and Swagger are completely usable here.
+You can discuss strategies with friends in the Anything Goes room on the simulator, the Anything Goes Discord.
+
+Description: Play Restrictions
+
+Endless Battle Clause: Players cannot intentionally prevent their opponent's Pokemon from fainting from PP depletion and Struggle recoil.
+
+
+Pokemon List:
+
+Blissey
+Butterfree
+Calyrex-Ice
+Calyrex-Shadow
+Chansey
+Cloyster
+Darmanitan-Galar
+Dialga
+Ditto
+Dracovish
+Eternatus
+Excadrill
+Ferrothorn
+Galvantula
+Gastrodon
+Giratina
+Gothitelle
+Grimmsnarl
+Groudon
+Ho-Oh
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus-Therian
+Lapras
+Lunala
+Lycanroc
+Marshadow
+Mewtwo
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Porygon2
+Quagsire
+Rayquaza
+Regieleki
+Reshiram
+Shedinja
+Shuckle
+Skarmory
+Slurpuff
+Solgaleo
+Toxapex
+Tyranitar
+Urshifu
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: Almost Any Ability
+
+Overview: 
+
+Description: Composition
+Almost Any Ability (AAA) is an Other Metagame based on OU with one simple change: Pokemon can now use almost any ability! That means that you can give your Mew Regenerator or your Talonflame Magic Guard. Some abilities are just too strong on any Pokemon, however, so make sure to see the full banlist below.
+This metagame is run by UT and a council. It has a permanent ladder on Pokemon Showdown!. You can discuss strategies with friends in the Other Metas room on the simulator, the Other Metagames Discord, or in the main thread on the forums.
+Play Restrictions
+
+All standard OU clauses apply.
+2 Ability Clause: Teams are limited to two of the same ability. This includes variants like Teravolt and Turboblaze.
+Sleep Moves Clause: All sleep-inducing status moves, including Yawn, are banned.
+
+Pokemon Restrictions
+Players cannot use these Pokemon:
+
+Archeops
+Blacephalon
+Buzzwole
+Calyrex-Ice
+Calyrex-Shadow
+Dialga
+Dracovish
+Dragapult
+Dragonite
+Eternatus
+Genesect
+Gengar
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Kartana
+Keldeo
+Kyogre
+Kyurem
+Kyurem-Black
+Kyurem-White
+Lugia
+Lunala
+Magearna
+Marshadow
+Melmetal
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Noivern
+Palkia
+Pheromosa
+Rayquaza
+Regigigas
+Reshiram
+Shedinja
+Solgaleo
+Spectrier
+Urshifu
+Urshifu-Rapid-Strike
+Victini
+Weavile
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zeraora
+Zygarde
+
+Ability Restrictions
+Pokemon may not use these abilities:
+
+Arena Trap
+Comatose
+Contrary
+Fluffy
+Fur Coat
+Gorilla Tactics
+Huge Power
+Ice Scales
+Illusion
+Imposter
+Innards Out
+Intrepid Sword
+Libero
+Magic Bounce
+Magnet Pull
+Moody
+Neutralizing Gas
+Parental Bond
+Poison Heal
+Protean
+Pure Power
+Shadow Tag
+Simple
+Speed Boost
+Stakeout
+Unburden
+Water Bubble
+Wonder Guard
+
+Item Restrictions
+Players cannot use the following items:
+
+King's Rock
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Alakazam
+Arcanine
+Azelf
+Barraskewda
+Bisharp
+Blastoise
+Blissey
+Celesteela
+Chandelure
+Chansey
+Cinderace
+Cobalion
+Conkeldurr
+Corviknight
+Darmanitan-Galar
+Dhelmise
+Diancie
+Doublade
+Entei
+Excadrill
+Ferrothorn
+Garchomp
+Golisopod
+Heatran
+Heracross
+Hippowdon
+Hydreigon
+Incineroar
+Inteleon
+Jirachi
+Kommo-o
+Landorus-Therian
+Latias
+Latios
+Lucario
+Mamoswine
+Mandibuzz
+Marowak-Alola
+Mew
+Mienshao
+Milotic
+Moltres
+Moltres-Galar
+Nidoqueen
+Nihilego
+Palossand
+Polteageist
+Porygon2
+Primarina
+Raikou
+Regieleki
+Runerigus
+Salamence
+Scizor
+Silvally-Dragon
+Skarmory
+Slowbro
+Slowking-Galar
+Stakataka
+Suicune
+Swampert
+Talonflame
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Terrakion
+Thundurus
+Togekiss
+Toxapex
+Toxtricity
+Umbreon
+Vaporeon
+Vikavolt
+Volcanion
+Volcarona
+Xurkitree
+Zamazenta-Crowned
+Zapdos
+Zapdos-Galar
+Zarude
+Zygarde-10%
+
+
+Generation: ss
+Format: Battle Stadium Singles
+
+Overview: 
+
+Description: This is Nintendo's official singles metagame on the Switch.
+Composition
+Battle Stadium Singles (BSS) is the official Singles metagame played on the Nintendo Switch system. This metagame has a static banlist and a different set of clauses than Smogon metagames. The most notable being that this metagame only allows you to select 3 out of your 6 Pokemon to send into battle, and that Pokemon are at level 50.
+Play Restrictions
+
+Species Clause: Players cannot have two Pokemon with the same Pokédex number on the same team.
+Item Clause: No two Pokemon may hold the same item during battle.
+Battle Timer: Players have a total of 10 minutes to make their moves for the entirety of the match with a 1 minute turn timer. If a player allows their 10 minutes to expire they will lose.
+Level Restrictions: All Pokemon above level 50 will be leveled down to level 50, any Pokemon below level 50 will be raised to level 50.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Calyrex
+Celebi
+Cosmoem
+Cosmog
+Dialga
+Diancie
+Eternatus
+Giratina
+Groudon
+Ho-Oh
+Jirachi
+Keldeo
+Kyogre
+Kyurem
+Lugia
+Lunala
+Magearna
+Marshadow
+Melmetal
+Meltan
+Mew
+Mewtwo
+Necrozma
+Palkia
+Rayquaza
+Reshiram
+Solgaleo
+Victini
+Volcanion
+Xerneas
+Yveltal
+Zacian
+Zamazenta
+Zarude
+Zekrom
+Zeraora
+Zygarde
+
+The Battle Spot Forum and Greater Community
+The Battle Stadium Singles forum is led by cant say and DragonWhale and moderated by Psynergy. Notable users also include Theorymon (moderator of our C&#x26;C section). You can also visit our chatroom on Pokemon Showdown! or our #battlestadium Discord server to discuss the metagame in real-time! Many regular users frequent those and are able to answer any questions you may have.
+Contribute
+
+Crown Tundra Analyses: This thread provides updates on the latest Pokemon analyses, and is also the place to suggest changes and Pokemon sets.
+
+Learn
+
+
+Crown Tundra Viability Rankings: This thread rates Pokemon by their viability in the metagame, a must for anyone just starting out with the metagame!
+
+
+Simple Questions Thread: This is quite literally for any questions you may have about Battle Stadium Singles in general!
+
+
+Sample Teams: Want to play but don't know where to start? Take a few of these teams out for a spin to get a feel for this format! Some of them even include rental codes, which means you can use the teams on your Nintendo Switch without even breeding!
+
+
+Top Placing Teams: Learn from the very best in Japan, by taking a look at the teams that have won seasons in Battle Stadium Singles!
+
+
+Discuss
+
+Singles Metagame Discussion: Any general discussion regarding the 3v3 Singles Metagame goes here.
+
+A Note About Pokemon Showdown!
+While there is a playable ladder on PS! for the Battle Stadium Singles metagame, and our Battle Stadium chatroom is a great place to hang out and meet other players, we would like to point out that we are focusing on the official metagame which is playable on the Sword and Shield games themselves. This is due to the fact that the playerbase is considerably smaller on PS! and also lacks the huge influence of the Japanese community. We are certainly not condemning the use of PS!, as it is a great place to try out team ideas before you commit the time to breeding your Pokemon, but make sure you jump on your Switch to get the full experience!
+
+Pokemon List:
+
+Azumarill
+Blaziken
+Celesteela
+Cinderace
+Clefable
+Corviknight
+Cresselia
+Darmanitan-Galar
+Dracovish
+Dragapult
+Dragonite
+Excadrill
+Ferrothorn
+Garchomp
+Glastrier
+Grimmsnarl
+Gyarados
+Heatran
+Hippowdon
+Kartana
+Landorus-Therian
+Lapras
+Lycanroc-Dusk
+Magnezone
+Mamoswine
+Metagross
+Mimikyu
+Moltres-Galar
+Naganadel
+Nihilego
+Pheromosa
+Porygon2
+Porygon-Z
+Primarina
+Raikou
+Regieleki
+Rillaboom
+Rotom-Heat
+Rotom-Wash
+Salamence
+Snorlax
+Spectrier
+Suicune
+Swampert
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Thundurus
+Toxapex
+Tyranitar
+Urshifu
+Urshifu-Rapid-Strike
+Whimsicott
+Zapdos
+Zapdos-Galar
+
+
+Generation: ss
+Format: BDSP OU
+
+Overview: Brilliant Diamond and Shining Pearl (BDSP) OU is an Unofficial Metagame based on the Diamond and Pearl remakes and features all of the unique Pokemon in the game.
+This metagame is run by Xilefi and TyCarter and a council. You can discuss strategies with friends in the Brilliant Diamond and Shining Pearl Discord and main thread on the forums.
+
+Description: Play Restrictions
+BDSP OU uses standard Smogon-wide Clauses.
+Pokemon Restrictions
+In addition to all Pokemon with Pokédex number 494 and above, players cannot use the following Pokemon:
+
+Arceus (all formes)
+Blaziken
+Darkrai
+Deoxys
+Deoxys-Attack
+Deoxys-Defense
+Deoxys-Speed
+Dialga
+Gengar
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Kyogre
+Latios
+Lugia
+Manaphy
+Mewtwo
+Palkia
+Rayquaza
+Shaymin-Sky
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Arena Trap
+Drizzle
+Moody
+Sand Veil
+Shadow Tag
+Snow Cloak
+
+Item Restrictions
+Players cannot use the following items:
+
+Bright Powder
+King's Rock
+Lax Incense
+Razor Fang
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+Other Mechanics
+
+Unlike normal Generation VIII, BDSP doesn't have Dynamaxing.
+
+
+Pokemon List:
+
+Alakazam
+Azelf
+Azumarill
+Blastoise
+Blissey
+Breloom
+Clefable
+Cloyster
+Crawdaunt
+Donphan
+Dragonite
+Empoleon
+Feraligatr
+Garchomp
+Gastrodon
+Gliscor
+Heatran
+Hippowdon
+Infernape
+Jirachi
+Latias
+Lucario
+Magnezone
+Mamoswine
+Mew
+Milotic
+Mismagius
+Nidoking
+Quagsire
+Raikou
+Roserade
+Rotom-Mow
+Rotom-Wash
+Salamence
+Scizor
+Shaymin
+Skarmory
+Slowbro
+Slowking
+Staraptor
+Starmie
+Suicune
+Tangrowth
+Togekiss
+Tyranitar
+Weavile
+Weezing
+
+
+Generation: ss
+Format: BH
+
+Overview: 
+
+Description: Composition
+Balanced Hackmons is an Other Metagame where nearly anything is possible, up to in-game limitations. You can assign any ability and moves that exist in-game to any Pokemon—even ones already in their battle-only forme!
+Play Restrictions
+
+Evasion Moves Clause: Players cannot use the moves Double Team or Minimize.
+OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or Sheer Cold.
+Sleep Moves Clause: All moves that induce sleep, including Yawn, are banned.
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Forme Clause: Players cannot use more than one of every forme of a Pokemon. For example, a player can use Zamazenta + Zamazenta-Crowned, but not Zamazenta + Zamazenta.
+Dynamax Clause: Players cannot use Dynamax or Gigantamax.
+
+Pokemon Restrictions
+The following Pokemon are banned:
+
+Calyrex-Shadow
+Cramorant-Gorging
+Darmanitan-Galar-Zen
+Eternatus-Eternamax
+Shedinja
+Zacian-Crowned
+
+Ability Restrictions
+Pokemon may not have the following abilities:
+
+Arena Trap
+Contrary
+Gorilla Tactics
+Huge Power
+Illusion
+Innards Out
+Intrepid Sword
+Libero
+Magnet Pull
+Moody
+Neutralizing Gas
+Parental Bond
+Protean
+Pure Power
+Shadow Tag
+Stakeout
+Water Bubble
+Wonder Guard
+
+Move Restrictions
+Pokemon cannot have the following moves:
+
+Bolt Beak
+Double Iron Bash
+Octolock
+Shell Smash
+Court Change
+Belly Drum
+Transform
+
+Item Restrictions
+Pokemon may not use the following items:
+
+Rusted Sword
+
+Other Restrictions
+
+ComaTalk (Comatose + Sleep Talk) is banned, which prevents a Pokemon from having both Comatose and Sleep Talk in one set, as it could be used with phazing moves like Whirlwind to create uncompetitive games.
+
+Other Mechanics
+
+There is no EV limit, which means that all Pokemon are able to have EV spreads of 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe.
+
+
+Pokemon List:
+
+Aegislash
+Barraskewda
+Blacephalon
+Blissey
+Calyrex-Ice
+Celesteela
+Chansey
+Cresselia
+Darmanitan
+Dialga
+Dragapult
+Eternatus
+Ferrothorn
+Garchomp
+Giratina
+Giratina-Origin
+Golisopod
+Groudon
+Heatran
+Ho-Oh
+Kartana
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus-Therian
+Lugia
+Lunala
+Magearna
+Melmetal
+Mewtwo
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Regieleki
+Regigigas
+Registeel
+Reshiram
+Solgaleo
+Spectrier
+Suicune
+Tapu Fini
+Umbreon
+Xerneas
+Yveltal
+Zacian
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: BSS Series 12
+
+Overview: 
+
+Description: Composition
+Battle Stadium Singles (BSS) is the official Singles metagame played on the Nintendo Switch system. This metagame has a static banlist and a different set of clauses than Smogon metagames. The most notable being that this metagame only allows you to select 3 out of your 6 Pokemon to send into battle, and that Pokemon are at level 50.
+This iteration of the format lasts until August 31st, 2022.
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 20-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+Pokemon Restrictions
+
+
+The following Pokemon are banned:
+
+Mew
+Celebi
+Jirachi
+Victini
+Keldeo
+Genesect
+Diancie
+Volcanion
+Magearna
+Marshadow
+Zeraora
+Meltan
+Melmetal
+Zarude
+
+
+
+In addition to Pokemon normally allowed, players may use up to two of the following Pokemon:
+
+Mewtwo
+Lugia
+Ho-Oh
+Kyogre
+Groudon
+Rayquaza
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+
+
+
+Pokemon List:
+
+Blaziken
+Blissey
+Calyrex-Ice
+Calyrex-Shadow
+Celesteela
+Chansey
+Cinderace
+Darmanitan-Galar
+Dialga
+Ditto
+Dracovish
+Dragapult
+Dragonite
+Eternatus
+Ferrothorn
+Garchomp
+Gastrodon
+Gothitelle
+Grimmsnarl
+Groudon
+Heatran
+Hippowdon
+Ho-Oh
+Incineroar
+Kyogre
+Kyurem-White
+Landorus-Therian
+Lapras
+Lugia
+Mamoswine
+Mimikyu
+Moltres-Galar
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Porygon2
+Quagsire
+Regieleki
+Reshiram
+Rhyperior
+Rillaboom
+Rotom-Wash
+Seismitoad
+Shedinja
+Skarmory
+Swampert
+Tapu Fini
+Tapu Koko
+Thundurus
+Toxapex
+Tyranitar
+Umbreon
+Urshifu
+Urshifu-Rapid-Strike
+Xerneas
+Yveltal
+Zacian-Crowned
+Zapdos
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: BSS Series 13
+
+Overview: 
+
+Description: Composition
+Battle Stadium Singles (BSS) is the official Singles metagame played on the Nintendo Switch system. This iteration of BSS allows all Pokemon obtainable in Sword and Shield, but has a different set of clauses than Smogon metagames. The most notable being that this metagame only allows you to select 3 out of your 6 Pokemon to send into battle, and that Pokemon are at level 50.
+This iteration of the format lasts until October 31st, 2022.
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 20-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+
+Pokemon List:
+
+Blissey
+Calyrex-Ice
+Calyrex-Shadow
+Chansey
+Dialga
+Ditto
+Eternatus
+Ferrothorn
+Grimmsnarl
+Groudon
+Hippowdon
+Ho-Oh
+Jirachi
+Kyogre
+Kyurem-White
+Landorus-Therian
+Lugia
+Lunala
+Marshadow
+Melmetal
+Mimikyu
+Necrozma-Dusk Mane
+Palkia
+Quagsire
+Regieleki
+Reshiram
+Swampert
+Tyranitar
+Victini
+Xerneas
+Yveltal
+Zacian-Crowned
+Zapdos
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: Camomons
+
+Overview: 
+
+Description: <img src="https://www.smogon.com/forums/attachments/camo-png.307817/" alt="Camomons Banner">
+Composition
+Camomons is an Other Metagame based on OU. However, every Pokemon becomes the types of the first two moves in its moveslots. For instance, if your Lucario has Swords Dance / Close Combat / Crunch / Bullet Punch, it will become a Normal / Fighting type! Mimic and other such moves are considered Normal-type moves and will change Pokemon to said type if it is in the first half of the Pokemon's moveslots. Pokemon with multiple moves of the same type in their first two slots will have only one type. For instance, a Lucario with Close Combat / Vacuum Wave / Nasty Plot / Swords Dance will be a mono Fighting-type. Types are instantly revealed in battle upon Pokemon being sent out.
+This metagame is run by The Number Man and a council. It is playable on Pokemon Showdown! You can discuss strategies with friends in the Other Metas room on the simulator or in the main thread on the forums.
+Play Restrictions
+
+All standard OU clauses apply.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Calyrex-Ice
+Calyrex-Shadow
+Darmanitan-Galar
+Dialga
+Dracovish
+Dragonite
+Eternatus
+Genesect
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Hydreigon
+Kartana
+Kyogre
+Kyurem
+Kyurem-Black
+Kyurem-White
+Landorus
+Latias
+Latios
+Lugia
+Lunala
+Marshadow
+Mew
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Reshiram
+Reuniclus
+Shedinja
+Slowking-Galar
+Solgaleo
+Tornadus-Therian
+Volcarona
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zeraora
+Zygarde
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Arena Trap
+Moody
+Power Construct
+Shadow Tag
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Alakazam
+Arcanine
+Blissey
+Buzzwole
+Clefable
+Cresselia
+Dragapult
+Drednaw
+Entei
+Garchomp
+Haxorus
+Heatran
+Heracross
+Landorus-Therian
+Lucario
+Lycanroc-Dusk
+Magearna
+Melmetal
+Rillaboom
+Salamence
+Scizor
+Slowbro
+Slowking
+Toxapex
+Victini
+
+
+Generation: ss
+Format: CAP
+
+Overview: 
+
+Description: Composition
+Create-A-Pokemon (or simply CAP) is a metagame based on OU that also allows the usage of all 31 of the Pokemon created by the Create-A-Pokemon Project. The addition of CAP Pokemon makes the metagame quite different from OU, although many of the same threats still thrive.
+CAP also has a Metagame subforum where resources such as the Metagame Discussion, Viability Rankings, and Sample Teams can be found.
+Play Restrictions
+Players must abide by the following clauses:
+
+OU clauses.
+Necturna Clause: Necturna is restricted to one move learned by Sketch.
+
+Necturna Clause is still in effect in SS because although Necturna cannot use Sketch in this generation, nor can it use Sketch to learn any moves introduced in SS, it can still use Sketch to learn moves in previous generations and then get transferred to this generation.
+
+
+
+Players cannot use the following abilities:
+
+Arena Trap
+Shadow Tag
+
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Arghonaut
+Astrolotl
+Aurumoth
+Blacephalon
+Caribolt
+Cawmodore
+Chromera
+Clefable
+Colossoil
+Corviknight
+Crucibelle
+Cyclohm
+Dragapult
+Dragonite
+Equilibra
+Ferrothorn
+Fidgit
+Garchomp
+Heatran
+Jumbao
+Kartana
+Kerfluffle
+Kitsunoh
+Krilowatt
+Landorus-Therian
+Magnezone
+Malaconda
+Melmetal
+Miasmaw
+Mollux
+Naviathan
+Necturna
+Pajantom
+Plasmanta
+Pyroak
+Revenankh
+Saharaja
+Slowbro
+Slowking
+Slowking-Galar
+Smokomodo
+Snaelstrom
+Stratagem
+Syclant
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Tomohawk
+Tornadus-Therian
+Toxapex
+Urshifu-Rapid-Strike
+Venomicon
+Venomicon-Epilogue
+Volkraken
+Voodoom
+Weavile
+Zapdos
+Zeraora
+
+
+Generation: ss
+Format: Doubles
+
+Overview: 
+
+Description: Composition
+Doubles OU is a format in which both players have two Pokemon on the field at the same time. All Pokemon except those on the banlist (found below) can be used in Doubles OU regardless of the Pokemon's tier in singles play. Unlike in VGC, all Pokemon default to level 100 instead of level 50.
+Play Restrictions
+
+Endless Battle Clause: Players cannot use any moveset on any Pokemon capable of intentionally causing an endless battle. Thus:
+A Pokemon may not carry Recycle and hold a Leppa Berry in conjunction with Heal Pulse and Moonlight, Morning Sun, Recover, Roost, Slack Off, Soft-Boiled, or Wish.
+A Pokemon may not hold a Leppa Berry while carrying Recycle and Pain Split.
+A Pokemon may not hold a Leppa Berry while carrying Recycle and Fling.
+Evasion Clause: Players cannot use the moves Double Team or Minimize.
+OHKO Clause: Players cannot use the moves Fissure, Guillotine, Horn Drill, or Sheer Cold.
+Species Clause: Players cannot have two Pokemon with the same Pokédex number on the same team.
+Gravity Sleep Clause: Sleep moves with below one hundred percent accuracy may not be used in conjunction with Gravity.
+Dynamax Clause: Players cannot Dynamax their Pokemon.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Calyrex-Ice
+Calyrex-Shadow
+Dialga
+Eternatus
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Jirachi
+Kartana
+Kyogre
+Kyurem-White
+Lugia
+Lunala
+Magearna
+Marshadow
+Melmetal
+Mewtwo
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Rayquaza
+Reshiram
+Solgaleo
+Urshifu (Single Strike)
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Power Construct
+Shadow Tag
+
+Move Restrictions
+Players cannot use the following moves:
+
+Swagger
+
+The Doubles Forum
+Learn
+The Overview, Rules, and Q&#x26;A thread is a great place to learn about the tier and ask any simple questions you might have relating to the Doubles OU metagame. Do not make new threads for questions that could be answered here.
+Participate
+The SS Doubles OU Viability Rankings sorts Pokemon that are effective in Doubles OU by how well they fare against the rest of the metagame.
+The Now Playing thread allows players to discuss current suspects, as well as any metagame trends including newly released Pokemon, newly successful sets or ideas, and potentially broken threats.
+The Doubles Circuit Thread details the many official tournaments that are run each year, with information about each tournament, instructions on how to participate, and an outline on how they are incorporated into the overall circuit.
+
+Pokemon List:
+
+Amoonguss
+Blastoise
+Celesteela
+Chansey
+Cresselia
+Crobat
+Diancie
+Dracovish
+Dracozolt
+Dragapult
+Excadrill
+Ferrothorn
+Gastrodon
+Genesect
+Hatterene
+Heatran
+Incineroar
+Indeedee-F
+Kingdra
+Kyurem-Black
+Landorus
+Landorus-Therian
+Lurantis
+Metagross
+Mew
+Naganadel
+Necrozma
+Nihilego
+Ninetales-Alola
+Pelipper
+Pheromosa
+Politoed
+Porygon2
+Regieleki
+Rillaboom
+Scrafty
+Spectrier
+Stakataka
+Sylveon
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Torkoal
+Tornadus
+Tsareena
+Tyranitar
+Urshifu-Rapid-Strike
+Volcanion
+Volcarona
+Whimsicott
+Zapdos
+Zapdos-Galar
+Zeraora
+Zygarde
+
+
+Generation: ss
+Format: Godly Gift
+
+Overview: 
+
+Description: Composition
+Godly Gift (GG) is an Other Metagame based on OU, but there's a twist—each team is allowed to have one Uber Pokemon, called a god, with the other five Pokemon being called receivers. Receivers inherit a base stat from the god depending on where on a team they're placed. For example, placing Rotom-W in slot 1 on a team with Yveltal would give Rotom-W a base HP stat of 126.
+This metagame is run by Kris and a council. It has a permanent ladder on Pokemon Showdown!. You can discuss strategies with friends in the Other Metas room on the simulator, the Other Metagames Discord, or in the main thread on the forums.
+Play Restrictions
+
+All standard OU clauses apply.
+Sleep Moves Clause: All sleep-inducing status moves are banned.
+Players can only use up to 1 Uber/AG Pokemon.
+
+Pokemon Restrictions
+Players cannot use these Pokemon:
+
+Blissey
+Calyrex-Shadow
+Chansey
+Dragapult
+Eternatus
+Hawlucha
+Marowak-Alola
+Melmetal
+Nidoking
+Nidoqueen
+Pikachu
+Toxapex
+Xerneas
+Zacian
+Zacian-Crowned
+
+Ability Restrictions
+Pokemon may not use these abilities:
+
+Arena Trap
+Huge Power
+Moody
+Pure Power
+Shadow Tag
+Swift Swim
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Aegislash
+Amoonguss
+Araquanid
+Arctozolt
+Bisharp
+Blacephalon
+Blaziken
+Buzzwole
+Calyrex-Ice
+Celesteela
+Clefable
+Cloyster
+Cobalion
+Comfey
+Conkeldurr
+Corviknight
+Crobat
+Dhelmise
+Dialga
+Diancie
+Ditto
+Dracozolt
+Dusclops
+Espeon
+Excadrill
+Ferrothorn
+Garchomp
+Gastrodon
+Giratina
+Giratina-Origin
+Glastrier
+Grimmsnarl
+Groudon
+Hatterene
+Heatran
+Ho-Oh
+Kartana
+Klefki
+Kommo-o
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus-Therian
+Linoone
+Lunala
+Magnezone
+Mandibuzz
+Marowak
+Mew
+Mewtwo
+Mienshao
+Mimikyu
+Moltres-Galar
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Nihilego
+Ninetales-Alola
+Obstagoon
+Pangoro
+Persian-Alola
+Pheromosa
+Porygon2
+Pyukumuku
+Quagsire
+Raichu-Alola
+Rayquaza
+Regieleki
+Reshiram
+Reuniclus
+Rillaboom
+Rotom-Heat
+Rotom-Wash
+Scolipede
+Seismitoad
+Sharpedo
+Shuckle
+Skarmory
+Slowbro
+Slowbro-Galar
+Slowking
+Slowking-Galar
+Slurpuff
+Suicune
+Swoobat
+Tangrowth
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Togekiss
+Torkoal
+Tornadus-Therian
+Tyranitar
+Urshifu-Rapid-Strike
+Vaporeon
+Venusaur
+Victini
+Volcanion
+Volcarona
+Weavile
+Weezing-Galar
+Xurkitree
+Yveltal
+Zamazenta
+Zamazenta-Crowned
+Zapdos
+Zapdos-Galar
+Zekrom
+Zeraora
+Zygarde-10%
+
+
+Generation: ss
+Format: LC
+
+Overview: LC (Little Cup) is a format where players may only use Pokemon that have not yet evolved, are capable of evolution, and are obtainable at level 5 in-game.
+
+Description: Play Restrictions
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+Dynamax Clause: Players cannot use Dynamax or Gigantamax.
+All Pokemon must be level 5. If a Pokemon is only available via event and is not obtainable at or below level 5 (for example, Type: Null), it cannot be used.
+
+Players cannot use the following Pokemon:
+
+Cherubi (No legal ability)
+Corsola-Galar
+Cutiefly
+Drifloon
+Gastly
+Gothita
+Magby
+Rufflet
+Scraggy
+Scyther
+Sneasel
+Swirlix
+Tangela
+Vulpix-Alola
+Woobat
+Zigzagoon
+
+Players cannot use the following moves:
+
+Baton Pass
+Sticky Web
+
+Players may not use the following abilities:
+
+Chlorophyll
+Moody
+
+For information on Little Cup moveset legality, please refer to this guide. Disclaimer: Some legality issues no longer exist due to the introduction of the Ability Capsule in Pokemon X and Y, the introduction of new tutoring mechanics in Pokemon Sun and Moon (note that this feature was reverted in Pokemon Sword and Shield), and the addition of Nature Mints and Egg Move transfers introduced in Pokemon Sword and Shield.
+
+Pokemon List:
+
+Abra
+Amaura
+Archen
+Carvanha
+Charmander
+Chinchou
+Cottonee
+Croagunk
+Diglett
+Drilbur
+Dwebble
+Elekid
+Farfetch'd-Galar
+Ferroseed
+Foongus
+Frillish
+Golett
+Grookey
+Kabuto
+Koffing
+Larvesta
+Magnemite
+Mareanie
+Meowth
+Mienfoo
+Morelull
+Mudbray
+Munchlax
+Omanyte
+Onix
+Pancham
+Pawniard
+Ponyta
+Ponyta-Galar
+Porygon
+Sandshrew-Alola
+Shellder
+Shellos
+Slowpoke
+Snover
+Spritzee
+Staryu
+Stunky
+Tentacool
+Timburr
+Tirtouga
+Trapinch
+Tyrunt
+Venipede
+Vullaby
+Vulpix
+
+
+Generation: ss
+Format: Mix and Mega
+
+Overview: 
+
+Description: Composition
+Mix and Mega is an Other Metagame where players can put a Mega Stone on almost any one of their Pokemon to give it the typing, stats, and ability that the Mega Stone would give a Mega Evolution, with the limit of one Mega Evolution per team removed. For example, Sablenite Corviknight would have Magic Bounce for its ability, and it would get +10 Attack, +50 Defense, +20 Special Attack, +50 Special Defense, and -30 Speed.
+This metagame is run by Quantum Tesseract and a council. You can discuss strategies with friends in the Other Metas room on the simulator, the Other Metagames Discord, or in the main thread on the forums.
+Play Restrictions
+
+Mix and Mega follows the standard Uber clauses.
+Mega Stone Clause: A limit of one of each Mega Stone may be used.
+Dynamax Clause: Pokemon cannot Dynamax.
+
+Pokemon Restrictions
+The following Pokemon are banned:
+
+Calyrex-Shadow
+Eternatus
+Kyogre
+Zacian
+Zacian-Crowned
+
+The following Pokemon cannot Mega Evolve:
+
+Calyrex-Ice
+Dialga
+Gengar
+Giratina
+Groudon
+Ho-Oh
+Kyurem-Black
+Kyurem-White
+Lugia
+Lunala
+Marshadow
+Melmetal
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Regigigas
+Reshiram
+Urshifu
+Urshifu-Rapid-Strike
+Xerneas
+Yveltal
+Zekrom
+
+Ability Restrictions
+The following abilities are banned:
+
+Moody
+Shadow Tag
+
+Pokemon may not Mega Evolve with the following abilities:
+
+Zygarde with Power Construct
+
+Move Restrictions
+Pokemon cannot use the following moves:
+
+Baton Pass
+Electrify
+
+Item Restrictions
+The following items are banned:
+
+Beedrillite
+Blazikenite
+Gengarite
+Kangaskhanite
+Mawilite
+Medichamite
+Pidgeotite
+
+Other Mechanics
+
+You can Mega Evolve all of your Pokemon.
+If a Pokemon uses a Mega Stone that gives a secondary typing that is the same as their primary typing, the secondary typing is removed (Altarianite Togekiss becomes a pure Fairy-type).
+Mega Stones cannot be knocked off whatsoever.
+If a Pokemon changes its forme before Mega Evolving, it will revert to its base forme upon Mega Evolution (Diancite Eiscue-Noice will Mega Evolve into a regular Eiscue with Diancite's stat boosts).
+A Mega Pokemon whose base stats become a value higher than 255 or a value lower than 1 will be capped at 255 and 1, respectively.
+
+Basic Strategy
+-ate Speed (Aerilate or Pixilate + Extreme Speed) is undoubtedly one of the most popular playstyles in Mix and Mega. Common users such as Altarianite Entei are some big metagame threats due to their high Attack stats and access to Pixilate- and STAB-boosted Extreme Speed.
+Other common threats are Metagrossite Kartana and Lucarionite Zygarde. Their high base Speed, setup moves, and high powered attacks allow them to put huge dents into almost any opposing team.
+
+Pokemon List:
+
+Arcanine
+Barraskewda
+Blissey
+Corviknight
+Dragapult
+Dragonite
+Entei
+Groudon
+Heatran
+Ho-Oh
+Kyurem
+Landorus-Therian
+Lunala
+Magearna
+Mew
+Milotic
+Regieleki
+Rhyperior
+Slowbro
+Solgaleo
+Spectrier
+Tapu Lele
+Toxapex
+Zapdos
+Zeraora
+Zygarde
+
+
+Generation: ss
+Format: Monotype
+
+Overview: Monotype is a format where all Pokemon on your team must share a common type. Both single- and dual-type Pokemon are allowed. For instance, Gengar is eligible for both mono-Ghost and mono-Poison teams.
+This metagame is run by a tiering council. It is a challengeable format on Pokemon Showdown, and you can discuss strategies in the Monotype room on the simulator or in the main thread on the forums.
+
+Description: Play Restrictions
+
+All standard OU tier clauses apply, plus:
+Same Type Clause: All Pokemon in a team must share a type.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Blaziken
+Calyrex-Ice
+Calyrex-Shadow
+Dialga
+Dracovish
+Eternatus
+Genesect
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Kartana
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus
+Lugia
+Lunala
+Magearna
+Marshadow
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Reshiram
+Solgaleo
+Urshifu
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zygarde
+
+Move Restrictions
+Players cannot use the following move:
+
+Baton Pass
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Power Construct
+Sand Veil
+Shadow Tag
+Snow Cloak
+
+Item Restrictions
+Players cannot use the following items:
+
+Bright Powder
+Damp Rock
+Focus Band
+King's Rock
+Lax Incense
+Quick Claw
+Smooth Rock
+Terrain Extender
+
+
+Pokemon List:
+
+Aegislash
+Alakazam
+Amoonguss
+Araquanid
+Arctozolt
+Avalugg
+Azumarill
+Barbaracle
+Barraskewda
+Bewear
+Bisharp
+Blacephalon
+Blissey
+Braviary
+Bronzong
+Buzzwole
+Celebi
+Celesteela
+Chansey
+Charizard
+Cinderace
+Clefable
+Cloyster
+Coalossal
+Cobalion
+Corsola-Galar
+Corviknight
+Cradily
+Crawdaunt
+Crobat
+Darmanitan-Galar
+Diggersby
+Ditto
+Dracozolt
+Dragalge
+Dragapult
+Dragonite
+Drapion
+Dugtrio
+Duraludon
+Durant
+Excadrill
+Ferrothorn
+Froslass
+Galvantula
+Garchomp
+Gardevoir
+Gastrodon
+Gengar
+Glastrier
+Golisopod
+Grimmsnarl
+Gyarados
+Hatterene
+Hawlucha
+Heatran
+Heliolisk
+Heracross
+Hippowdon
+Hydreigon
+Incineroar
+Indeedee
+Jellicent
+Jirachi
+Keldeo
+Kingdra
+Klefki
+Kommo-o
+Krookodile
+Kyurem
+Landorus-Therian
+Lanturn
+Latias
+Latios
+Lucario
+Lycanroc-Dusk
+Magnezone
+Mamoswine
+Mandibuzz
+Mantine
+Melmetal
+Mew
+Mimikyu
+Moltres-Galar
+Nidoking
+Nihilego
+Ninetales
+Ninetales-Alola
+Noivern
+Obstagoon
+Orbeetle
+Pelipper
+Piloswine
+Polteageist
+Porygon2
+Primarina
+Raichu-Alola
+Regieleki
+Reuniclus
+Ribombee
+Rillaboom
+Rotom-Heat
+Rotom-Mow
+Rotom-Wash
+Runerigus
+Sableye
+Salazzle
+Scizor
+Scolipede
+Seismitoad
+Shiftry
+Shuckle
+Skarmory
+Skuntank
+Slowbro
+Slowking
+Slowking-Galar
+Snorlax
+Spectrier
+Stakataka
+Steelix
+Suicune
+Swampert
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Terrakion
+Thundurus
+Thundurus-Therian
+Togekiss
+Torkoal
+Tornadus-Therian
+Toxapex
+Toxicroak
+Toxtricity
+Tyranitar
+Urshifu-Rapid-Strike
+Venusaur
+Victini
+Virizion
+Volcanion
+Volcarona
+Weavile
+Weezing-Galar
+Whimsicott
+Xatu
+Zapdos
+Zapdos-Galar
+Zarude
+Zeraora
+Zygarde-10%
+
+
+Generation: ss
+Format: National Dex AG
+
+Overview: 
+
+Description: Composition
+National Dex AG (Anything Goes) is a 6v6 singles metagame that has the fewest restrictions found in any of Smogon's formats. Every Pokemon from any tier is allowed, and because the Species Clause is lifted, you can have up to six of the same Pokemon on your team. Because National Dex AG is a National Dex metagame, all cut Pokemon from past generations, as well as cut moves, Z-Moves, Mega Pokemon, Primal Pokemon and more are legal.
+The metagame has a permanent ladder on Pokemon Showdown. You can discuss strategies with friends in the Anything Goes room on the simulator, the Anything Goes Discord, or in the main thread on the forums.
+Play Restrictions
+
+Endless Battle Clause: Players cannot intentionally prevent their opponent's Pokemon from fainting from PP depletion and Struggle recoil.
+
+
+Pokemon List:
+
+Arceus
+Arceus-Dark
+Arceus-Fairy
+Arceus-Ghost
+Arceus-Ground
+Arceus-Poison
+Arceus-Water
+Chansey
+Deoxys-Attack
+Deoxys-Speed
+Ditto
+Eternatus
+Excadrill
+Ferrothorn
+Gengar
+Giratina
+Gliscor
+Gothitelle
+Grimmsnarl
+Groudon
+Ho-Oh
+Kartana
+Kyogre
+Lugia
+Lunala
+Marshadow
+Mewtwo
+Necrozma-Dusk Mane
+Quagsire
+Rayquaza
+Sableye
+Shedinja
+Smeargle
+Tyranitar
+Vivillon
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: National Dex Monotype
+
+Overview: 
+
+Description: Composition
+National Dex Monotype is a variant of Monotype that mixes in the mechanics and validation of National Dex. In the case of a Pokemon that can Mega Evolve, both it and its Mega Evolution must share a type with the rest of the team. For example, Gyarados is a Water / Flying type. It may be used on mono-Water or mono-Flying teams. However, it may only hold Gyaradosite on a mono-Water team. This is because Mega Gyarados is a Water / Dark type, so it would not share a type with a mono-Flying team. By the same principle, regular Gyarados may not be used on a mono-Dark team even if it is holding Gyaradosite.
+This metagame is run by maroon, Mateeus, and a tiering council. It has a permanent ladder on Pokemon Showdown!, and you can discuss strategies in the National Dex Monotype room on the simulator, in the National Dex Monotype Discord, and the National Dex Monotype Forum.
+Play Restrictions
+All standard National Dex OU tier clauses apply, plus:
+
+Same Type Clause: All Pokemon in a team must share a type.
+
+Pokemon Restrictions
+
+Arceus (all formes)
+Blaziken
+Calyrex-Ice
+Calyrex-Shadow
+Darkrai
+Deoxys
+Deoxys-Attack
+Dialga
+Dracovish
+Dragapult
+Eternatus
+Genesect
+Giratina
+Giratina-Origin
+Greninja-Ash
+Groudon
+Ho-Oh
+Hoopa-Unbound
+Kartana
+Kyogre
+Kyurem-Black
+Kyurem-White
+Lugia
+Lunala
+Magearna
+Marshadow
+Mewtwo
+Moltres-Galar
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Reshiram
+Shaymin-Sky
+Solgaleo
+Spectrier
+Urshifu
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zygarde
+
+Move Restrictions
+
+Baton Pass
+
+Ability Restrictions
+
+Moody
+Power Construct
+Shadow Tag
+
+Item Restrictions
+
+Blastoisinite
+Bright Powder
+Damp Rock
+Focus Band
+Gengarite
+Kangaskhanite
+King's Rock
+Lax Incense
+Lucarionite
+Medichamite
+Metagrossite
+Mawilite
+Quick Claw
+Salamencite
+Smooth Rock
+Terrain Extender
+
+Resources
+The National Dex Monotype Forum contains various resources, such as a Metagame Discussion thread, Viability Ranking, Sample Teams, and Speed Tiers, to help players get in-tune with the National Dex Monotype metagame.
+The National Dex Mechanics thread helps newer players understand which mechanics are modified to help make National Dex work.
+
+Pokemon List:
+
+Aegislash
+Aerodactyl
+Altaria
+Araquanid
+Avalugg
+Azumarill
+Blacephalon
+Blissey
+Breloom
+Buzzwole
+Celebi
+Celesteela
+Charizard
+Cinderace
+Cloyster
+Cobalion
+Corsola-Galar
+Corviknight
+Crobat
+Darmanitan-Galar
+Deoxys-Speed
+Diancie
+Ditto
+Dragonite
+Excadrill
+Ferrothorn
+Gallade
+Garchomp
+Gastrodon
+Gengar
+Gliscor
+Greninja
+Heatran
+Hippowdon
+Hydreigon
+Jirachi
+Keldeo
+Klefki
+Kommo-o
+Kyurem
+Landorus
+Landorus-Therian
+Latias
+Latios
+Lopunny
+Mamoswine
+Mandibuzz
+Mimikyu
+Muk-Alola
+Nidoking
+Ninetales-Alola
+Pelipper
+Piloswine
+Pinsir
+Porygon2
+Porygon-Z
+Raichu-Alola
+Rillaboom
+Rotom-Wash
+Sableye
+Scizor
+Shuckle
+Slowbro
+Staraptor
+Steelix
+Swampert
+Tapu Bulu
+Tapu Koko
+Tapu Lele
+Terrakion
+Thundurus-Therian
+Torkoal
+Tornadus-Therian
+Toxapex
+Tyranitar
+Urshifu-Rapid-Strike
+Venusaur
+Victini
+Volcarona
+Weavile
+Whimsicott
+Zapdos
+Zarude
+Zeraora
+
+
+Generation: ss
+Format: National Dex RU
+
+Overview: 
+
+Description: 
+
+Pokemon List:
+
+Alomomola
+Ampharos
+Araquanid
+Arctozolt
+Articuno-Galar
+Azelf
+Barbaracle
+Barraskewda
+Bewear
+Bronzong
+Camerupt
+Celebi
+Chesnaught
+Cobalion
+Crobat
+Darmanitan
+Dhelmise
+Diancie
+Dragalge
+Empoleon
+Escavalier
+Feraligatr
+Florges
+Flygon
+Gardevoir
+Gastrodon
+Glalie
+Gligar
+Golisopod
+Golurk
+Goodra
+Guzzlord
+Heliolisk
+Hoopa
+Houndoom
+Incineroar
+Indeedee
+Jellicent
+Lanturn
+Lucario
+Machamp
+Magneton
+Marowak-Alola
+Medicham
+Meloetta
+Metagross
+Milotic
+Mimikyu
+Muk-Alola
+Nidoqueen
+Ninetales-Alola
+Noivern
+Obstagoon
+Pangoro
+Pincurchin
+Porygon2
+Raichu-Alola
+Raikou
+Regidrago
+Registeel
+Rhyperior
+Ribombee
+Roserade
+Rotom-Mow
+Salazzle
+Sceptile
+Seismitoad
+Sharpedo
+Shaymin
+Sneasel
+Snorlax
+Stakataka
+Starmie
+Steelix
+Suicune
+Sylveon
+Talonflame
+Tentacruel
+Togekiss
+Toxtricity
+Tsareena
+Tyrantrum
+Umbreon
+Vanilluxe
+Vaporeon
+Vileplume
+Virizion
+Volcanion
+Zarude
+Zygarde-10%
+
+
+Generation: ss
+Format: National Dex UU
+
+Overview: National Dex UU is the unofficial usage-based format below National Dex OU. As a result, it uses all of National Dex's mechanics.
+This metagame is led by Niadev and a council. The metagame has a permanent ladder on Pokemon Showdown!. You can discuss strategies with friends in the National Dex OMs room on the simulator, the National Dex discord, or in the main thread on the forums.
+
+Description: Play Restrictions
+
+National Dex UU uses all of National Dex's clauses and bans.
+
+Pokemon Restrictions
+The following Pokemon are National Dex OU by usage:
+
+Blissey
+Chansey
+Charizard-Mega-Y
+Charizard-Mega-X
+Clefable
+Corviknight
+Excadrill
+Ferrothorn
+Garchomp
+Garchomp-Mega
+Gliscor
+Greninja
+Greninja-Ash
+Heatran
+Kartana
+Kommo-o
+Kyurem
+Landorus-Therian
+Lopunny-Mega
+Magnezone
+Mawile-Mega
+Medicham-Mega
+Pelipper
+Rillaboom
+Scizor-Mega
+Serperior
+Slowbro
+Swampert-Mega
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Toxapex
+Tyranitar
+Tyranitar-Mega
+Victini
+Volcarona
+Weavile
+Zapdos
+
+The following Pokemon are banned from National Dex UU, even if they don't meet National Dex OU's usage threshold:
+
+Blacephalon
+Blaziken
+Gengar
+Gyarados
+Hawlucha
+Hoopa-Unbound
+Jirachi
+Latias
+Latios
+Manaphy
+Melmetal
+Mew
+Moltres-Galar
+Porygon-Z
+Slowking-Galar
+Thundurus
+Thundurus-Therian
+Xurkitree
+Zapdos-Galar
+
+Ability Restrictions
+In addition to the abilities banned by National Dex, players cannot use the following abilities:
+
+Drizzle
+Drought
+
+Item Restrictions
+In addition to the items banned by National Dex, players cannot use the following items:
+
+Aerodactylite
+Diancite
+Galladite
+Gardevoirite
+Gyaradosite
+Heracronite
+Latiasite
+Latiosite
+Pinsirite
+Sablenite
+Slowbronite
+Venusaurite
+Light Clay
+
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: National Dex
+
+Overview: National Dex is a unique format that strives to make Galar mechanics work with every single Pokemon, including those that have been cut from the Pokédex. This also means that cut moves, Z-Moves, Mega Pokemon, Primal Pokemon, and more are legal.
+This metagame is led by Kyo, ChrisPBacon and a council of experienced players. The metagame has a permanent ladder on Pokemon Showdown!. You can discuss strategies with friends in the National Dex room on the simulator, the National Dex discord, or in the main thread on the forums.
+
+Description: Play Restrictions
+
+Species Clause: Players cannot have more than one Pokemon with any National Pokédex number.
+Endless Battle Clause: Players cannot intentionally prevent their opponent's Pokemon from fainting from PP depletion and Struggle recoil.
+Sleep Clause Mod: Players can not induce sleep on more than one of the opponent's Pokemon at once.
+Evasion Clause: Moves that boost evasion like Minimize are banned.
+OHKO Clause: Moves that OHKO the foe (Fissure, Guillotine, Horn Drill, and Sheer Cold) are banned.
+Dynamax Clause: Players cannot Dynamax their Pokemon.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Arceus (all formes)
+Calyrex-Ice
+Calyrex-Shadow
+Cinderace
+Darkrai
+Darmanitan-Galar
+Deoxys
+Deoxys-Attack
+Deoxys-Speed
+Dialga
+Dracovish
+Dragapult
+Eternatus
+Genesect
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus
+Lugia
+Lunala
+Marshadow
+Magearna
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Rayquaza
+Reshiram
+Shaymin-Sky
+Solgaleo
+Spectrier
+Tornadus-Therian
+Urshifu (Single Strike forme)
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zekrom
+Zygarde
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Arena Trap
+Moody
+Power Construct
+Shadow Tag
+
+Item Restrictions
+Players cannot use the following items:
+
+Alakazite
+Blastoisinite
+Blazikenite
+Gengarite
+Kangaskhanite
+King's Rock
+Lucarionite
+Metagrossite
+Quick Claw
+Razor Fang
+Salamencite
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Aegislash
+Aerodactyl
+Alakazam
+Alomomola
+Altaria
+Amoonguss
+Arctozolt
+Azumarill
+Bisharp
+Blacephalon
+Blaziken
+Blissey
+Buzzwole
+Chansey
+Charizard
+Clefable
+Corviknight
+Crawdaunt
+Deoxys-Defense
+Diancie
+Ditto
+Dracozolt
+Excadrill
+Ferrothorn
+Gallade
+Garchomp
+Gardevoir
+Gastrodon
+Gengar
+Gliscor
+Greninja
+Grimmsnarl
+Gyarados
+Hawlucha
+Heatran
+Heracross
+Hippowdon
+Hoopa-Unbound
+Hydreigon
+Jirachi
+Kartana
+Keldeo
+Kommo-o
+Kyurem
+Landorus-Therian
+Latias
+Latios
+Lopunny
+Magnezone
+Manaphy
+Mantine
+Mawile
+Medicham
+Melmetal
+Mew
+Moltres
+Moltres-Galar
+Nihilego
+Ninetales-Alola
+Pelipper
+Pinsir
+Pyukumuku
+Reuniclus
+Rillaboom
+Rotom-Wash
+Sableye
+Scizor
+Serperior
+Shedinja
+Shuckle
+Skarmory
+Slowbro
+Slowbro-Galar
+Slowking
+Slowking-Galar
+Swampert
+Tangrowth
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Thundurus
+Thundurus-Therian
+Torkoal
+Toxapex
+Tyranitar
+Urshifu-Rapid-Strike
+Venusaur
+Victini
+Volcanion
+Volcarona
+Weavile
+Xurkitree
+Zapdos
+Zapdos-Galar
+Zarude
+Zeraora
+
+
+Generation: ss
+Format: NFE
+
+Overview: 
+
+Description: Composition
+NFE (Not Fully Evolved) is an Other Metagame in which the main premise is simple: only Pokemon that can evolve are allowed.
+Play Restrictions
+Players must abide by the following clauses:
+
+All standard OU tier clauses apply.
+Dynamax Clause: Pokemon cannot Dynamax.
+
+Pokemon Restrictions
+Players cannot use any Pokemon that is fully evolved or does not have an evolution. Additionally, the following Pokemon have been banned from NFE:
+
+Chansey
+Doublade
+Haunter
+Golbat
+Kadabra
+Magmar
+Magneton
+Mr. Mime-Galar
+Pawniard
+Pikachu
+Porygon2
+Rhydon
+Scyther
+Sneasel
+Type: Null
+Vulpix
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Arena Trap
+Shadow Tag
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+Resources
+The NFE Resources thread includes a Viability Ranking, Role Compendium, and a Speed Tier list.
+
+Pokemon List:
+
+Abra
+Charjabug
+Chinchou
+Clefairy
+Combusken
+Corsola-Galar
+Drakloak
+Drilbur
+Duosion
+Dusclops
+Dwebble
+Electabuzz
+Ferroseed
+Fletchinder
+Fraxure
+Gabite
+Gastly
+Gothorita
+Gurdurr
+Hakamo-o
+Hattrem
+Ivysaur
+Klang
+Koffing
+Krokorok
+Lairon
+Lampent
+Linoone-Galar
+Machoke
+Mareanie
+Marshtomp
+Metang
+Morgrem
+Munchlax
+Omanyte
+Palpitoad
+Piloswine
+Raboot
+Roselia
+Rufflet
+Slowpoke
+Swirlix
+Tangela
+Thwackey
+Togetic
+Torracat
+Vibrava
+Vullaby
+Wartortle
+Zweilous
+
+
+Generation: ss
+Format: NU
+
+Overview: NU (NeverUsed) is Smogon's fourth usage-based tier. All Pokemon that are not OU, UU, or RU by usage and are not banned to Ubers, UUBL, RUBL, or NUBL can be used in NU, including Pokemon from PU. While any of the aforementioned Pokemon can be used in NU, only those Pokemon that make up at least ~4.52% of total weighted usage in the tier are designated NU. A Pokemon is truly NU if a typical competitive player is more than 50% likely to encounter that Pokemon at least once in a given day of playing (15 battles).
+
+Description: Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, UUBL, UU, RUBL, RU, or NUBL.
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+
+The NU Forum
+Learn
+The Simple Questions, Simple Answers thread is a great place to ask any simple questions you might have relating to the NU metagame. Do not make new threads for questions that could be answered here.
+The SS NU Analyses forum is the place to go for writing analyses to be uploaded to the official Smogon Dex. You may reserve an analysis in the Index.
+Participate
+The SS NU Viability Rankings shows how well every NU-viable Pokemon fares in the NU tier.
+The SS NU Metagame Discussion thread allows players to discuss current trends in the NU metagame.
+You can help contribute to Smogon's social media pages by writing SS NU Pokemon Spotlights for the Facebook and Twitter pages.
+
+Pokemon List:
+
+Absol
+Aerodactyl
+Araquanid
+Arcanine
+Articuno-Galar
+Aurorus
+Braviary
+Copperajah
+Decidueye
+Dhelmise
+Diancie
+Doublade
+Drampa
+Drapion
+Druddigon
+Duraludon
+Eldegoss
+Escavalier
+Espeon
+Exeggutor-Alola
+Exploud
+Froslass
+Gallade
+Garbodor
+Gastrodon
+Gigalith
+Glastrier
+Golurk
+Grimmsnarl
+Guzzlord
+Heliolisk
+Hitmontop
+Inteleon
+Jellicent
+Kabutops
+Kingdra
+Lycanroc
+Magneton
+Mantine
+Mudsdale
+Ninjask
+Omastar
+Palossand
+Passimian
+Pincurchin
+Quagsire
+Regice
+Rhydon
+Rotom-Mow
+Sableye
+Salazzle
+Sandslash
+Sceptile
+Scrafty
+Scyther
+Silvally-Fairy
+Silvally-Ground
+Silvally-Steel
+Sneasel
+Snorlax
+Stakataka
+Starmie
+Stunfisk-Galar
+Sylveon
+Talonflame
+Tangela
+Tauros
+Togedemaru
+Toxicroak
+Tsareena
+Tyrantrum
+Vanilluxe
+Vaporeon
+Vileplume
+Virizion
+Weezing
+Xatu
+Zoroark
+
+
+Generation: ss
+Format: NUBL
+
+Overview: 
+
+Description: NUBL is the list of all Pokemon banned from NU.
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: OU
+
+Overview: OU (OverUsed) is Smogon's fundamental usage-based tier. With the exception of Pokemon banished to the Uber tier, every Pokemon can be used in OU, including Pokemon from UU, RU, NU, and PU. While all non-Uber Pokemon can be used in OU, only those Pokemon that make up at least ~4.52% of total weighted usage in the tier are designated OU. A Pokemon is truly OU if a typical competitive player is more than 50% likely to encounter that Pokemon at least once in a given day of playing (15 battles).
+Tiering
+Tiering for past generations of OU is handled by a council of the tier's high-level players.
+
+Description: Play Restrictions
+Players cannot use Pokemon from the Uber tier.
+Players cannot use Dynamax or Gigantamax.
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+
+Players cannot use the following abilities:
+
+Arena Trap
+Moody
+Power Construct
+Sand Veil
+Shadow Tag
+Snow Cloak
+
+Players cannot use the following items:
+
+Bright Powder
+King's Rock
+Lax Incense
+
+Players cannot use the following moves:
+
+Baton Pass
+
+
+Pokemon List:
+
+Aegislash
+Amoonguss
+Arctozolt
+Avalugg
+Azumarill
+Barraskewda
+Bisharp
+Blacephalon
+Blaziken
+Blissey
+Buzzwole
+Celesteela
+Charizard
+Clefable
+Cloyster
+Conkeldurr
+Corviknight
+Crawdaunt
+Cresselia
+Ditto
+Dracozolt
+Dragapult
+Dragonite
+Excadrill
+Ferrothorn
+Garchomp
+Gastrodon
+Gastrodon
+Gengar
+Glastrier
+Grimmsnarl
+Hatterene
+Hawlucha
+Haxorus
+Heatran
+Hippowdon
+Hydreigon
+Jirachi
+Kartana
+Keldeo
+Kingdra
+Kommo-o
+Landorus-Therian
+Latias
+Latios
+Magnezone
+Mamoswine
+Mandibuzz
+Marowak-Alola
+Melmetal
+Mew
+Moltres
+Moltres-Galar
+Nidoking
+Nihilego
+Ninetales-Alola
+Pelipper
+Polteageist
+Primarina
+Quagsire
+Regieleki
+Reuniclus
+Rillaboom
+Rotom-Heat
+Rotom-Wash
+Scizor
+Seismitoad
+Shedinja
+Shuckle
+Skarmory
+Slowbro
+Slowking
+Slowking-Galar
+Suicune
+Swampert
+Tangrowth
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Thundurus-Therian
+Togekiss
+Torkoal
+Tornadus-Therian
+Toxapex
+Toxtricity
+Tyranitar
+Urshifu-Rapid-Strike
+Venusaur
+Victini
+Volcanion
+Volcarona
+Weavile
+Xatu
+Zapdos
+Zapdos-Galar
+Zarude
+Zeraora
+
+
+Generation: ss
+Format: PU
+
+Overview: 
+
+Description: Composition
+PU is Smogon's fifth usage-based tier. All Pokemon that are not OU, UU, RU, or NU by usage and are not banned to Ubers, UUBL, RUBL, NUBL, or PUBL can be used in PU. While any of the aforementioned Pokemon can be used in PU, only those Pokemon that make up at least ~4.52% of total weighted usage in the tier are designated 'PU.' A Pokemon is truly PU if a typical competitive player is more than 50% likely to encounter that Pokemon at least once in a given day of playing (15 battles).
+Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, UUBL, UU, RUBL, RU, NUBL, NU, or PUBL.
+Players cannot use Dynamax or Gigantamax.
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+
+Players cannot use the following abilities:
+
+Arena Trap
+Drizzle
+Drought
+Power Construct
+Shadow Tag
+Slush Rush
+
+Players cannot use the following moves:
+
+Baton Pass
+
+Players cannot use the following items:
+
+King's Rock
+Light Clay
+
+The PU Forum
+Learn
+The PU Resources Thread comprises of helpful information for teambuilding, such as the Speed Tiers and Role Compendium lists, as well as Sample Teams in case you're not comfortable building your own team just yet.
+The PU Viability Rankings Thread is very useful for knowing how good a certain Pokemon is in the metagame.
+Participate
+The PU Analyses Subforum is the place where all SS PU analyses are being written. If you'd like to contribute, be sure to read the rules in the PU C&#x26;C Reservation List Thread before posting!
+The Pokemon Showdown! PU room and PU Discord server are great places to discuss and ask questions regarding the SS PU metagame.
+
+Pokemon List:
+
+Abomasnow
+Absol
+Accelgor
+Aggron
+Alcremie
+Altaria
+Archeops
+Arctovish
+Aromatisse
+Articuno
+Articuno-Galar
+Audino
+Aurorus
+Basculin
+Centiskorch
+Charizard
+Cinccino
+Claydol
+Clefairy
+Coalossal
+Comfey
+Ditto
+Doublade
+Druddigon
+Dugtrio-Alola
+Eldegoss
+Exeggutor
+Ferroseed
+Froslass
+Frosmoth
+Gallade
+Galvantula
+Garbodor
+Gigalith
+Glastrier
+Gourgeist-Small
+Gourgeist-Super
+Hattrem
+Haunter
+Hitmonlee
+Jellicent
+Jolteon
+Lanturn
+Lycanroc
+Magmortar
+Magneton
+Mareanie
+Mesprit
+Ninjask
+Perrserker
+Persian-Alola
+Poliwrath
+Pyukumuku
+Quagsire
+Qwilfish
+Regirock
+Rhydon
+Ribombee
+Rotom
+Runerigus
+Sableye
+Sandaconda
+Sandslash
+Sawk
+Shiftry
+Silvally-Fairy
+Silvally-Ghost
+Silvally-Grass
+Silvally-Poison
+Silvally-Steel
+Sneasel
+Stunfisk-Galar
+Swoobat
+Tangela
+Thievul
+Thwackey
+Togedemaru
+Trevenant
+Turtonator
+Uxie
+Vikavolt
+Weezing
+Whimsicott
+Wishiwashi
+
+
+Generation: ss
+Format: PUBL
+
+Overview: 
+
+Description: PUBL is the list of all Pokemon banned from PU.
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: RU
+
+Overview: RU (RarelyUsed) is Smogon's third usage-based tier. All Pokemon that are not OU or UU by usage and are not banned to Ubers, UUBL, or RUBL can be used in RU, including Pokemon from NU and PU. While any of the aforementioned Pokemon can be used in RU, only those Pokemon that make up at least ~4.52% of total weighted usage in the tier are designated 'RU.' A Pokemon is truly 'RU' if a typical competitive player is more than 50% likely to encounter that Pokemon at least once in a given day of playing (15 battles). In addition to its subforum and public room on Pokemon Showdown, RU also has a very active discord server.
+
+Description: Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, UUBL, UU, or RUBL.
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+
+Players cannot use the following items:
+
+Light Clay
+King's Rock
+
+
+Pokemon List:
+
+Abomasnow
+Aerodactyl
+Arctovish
+Aurorus
+Barbaracle
+Bewear
+Bronzong
+Celebi
+Chandelure
+Charizard
+Cloyster
+Cresselia
+Crobat
+Decidueye
+Dhelmise
+Diancie
+Ditto
+Doublade
+Dragalge
+Drapion
+Drednaw
+Entei
+Escavalier
+Flygon
+Froslass
+Gardevoir
+Gastrodon
+Gigalith
+Golisopod
+Golurk
+Goodra
+Guzzlord
+Heliolisk
+Heracross
+Incineroar
+Indeedee
+Jellicent
+Kabutops
+Kingdra
+Klefki
+Linoone
+Lucario
+Ludicolo
+Marowak-Alola
+Metagross
+Milotic
+Mimikyu
+Nidoqueen
+Ninetales
+Noivern
+Pangoro
+Politoed
+Polteageist
+Porygon2
+Porygon-Z
+Quagsire
+Raikou
+Regidrago
+Registeel
+Reuniclus
+Rhyperior
+Roserade
+Rotom-Mow
+Salazzle
+Sandslash-Alola
+Seismitoad
+Sharpedo
+Shiftry
+Sigilyph
+Slurpuff
+Snorlax
+Stakataka
+Starmie
+Steelix
+Suicune
+Talonflame
+Tentacruel
+Togekiss
+Tornadus
+Toxicroak
+Toxtricity
+Tsareena
+Tyrantrum
+Umbreon
+Vanilluxe
+Vaporeon
+Vileplume
+Weezing-Galar
+Xatu
+Xurkitree
+Zoroark
+
+
+Generation: ss
+Format: RUBL
+
+Overview: 
+
+Description: RUBL is the list of all Pokemon banned from RU.
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: STABmons
+
+Overview: 
+
+Description: Composition
+STABmons is an Other Metagame based on OU with one simple change: Pokemon now learn all moves that match their typing. Eevee, a Normal-type, has access to every Normal move in the game plus all the regular moves it learns naturally. This access to moves continues with evolution, so Sylveon, a Fairy-type Pokemon that evolves from Eevee, now learns all Fairy and Normal moves.
+This metagame is run by in the hills and a council. You can discuss strategies with friends in the Other Metas room on the simulator or in the main thread on the forums.
+Play Restrictions
+
+All standard OU clauses apply, plus:
+Sleep Moves Clause: All sleep-inducing status moves, including Yawn, are banned.
+Generation Jumping, or transferring moves from one generation to the next due to type changes, is allowed, unlike previous generations. However, it only works for moves that a Pokemon could've gotten in that generation. For example, Clefable can use any Normal-type move introduced in Generation 5 or prior, but it cannot use moves introduced Generation 6 or above, like Boomburst.
+A Pokemon must be able to learn its new moves outside of battle similar to learning a TM. This means that some formes don't transfer their types backward since they cannot learn TMs outside of battle. For example, Galarian Darmanitan-Z does not transfer all Fire-type moves to regular Galarian Darmanitan, and thus Galarian Darmanitan cannot use any Fire-type moves it doesn't already know.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Aegislash
+Blacephalon
+Calyrex-Ice
+Calyrex-Shadow
+Darmanitan-Galar
+Dialga
+Dracovish
+Dragapult
+Dragonite
+Eternatus
+Garchomp
+Genesect
+Giratina
+Giratina-Origin
+Groudon
+Ho-Oh
+Kartana
+Kyogre
+Kyurem-Black
+Kyurem-White
+Landorus
+Landorus-Therian
+Lugia
+Lunala
+Magearna
+Marshadow
+Mewtwo
+Naganadel
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Palkia
+Pheromosa
+Porygon-Z
+Rayquaza
+Reshiram
+Silvally (all formes)
+Solgaleo
+Spectrier
+Tapu Bulu
+Tapu Koko
+Tapu Lele
+Thundurus
+Urshifu
+Xerneas
+Yveltal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Zapdos-Galar
+Zekrom
+Zygarde
+
+Ability Restrictions
+Players cannot use the following abilities:
+
+Arena Trap
+Moody
+Magnet Pull
+Power Construct
+Shadow Tag
+
+Item Restrictions
+Players cannot use the following items:
+
+King's Rock
+
+Move Restrictions
+Players cannot use the following moves:
+
+Baton Pass
+
+Players may only use these moves on Pokemon that learn them naturally:
+
+Acupressure
+Astral Barrage
+Belly Drum
+Bolt Beak
+Clangorous Soul
+Double Iron Bash
+Electrify
+Extreme Speed
+Final Gambit
+Fishious Rend
+Geomancy
+Glacial Lance
+Oblivion Wing
+Precipice Blades
+Shell Smash
+Shift Gear
+Thousand Arrows
+Thunderous Kick
+V-create
+Wicked Blow
+
+Resources
+The STABmons thread includes Viability Rankings and a Role Compendium.
+Basic Strategy
+(incoming)
+
+Pokemon List:
+
+Aerodactyl
+Buzzwole
+Cinderace
+Clefable
+Cloyster
+Corviknight
+Dracozolt
+Excadrill
+Ferrothorn
+Gengar
+Gyarados
+Heatran
+Hippowdon
+Keldeo
+Kyurem
+Latios
+Mudsdale
+Nidoking
+Rotom-Heat
+Rotom-Wash
+Salamence
+Seismitoad
+Slowbro
+Slowking
+Terrakion
+Thundurus-Therian
+Tornadus-Therian
+Toxapex
+Tyranitar
+Urshifu-Rapid-Strike
+Weavile
+Zeraora
+
+
+Generation: ss
+Format: Tier Shift
+
+Overview: 
+
+Description: Composition
+Tier Shift is an Other Metagame where Pokemon gain boosts to all stats except HP depending on the tier that they're in. The stat boosts are as follows:
+
+OU/UUBL: +0
+UU/RUBL: +10
+RU/NUBL: +20
+NU/PUBL: +30
+PU/NFE/LC Uber/LC: +40
+
+This metagame is co-led by G-Luke and Akashi. It has a challenge option on Pokemon Showdown!. You can discuss strategies with friends in the Other Metas room on the simulator, the Other Metagames Discord, or in the main thread on the forums.
+Play Restrictions
+
+Tier Shift follows the standard OU clauses and banlist.
+
+Item Restrictions
+Players cannot use the following items:
+
+Eviolite
+Damp Rock
+Heat Rock
+
+Other Restrictions
+If a Pokemon has a stat that goes over 255 after being boosted, the stat gets capped at 255 to match the in-game stat cap.
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: Uber
+
+Overview: Ubers is the most inclusive of Smogon's tiers, aiming to allow the use of as many Pokemon as competitively possible. Ubers is not influenced by Pokemon usage in OU, UU, RU, NU, or PU and the usage of Pokemon in Ubers has no influence on the compositions of those tiers.
+
+Description: Play Restrictions
+Players must abide by the following clauses:
+
+
+Species Clause: A player cannot have two Pokemon with the same National Pokedex number on a team.
+
+
+Sleep Clause: If a player has already put a Pokemon on his/her opponent's side to sleep and it is still sleeping, another one can't be put to sleep.
+
+
+Evasion Clause: A Pokemon may not have either Double Team or Minimize in its moveset.
+
+
+OHKO Clause: A Pokemon may not have the moves Fissure, Guillotine, Horn Drill, or Sheer Cold in its moveset.
+
+
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+
+
+Dynamax Clause: Players cannot use Dynamax or Gigantamax.
+
+
+Players cannot use the following moves:
+
+Baton Pass
+
+Players cannot use the following Pokemon:
+
+Zacian
+Zacian-Crowned
+
+The Ubers Forum
+Learn
+The Ubers Forum Rules and General Information explain the subforum rules and give a guide to its numerous projects. A mandatory read for all prospective new users.
+The Ubers Simple Questions, Simple Answers thread is a great place to ask any simple questions you might have relating to the Ubers metagame. Do not make new threads for questions that could be answered here.
+We embrace our older generations and keep an Old Gens Hub regularly updated with information on mechanics, sample teams, and viability rankings for each prior generation.
+Useful information hubs related to our metagame include the Speed Tiers and our Teambuilding Compendium.
+Participate
+The SS Viability Rankings aims to give an objective look at the metagame's trends and power level of individual Pokemon.
+Our Metagame and Set Discussion thread is the ideal place to talk about the state of the current Ubers metagame.
+The Ubers Analyses forum is the place to go for writing analyses. You may reserve an analysis in the Index thread or comment on analyses that are in progress.
+
+Pokemon List:
+
+Aerodactyl
+Audino
+Blissey
+Buzzwole
+Calyrex-Ice
+Calyrex-Shadow
+Chansey
+Cinderace
+Clefable
+Cloyster
+Darmanitan-Galar
+Dialga
+Ditto
+Dracovish
+Dugtrio
+Eternatus
+Excadrill
+Ferrothorn
+Froslass
+Galvantula
+Garchomp
+Gastrodon
+Genesect
+Giratina
+Giratina-Origin
+Grimmsnarl
+Groudon
+Heatran
+Ho-Oh
+Hydreigon
+Kyogre
+Kyurem
+Kyurem-Black
+Kyurem-White
+Landorus
+Landorus-Therian
+Lugia
+Lunala
+Magearna
+Magnezone
+Marshadow
+Mew
+Mewtwo
+Naganadel
+Necrozma-Dusk Mane
+Obstagoon
+Palkia
+Pheromosa
+Porygon2
+Rayquaza
+Regieleki
+Reshiram
+Rotom-Wash
+Shedinja
+Shuckle
+Skarmory
+Slurpuff
+Solgaleo
+Spectrier
+Suicune
+Tangrowth
+Tapu Fini
+Thundurus-Therian
+Toxapex
+Tyranitar
+Urshifu
+Weavile
+Xatu
+Xerneas
+Yveltal
+Zamazenta
+Zamazenta-Crowned
+Zarude
+Zekrom
+Zygarde
+
+
+Generation: ss
+Format: UU
+
+Overview: UU (UnderUsed) is Smogon's second usage-based tier. All Pokemon that are not OU by usage and are not banned to Ubers or UUBL can be used in UU, including Pokemon from RU, NU, and PU. While any of the aforementioned Pokemon can be used in UU, only those Pokemon that make up at least ~4.52% of total weighted usage in the tier are designated 'UU.' A Pokemon is truly 'UU' if a typical competitive player is more than 50% likely to encounter that Pokemon at least once in a given day of playing (15 battles).
+
+Description: Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, or UUBL.
+Players must abide by the following clauses:
+
+Smogon-wide Clauses.
+
+Players cannot use the following items:
+
+Light Clay
+King's Rock
+
+The UU Forum
+Learn
+The UU Forum Guide - Resource Thread is an A-to-Z guide on how to use the UU subforum. UU is explained in greater detail here, along with all forms of resources, projects, and tournaments details.
+Participate
+(placeholder)
+
+Pokemon List:
+
+Amoonguss
+Articuno
+Azelf
+Azumarill
+Celesteela
+Chandelure
+Chansey
+Cloyster
+Cobalion
+Conkeldurr
+Crawdaunt
+Cresselia
+Crobat
+Darmanitan
+Dhelmise
+Diggersby
+Ditto
+Durant
+Entei
+Excadrill
+Flygon
+Froslass
+Gastrodon
+Golisopod
+Gyarados
+Hatterene
+Haxorus
+Heliolisk
+Hippowdon
+Hydreigon
+Jellicent
+Jirachi
+Keldeo
+Kingdra
+Krookodile
+Lanturn
+Lycanroc-Dusk
+Magneton
+Mamoswine
+Mandibuzz
+Mantine
+Marowak-Alola
+Moltres
+Necrozma
+Nidoking
+Nidoqueen
+Nihilego
+Noivern
+Obstagoon
+Politoed
+Porygon2
+Primarina
+Quagsire
+Raikou
+Registeel
+Reuniclus
+Rhyperior
+Ribombee
+Roserade
+Rotom-Heat
+Rotom-Wash
+Salamence
+Salazzle
+Scizor
+Scolipede
+Seismitoad
+Sigilyph
+Skarmory
+Slowbro-Galar
+Slowking
+Starmie
+Suicune
+Swampert
+Tangrowth
+Tapu Bulu
+Tentacruel
+Thundurus-Therian
+Togekiss
+Torkoal
+Tornadus
+Toxtricity
+Umbreon
+Vanilluxe
+Venusaur
+Zarude
+Zarude-Dada
+Zygarde-10%
+
+
+Generation: ss
+Format: UUBL
+
+Overview: 
+
+Description: UUBL is the list of all Pokemon banned from UU.
+
+Pokemon List:
+
+
+
+Generation: ss
+Format: VGC20
+
+Overview: 
+
+Description: Composition
+VGC is The Pokemon Company International's official tournament series. This Double Battle format has a fluctuating banlist and a different set of clauses than Smogon metagames. Most notably, it only allows you to select 4 out of your 6 Pokemon to send into battle.
+VGC2020 is run in various stages throughout the year with varying restrictions during each stage. Each stage will be summarized below.
+Play Restrictions
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 15-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+Pokemon Restrictions
+The following Pokemon are banned:
+
+Mewtwo
+Mew
+Lugia
+Ho-Oh
+Celebi
+Kyogre
+Groudon
+Rayquaza
+Jirachi
+Dialga
+Palkia
+Giratina
+Victini
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Keldeo
+Genesect
+Xerneas
+Yveltal
+Zygarde
+Diancie
+Volcanion
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Magearna
+Marshadow
+Zeraora
+Meltan
+Melmetal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Zarude
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+Series 2 Restrictions
+
+This series runs from January 4, 2020–February 29, 2020
+All Gigantamax Pokemon are banned, except:
+
+Butterfree-Gmax
+Centiskorch-Gmax
+Charizard-Gmax with Blaze
+Corviknight-Gmax
+Drednaw-Gmax
+Eevee-Gmax
+Meowth-Gmax
+Pikachu-Gmax
+Sandaconda-Gmax
+Snorlax-Gmax
+
+
+All Pokemon released with Pokemon HOME are banned.
+Slowpoke-Galar is banned.
+
+Series 3 Restrictions
+
+This series runs from March 1, 2020–April 30, 2020
+All Gigantamax Pokemon are banned, except for those legal in Series 2. In addition, the following Gigantamax Pokemon are legal:
+
+Alcremie-Gmax
+Appletun-Gmax
+Charizard-Gmax with Solar Power in addition to Blaze
+Coalossal-Gmax
+Flapple-Gmax
+Grimmsnarl-Gmax
+Hatterene-Gmax
+Kingler-Gmax
+Lapras-Gmax
+Orbeetle-Gmax
+Toxtricity-Gmax
+Toxtricity-Low-Key-Gmax
+
+
+The Pokemon released with Pokemon HOME are legal if they are able to be bred, caught, or otherwise obtained within the Galar region. This means that all Pokemon that are not already banned by Standard GBU, other than Raichu-Alola, Weezing, Cobalion, Terrakion, and Virizion, are legal.
+Slowpoke-Galar is legal.
+
+Series 4 Restrictions
+
+This series runs from May 1, 2020–June 30, 2020
+All Gigantamax Pokemon not on this list are legal:
+
+Blastoise-Gmax
+Cinderace-Gmax
+Inteleon-Gmax
+Rillaboom-Gmax
+Venusaur-Gmax
+
+
+All Pokemon that are not already banned by Standard GBU, other than Raichu-Alola, Weezing, Cobalion, Terrakion, and Virizion, are legal.
+All Pokemon released with the Isle of Armor DLC are banned, including Slowpoke-Galar.
+
+Series 5 Restrictions
+
+This series runs from July 1, 2020–August 31, 2020
+All Gigantamax Pokemon are legal.
+All Pokemon that are not already banned by Standard GBU are legal, including those released with the Isle of Armor DLC.
+
+Series 6 Restrictions
+
+This series runs from September 1, 2020–October 31, 2020
+On top of Pokemon that are banned by Standard GBU, the following Pokemon are banned:
+
+Cinderace
+Dragapult
+Excadrill
+Gyarados
+Hippowdon
+Incineroar
+Indeedee
+Indeedee-F
+Magnezone
+Mimikyu
+Porygon2
+Rillaboom
+Togekiss
+Torkoal
+Tyranitar
+Venusaur
+Whimsicott
+
+
+
+
+Pokemon List:
+
+Amoonguss
+Cinderace
+Coalossal
+Dragapult
+Dusclops
+Excadrill
+Hatterene
+Incineroar
+Indeedee-F
+Lapras
+Porygon2
+Primarina
+Rillaboom
+Rotom-Heat
+Rotom-Wash
+Togekiss
+Torkoal
+Tyranitar
+Urshifu
+Urshifu-Rapid-Strike
+Venusaur
+Whimsicott
+
+
+Generation: ss
+Format: VGC21
+
+Overview: 
+
+Description: Composition
+VGC is The Pokemon Company International's official tournament series. This Double Battle format has a fluctuating banlist and a different set of clauses than Smogon metagames. Most notably, it only allows you to select 4 out of your 6 Pokemon to send into battle.
+VGC 2021 is run in various stages throughout the year with varying restrictions during each stage. Each stage will be summarized below.
+Play Restrictions
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 20-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+Pokemon Restrictions
+The following Pokemon are banned:
+
+Mewtwo
+Mew
+Lugia
+Ho-Oh
+Celebi
+Kyogre
+Groudon
+Rayquaza
+Jirachi
+Dialga
+Palkia
+Giratina
+Victini
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Keldeo
+Genesect
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Diancie
+Volcanion
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Magearna
+Marshadow
+Zeraora
+Meltan
+Melmetal
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Zarude
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+Series 7 Restrictions
+
+This series runs from November 1, 2020–January 31, 2021
+All Pokemon are allowed except for those banned by official in-game Pokemon tournaments (listed above).
+
+Series 8 Restrictions
+
+This series runs from February 1, 2021–April 30, 2021
+In addition to Pokemon normally allowed, players may use one of the following Pokemon:
+
+Mewtwo
+Lugia
+Ho-Oh
+Kyogre
+Groudon
+Rayquaza
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+
+
+Series 9 Restrictions
+
+This series runs from May 1, 2021–July 31, 2021
+All Pokemon are allowed except for those banned by official in-game Pokemon tournaments (listed above).
+
+Series 10 Restrictions
+
+This series runs from August 1, 2021 to an unrevealed date.
+Pokemon are not allowed to Dynamax.
+In addition to Pokemon normally allowed, players may use one of the following Pokemon:
+
+Mewtwo
+Lugia
+Ho-Oh
+Kyogre
+Groudon
+Rayquaza
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+
+
+Series 11 Restrictions
+
+This series runs from November 1, 2021–January 31, 2022
+In addition to Pokemon normally allowed, players may use one of the following Pokemon:
+
+Mewtwo
+Lugia
+Ho-Oh
+Kyogre
+Groudon
+Rayquaza
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+
+
+
+Pokemon List:
+
+Amoonguss
+Blastoise
+Calyrex-Ice
+Calyrex-Shadow
+Charizard
+Coalossal
+Dragapult
+Grimmsnarl
+Groudon
+Incineroar
+Indeedee-F
+Kartana
+Kyogre
+Landorus-Therian
+Mimikyu
+Palkia
+Porygon2
+Regieleki
+Rillaboom
+Rotom-Heat
+Tapu Fini
+Thundurus
+Torkoal
+Tornadus
+Umbreon
+Urshifu
+Urshifu-Rapid-Strike
+Venusaur
+Whimsicott
+Yveltal
+Zacian-Crowned
+
+
+Generation: ss
+Format: VGC22 Series 13
+
+Overview: 
+
+Description: Composition
+VGC is The Pokemon Company International's official tournament series. This Double Battle format has a fluctuating banlist and a different set of clauses than Smogon metagames. Most notably, it only allows you to select 4 out of your 6 Pokemon to send into battle.
+Series 13 officially runs from August 1st, 2022, to October 31st, 2022. The defining mechanic of this ruleset is that all Pokemon available in Sword and Shield are legal for play.
+Play Restrictions
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 20-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+
+Pokemon List:
+
+Amoonguss
+Calyrex-Ice
+Calyrex-Shadow
+Grimmsnarl
+Groudon
+Ho-Oh
+Incineroar
+Kyogre
+Lunala
+Magearna
+Melmetal
+Necrozma-Dusk Mane
+Regieleki
+Venusaur
+Yveltal
+Zacian-Crowned
+Zekrom
+
+
+Generation: ss
+Format: VGC22
+
+Overview: 
+
+Description: Composition
+VGC is The Pokemon Company International's official tournament series. This Double Battle format has a fluctuating banlist and a different set of clauses than Smogon metagames. Most notably, it only allows you to select 4 out of your 6 Pokemon to send into battle.
+While VGC 21 was ran in various stages throughout the year with varying restrictions during each stage, VGC 2022 will use the same format from February 1st to August 31st, summarized below.
+Play Restrictions
+
+Item Clause: No two Pokemon may hold the same item.
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Galar-born or Battle Ready: Pokemon must be natively from the Galar Region, be it from being caught, bred, or otherwise obtained in Galar, or marked as battle-ready from an NPC.
+Level Limit: Pokemon above and below Lv. 50 are permitted, but will be auto-leveled to Lv. 50 during battle.
+Time Limit: Battles will have a 20-minute overall time limit, 7-minute player-specific time limit, 45-second move time limit, and a 90-second team preview.
+
+Pokemon Restrictions
+
+
+The following Pokemon are banned:
+
+Mew
+Celebi
+Jirachi
+Victini
+Keldeo
+Genesect
+Diancie
+Volcanion
+Magearna
+Marshadow
+Zeraora
+Meltan
+Melmetal
+Zarude
+
+
+
+In addition to Pokemon normally allowed, players may use up to two of the following Pokemon:
+
+Mewtwo
+Lugia
+Ho-Oh
+Kyogre
+Groudon
+Rayquaza
+Reshiram
+Zekrom
+Kyurem
+Kyurem-Black
+Kyurem-White
+Xerneas
+Yveltal
+Zygarde
+Zygarde-10%
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Necrozma-Dawn Wings
+Necrozma-Dusk Mane
+Zacian
+Zacian-Crowned
+Zamazenta
+Zamazenta-Crowned
+Eternatus
+Calyrex
+Calyrex-Ice
+Calyrex-Shadow
+
+
+
+
+Pokemon List:
+
+Amoonguss
+Calyrex-Ice
+Charizard
+Dialga
+Gastrodon
+Grimmsnarl
+Groudon
+Incineroar
+Kartana
+Kyogre
+Landorus-Therian
+Rillaboom
+Thundurus
+Tornadus
+Venusaur
+Whimsicott
+Yveltal
+Zacian-Crowned
+Zapdos
+
+
+Generation: ss
+Format: ZU
+
+Overview: 
+
+Description: Composition
+ZeroUsed (ZU) is an Other Metagame that forms the usage-based tier below PU, containing all untiered Pokemon, as well as those in NFE or LC, barring the few that are banned.
+The leader of this metagame is Corthius. You can discuss strategies with friends in the ZeroUsed room on the simulator, in the subforum, or in the ZeroUsed Discord.
+Play Restrictions
+
+All standard PU clauses apply.
+
+Pokemon Restrictions
+In addition to the Pokemon that are PU by usage, players cannot use the following Pokemon:
+
+Arctovish
+Aurorus
+Basculin
+Basculin-Blue-Striped
+Centiskorch
+Glastrier
+Haunter
+Magmortar
+Malamar
+Ninjask
+Perrserker
+Rotom-Frost
+Silvally-Dragon
+Sneasel
+Turtonator
+Vikavolt
+
+Players cannot use the following item:
+
+Damp Rock
+Grassy Seed
+
+The ZU Forum
+The SS ZU Information Hub contains the ZU forum's rules and serves as an announcement hub for tiering events and other news.
+The SS ZU Resource Hub provides users with helpful tools and acts as a directory for resources such as Speed Tiers, the Role Compendium, Team Dump thread, the Viability Rankings, and analyses information.
+
+Pokemon List:
+
+Abomasnow
+Accelgor
+Alcremie
+Altaria
+Appletun
+Articuno
+Beheeyem
+Bouffalant
+Butterfree
+Carracosta
+Clefairy
+Coalossal
+Cofagrigus
+Cramorant
+Crustle
+Cryogonal
+Ditto
+Drifblim
+Dugtrio-Alola
+Exeggutor
+Flapple
+Froslass
+Golbat
+Gourgeist-Small
+Gourgeist-Super
+Gurdurr
+Hattrem
+Ivysaur
+Jynx
+Kabutops
+Kangaskhan
+Klinklang
+Leafeon
+Liepard
+Lilligant
+Ludicolo
+Lunatone
+Lurantis
+Lycanroc-Midnight
+Manectric
+Miltank
+Morpeko
+Ninetales
+Palossand
+Pawniard
+Persian-Alola
+Piloswine
+Pincurchin
+Poliwrath
+Pyukumuku
+Qwilfish
+Raichu
+Rapidash
+Rapidash-Galar
+Rhydon
+Roselia
+Rotom
+Rotom-Fan
+Sableye
+Sawk
+Shedinja
+Shiftry
+Shiinotic
+Shuckle
+Silvally
+Silvally-Dark
+Silvally-Electric
+Silvally-Fighting
+Silvally-Flying
+Silvally-Grass
+Silvally-Poison
+Silvally-Psychic
+Silvally-Water
+Skuntank
+Spiritomb
+Stunfisk
+Stunfisk-Galar
+Swoobat
+Tangela
+Thievul
+Throh
+Thwackey
+Trevenant
+Type: Null
+Unfezant
+Uxie
+
+
+Generation: ss
+Format: ZUBL
+
+Overview: 
+
+Description: ZUBL is the list of all Pokemon banned from ZU.
+
+Pokemon List:
+
+
+

@@ -1,0 +1,1593 @@
+Generation: rb
+Format: 1v1
+
+Overview: 
+
+Description: Composition
+1v1 is an Unofficial Metagame where players choose a Pokemon that they believe is capable of defeating most—if not all—other Pokemon in a one-on-one situation. Players are allowed to bring a team of three Pokemon to the team preview but must select only one to battle with. So, while your team of three should be able to cover a wide variety of common threats, the Pokemon you send out must be able to beat any of your opponent's Pokemon, or at least the one you think they will use against you. The metagame is led by Elo Bandit and a council.
+You can discuss strategies with friends in the 1v1 room on the simulator or in the RBY Other Metas Hub on the forums.
+Play Restrictions
+
+Accuracy Moves Clause: Pokemon cannot use accuracy-lowering moves such as Sand Attack.
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Evasion Moves Clause: Players cannot use the moves Double Team or Minimize.
+Invulnerability Clause: A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+OHKO Clause: Players cannot use the moves Fissure, Guillotine, or Horn Drill.
+Sleep Moves Clause: Players cannot use the moves Hypnosis, Lovely Kiss, Sing, Sleep Powder, or Spore.
+Species Clause: A player cannot have two Pokemon with the same National Pokédex number on a team.
+
+Pokemon Restrictions
+Players cannot use any of the following Pokemon:
+
+Mew
+Mewtwo
+
+Move Restrictions
+In addition to the move-restricting clauses above, Pokemon may not have the following moves in their moveset:
+
+Bind
+Clamp
+Explosion
+Fire Spin
+Self-Destruct
+Wrap
+
+
+Pokemon List:
+
+Alakazam
+Articuno
+Chansey
+Cloyster
+Electabuzz
+Electrode
+Exeggutor
+Gengar
+Golduck
+Golem
+Hitmonlee
+Jolteon
+Jynx
+Lapras
+Machamp
+Moltres
+Persian
+Poliwrath
+Primeape
+Rhydon
+Slowbro
+Snorlax
+Starmie
+Tauros
+Venusaur
+Zapdos
+
+
+Generation: rb
+Format: LC Level 100
+
+Overview: 
+
+Description: Composition
+LC Level 100 (Little Cup Level 100) is an Other Metagame that serves as an alternative to standard LC. This format aims to avoid using Tradebacks, which means removing the level cap (and making Pokemon level 100), such that the metagame can be cartridge-legal. All, and only, unevolved Pokemon that are capable of evolution are eligible, which results in allowing Clefairy, a Pokemon that was formerly illegal in standard LC. The legality challenges surrounding obtaining level 5 Pokemon, including Clefairy, with competitive movesets in RBY have since been resolved without the need to introduce Tradebacks, meaning standard LC has established itself as the primary version of the Little Cup metagame.
+Play Restrictions
+
+All standard clauses from the OU tier apply.
+
+Resources
+The RBY Other Metas Megathread is a great way to get acquainted with the tier, featuring basic resources.
+
+Pokemon List:
+
+Abra
+Bellsprout
+Bulbasaur
+Charmander
+Clefairy
+Cubone
+Diglett
+Doduo
+Dratini
+Drowzee
+Eevee
+Ekans
+Exeggcute
+Gastly
+Geodude
+Goldeen
+Grimer
+Growlithe
+Horsea
+Jigglypuff
+Kabuto
+Koffing
+Krabby
+Machop
+Magnemite
+Mankey
+Meowth
+Nidoran-F
+Nidoran-M
+Oddish
+Omanyte
+Paras
+Pidgey
+Pikachu
+Poliwag
+Ponyta
+Psyduck
+Rattata
+Rhyhorn
+Sandshrew
+Seel
+Shellder
+Slowpoke
+Spearow
+Squirtle
+Staryu
+Tentacool
+Venonat
+Voltorb
+Vulpix
+Zubat
+
+
+Generation: rb
+Format: LC
+
+Overview: 
+
+Description: Composition
+LC (Little Cup) is a format in which players may only use Level 5 Pokemon that have not yet evolved but are capable of evolution.
+Due to the lack of breeding in RBY, certain glitches in RBY are allowed to give Pokemon access to their entire level up movepool, as well as permitting the otherwise unobtainable Level 5 Clefairy to be used. RBY moves only obtainable in GSC, such as Ice Punch Abra, are disallowed, as is written in Tradeback Clause.
+Play Restrictions
+Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle. In other words, heal up with Nurse Joy right before your battle if you're on cartridge; the simulators do this automatically.
+Invulnerability Clause - A Pokemon may not have the moves Dig or Fly in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed, with the exception of level-up moves already in the Pokemon's learnset.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+The moves Sonic Boom and Dragon Rage are banned due to their ability to OHKO almost everything and everything in the tier, respectively.
+The moves Wrap and Fire Spin are banned due to their increased potency at Level 5 and their overcentralizing effects on the metagame.
+
+
+Pokemon List:
+
+Abra
+Bellsprout
+Bulbasaur
+Caterpie
+Charmander
+Clefairy
+Cubone
+Diglett
+Doduo
+Dratini
+Drowzee
+Eevee
+Ekans
+Exeggcute
+Gastly
+Geodude
+Goldeen
+Grimer
+Growlithe
+Horsea
+Jigglypuff
+Kabuto
+Koffing
+Krabby
+Machop
+Magikarp
+Magnemite
+Mankey
+Meowth
+Nidoran-F
+Nidoran-M
+Oddish
+Omanyte
+Paras
+Pidgey
+Pikachu
+Poliwag
+Ponyta
+Psyduck
+Rattata
+Rhyhorn
+Sandshrew
+Seel
+Shellder
+Slowpoke
+Spearow
+Squirtle
+Staryu
+Tentacool
+Venonat
+Voltorb
+Vulpix
+Weedle
+Zubat
+
+
+Generation: rb
+Format: Middle Cup
+
+Overview: 
+
+Description: Composition
+Middle Cup is an Other Metagame not based on any particular tier, but rather formed as its own metagame. The idea of this metagame was that only Pokemon in the middle of an evolutionary line can be used, akin to Little Cup. This meant that Ivysaur may be used because it has a pre-evolution (Bulbasaur) and an evolution (Venusaur), but Shellder can't be used since it doesn't have any pre-evolutions, and Kangaskhan can't be used because it has neither. Because of this, in RBY, only the 16 NFE Pokemon can be used.
+Play Restrictions
+
+All standard clauses from the OU tier apply.
+Pokemon are set to level 50.
+
+Resources
+The RBY Other Metas Megathread is a great way to get acquainted with the tier, featuring basic resources.
+
+Pokemon List:
+
+Charmeleon
+Dragonair
+Gloom
+Graveler
+Haunter
+Ivysaur
+Kadabra
+Machoke
+Nidorina
+Nidorino
+Pidgeotto
+Poliwhirl
+Wartortle
+Weepinbell
+
+
+Generation: rb
+Format: NC 97 Rentals
+
+Overview: 
+
+Description: Composition
+NC Cup 97 Rentals is a twist on the take of Nintendo Cup 1997 that the Japanese version of Pokemon Stadium, Pocket Monsters Stadium 2, hosted. This only allows Pokemon from the game's selection of rentals for Nintendo Cup 1997 and Anything Goes. This means that each of the Pokemon below only have 4 possible moves to use. This forces many Pokemon to have less than optimal sets, and several unevolved Pokemon with better movesets to be far more viable than usual.
+This format can be played in either a 3v3 or 6v6 style, but the sets will remain the same. The international version of Pocket Monsters Stadium 2, Pokemon Stadium, has a completely different set of rentals. The format for that game can be found here.
+Pokemon Stadium has many different mechanics compared to the original RBY games, so reading this article is highly recommended.
+Clauses
+Players must abide by the following clauses:
+
+
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+
+
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+
+
+Level Limit - All rentals are level 50, including Dragonite.
+
+
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+
+Pokemon Restrictions
+Teams may not have the following Pokemon:
+
+Mewtwo
+Mew
+
+Participate
+The Pokemon Stadium Rental Metagames Hub is the best place to learn and experiment with the 9 rental metagames of RBY!
+
+Pokemon List:
+
+Alakazam
+Arbok
+Articuno
+Cloyster
+Dragonite
+Exeggutor
+Gengar
+Geodude
+Golem
+Graveler
+Haunter
+Jolteon
+Jynx
+Kadabra
+Meowth
+Moltres
+Persian
+Porygon
+Rapidash
+Rhydon
+Rhyhorn
+Snorlax
+Starmie
+Tauros
+Tentacruel
+
+
+Generation: rb
+Format: NFE
+
+Overview: 
+
+Description: Composition
+NFE (Not Fully Evolved) is an Other Metagame in which the main premise is simple: only Pokemon that can evolve are allowed.
+Play Restrictions
+
+All standard clauses from the OU tier apply.
+
+NFE Forum Resources
+The NFE Old Gens Hub is a great way to get acquainted with the tier, featuring sample teams and viability rankings.
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: Nintendo Cup 1997
+
+Overview: 
+
+Description: Composition
+Nintendo Cup 1997 is the first official tournament series founded by Nintendo, run in Japan. The metagame allows you to select 3 out of your 6 Pokemon to send into battle, with Pokemon between levels 50-55. The three Pokemon entered cannot have a combined level exceeding 155, leaving 5 levels to be distributed among the team. To be accurate to how it was originally played, this metagame is played with Japanese Red and Green and without Pokemon Yellow content.
+Clauses
+Players must abide by the following clauses:
+
+Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time.
+Level Limit - Pokemon must be between levels 50-55, and Pokemon brought into battle cannot have a combined level exceeding 155.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+Mods
+Our simulator has implemented these modifications:
+
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Pokemon Restrictions
+Teams may not have the following Pokemon:
+
+Mewtwo
+Mew
+
+Resources
+The Nintendo Cup 1997 Resource Hub features a look at the history of the format, as well as viability rankings and information on Japanese cartridge mechanics.
+Want to get straight into the tier? Look at the Sample Teams for a quick taster!
+
+Pokemon List:
+
+Alakazam
+Articuno
+Blastoise
+Chansey
+Charizard
+Clefable
+Cloyster
+Dewgong
+Dodrio
+Dragonite
+Dugtrio
+Electabuzz
+Electrode
+Exeggutor
+Flareon
+Gengar
+Golem
+Gyarados
+Hypno
+Jolteon
+Jynx
+Kangaskhan
+Lapras
+Magneton
+Marowak
+Moltres
+Mr. Mime
+Nidoking
+Nidoqueen
+Ninetales
+Omastar
+Onix
+Parasect
+Persian
+Poliwrath
+Raichu
+Rapidash
+Rhydon
+Sandslash
+Slowbro
+Snorlax
+Starmie
+Tangela
+Tauros
+Tentacruel
+Vaporeon
+Venomoth
+Venusaur
+Victreebel
+Zapdos
+
+
+Generation: rb
+Format: Nintendo Cup 1998
+
+Overview: 
+
+Description: Composition
+Nintendo Cup 1998 is the second official tournament series founded by Nintendo, run in Japan. The metagame allows you to select 3 out of your 6 Pokemon to send into battle. To be accurate to how it was originally played, this metagame is played with the first Japanese Pokemon Stadium game—colloquially referred to as "Stadium Zero"—without Pokemon Yellow content. This means that legal Pokemon are limited to those in the game.
+Clauses
+Players must abide by the following clauses:
+
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Pokemon must be between levels 1 and 30.
+
+Pokemon Restrictions
+Teams may only use the following Pokemon, which were the only ones available in the first Japanese Pokemon Stadium title;
+
+Beedrill
+Fearow
+Pikachu
+Nidoqueen
+Nidoking
+Dugtrio
+Primeape
+Arcanine
+Alakazam
+Machamp
+Golem
+Magneton
+Cloyster
+Gengar
+Onix
+Hypno
+Electrode
+Exeggutor
+Chansey
+Kangaskhan
+Starmie
+Scyther
+Jynx
+Pinsir
+Tauros
+Gyarados
+Lapras
+Ditto
+Vaporeon
+Jolteon
+Flareon
+Aerodactyl
+Snorlax
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: Nintendo Cup 1999
+
+Overview: 
+
+Description: Composition
+Nintendo Cup 1999 is the third official tournament series founded by Nintendo, run in Japan. The metagame allows you to select 3 out of your 6 Pokemon to send into battle. To be accurate to how it was originally played, this metagame is played in Pokemon Stadium. Pokemon that were used in the top 8 of the Nintendo Cup 1997 national tournament at Spaceworld 1997, as well as Mewtwo and Mew, cannot be used. This makes the format somewhat reminiscent of an UnderUsed tier.
+Clauses
+Players must abide by the following clauses:
+
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Pokemon must be between levels 1 and 50.
+
+Pokemon Restrictions
+Players cannot use the following Pokemon:
+
+Venusaur
+Dugtrio
+Alakazam
+Golem
+Magneton
+Gengar
+Hypno
+Electrode
+Exeggutor
+Chansey
+Kangaskhan
+Starmie
+Jynx
+Tauros
+Gyarados
+Lapras
+Ditto
+Vaporeon
+Jolteon
+Snorlax
+Articuno
+Zapdos
+Dragonite
+Mewtwo
+Mew
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+Blastoise
+Charizard
+Clefable
+Cloyster
+Dewgong
+Electabuzz
+Flareon
+Haunter
+Kadabra
+Moltres
+Mr. Mime
+Nidoking
+Nidoqueen
+Ninetales
+Omastar
+Persian
+Poliwrath
+Raichu
+Rapidash
+Rhydon
+Sandslash
+Slowbro
+Tentacruel
+Venomoth
+Victreebel
+
+
+Generation: rb
+Format: NU
+
+Overview: 
+
+Description: Composition
+NU (NeverUsed) is the second lower tier in RBY. All Pokemon that are not determined to be UU or higher by community consensus can be used in NU. Although NU was not officially supported by Smogon during the RBY generation, it is now regularly included alongside other past generation NU tiers.
+Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber, OU, UUBL, UU, and NUBL.
+
+The RBY Forum
+Learn
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Want to dive head-first into the tier? Pick up one of the RBY NU Sample Teams and get started!
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+Participate
+The RBY NU Viability Rankings &#x26; Discussion Thread is a good way to gauge how each NU-viable Pokemon fares in the tier, as well as discuss general metagame trends.
+
+Pokemon List:
+
+Abra
+Aerodactyl
+Arbok
+Arcanine
+Blastoise
+Charizard
+Dragonair
+Drowzee
+Exeggcute
+Fearow
+Gastly
+Golduck
+Kabutops
+Kingler
+Machamp
+Magneton
+Moltres
+Mr. Mime
+Nidoking
+Nidoqueen
+Pinsir
+Poliwhirl
+Poliwrath
+Porygon
+Primeape
+Rapidash
+Raticate
+Sandslash
+Scyther
+Seadra
+Slowpoke
+Venomoth
+Venusaur
+Wigglytuff
+
+
+Generation: rb
+Format: NUBL
+
+Overview: 
+
+Description: Composition
+NUBL (NeverUsed Banlist) is the banlist for NU and is, generally, not a playable tier. Pokemon on this list are too unbalanced for NU, but not consistent enough to be placed in UU.
+As the result of tier shifts, the banlist was removed in 2024 and all Pokemon on the list have since been moved to UU or have been made legal in NU.
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: OU
+
+Overview: OU (OverUsed) is Smogon's fundamental tier. With the exception of Pokemon banished to the Uber tier, every Pokemon can be used in OU, including Pokemon from UU, NU, PU, and ZU. A Pokemon is considered OU based on community consensus, and the list of Pokém is revised roughly annually.
+
+Description: Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber.
+
+
+Pokemon List:
+
+Alakazam
+Arbok
+Articuno
+Chansey
+Charizard
+Clefable
+Cloyster
+Dodrio
+Dragonair
+Dragonite
+Exeggutor
+Flareon
+Gengar
+Golem
+Gyarados
+Hypno
+Jolteon
+Jynx
+Kabutops
+Kangaskhan
+Kingler
+Lapras
+Lickitung
+Machamp
+Moltres
+Omastar
+Persian
+Pinsir
+Poliwrath
+Porygon
+Raichu
+Raticate
+Rhydon
+Sandslash
+Slowbro
+Snorlax
+Starmie
+Tauros
+Venusaur
+Victreebel
+Zapdos
+
+
+Generation: rb
+Format: Petit Cup
+
+Overview: 
+
+Description: Composition
+Petit Cup is an official metagame introduced in Pokemon Yellow's Cable Club Colosseum, but is most often known for its Pokemon Stadium appearance, which it is often played in. The metagame allows you to select 3 out of your 6 Pokemon to send into battle, with Pokemon between levels 25-30. The three Pokemon entered cannot have a combined level exceeding 80, leaving 5 levels to be distributed among the picked team. To be accurate to how it was originally played, tradebacks are normally banned.
+Clauses
+Players must abide by the following clauses:
+
+Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time.
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Level Limit - Pokemon must be between levels 25-30, and Pokemon brought into battle cannot have a combined level exceeding 80.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+Pokemon Restrictions
+Petit Cup has unusual criteria for what Pokemon qualifies; they must be unevolved, have a height no more than 2 m (6'07"), and a weight no more than 20 kg (44.1 lbs.). With these conditions in mind, the following 45 Pokemon can be used:
+
+Bulbasaur
+Charmander
+Squirtle
+Caterpie
+Weedle
+Pidgey
+Rattata
+Spearow
+Ekans
+Pikachu
+Sandshrew
+Nidoran-F
+Nidoran-M
+Clefairy
+Vulpix
+Jigglypuff
+Zubat
+Oddish
+Paras
+Diglett
+Meowth
+Psyduck
+Growlithe
+Poliwag
+Abra
+Machop
+Bellsprout
+Geodude
+Magnemite
+Farfetch'd
+Shellder
+Gastly
+Krabby
+Voltorb
+Exeggcute
+Cubone
+Koffing
+Horsea
+Goldeen
+Magikarp
+Ditto
+Eevee
+Omanyte
+Kabuto
+Dratini
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+Abra
+Bellsprout
+Bulbasaur
+Charmander
+Clefairy
+Cubone
+Diglett
+Dratini
+Ekans
+Exeggcute
+Farfetch'd
+Gastly
+Geodude
+Goldeen
+Growlithe
+Horsea
+Jigglypuff
+Kabuto
+Machop
+Meowth
+Nidoran-M
+Omanyte
+Pikachu
+Poliwag
+Psyduck
+Rattata
+Sandshrew
+Shellder
+Spearow
+Squirtle
+Voltorb
+Vulpix
+
+
+Generation: rb
+Format: Pika Cup
+
+Overview: 
+
+Description: Composition
+Pika Cup is an official metagame introduced in Pokemon Yellow's Cable Club Colosseum, but is most often known for its Pokemon Stadium appearance, which it is often played in. The metagame allows you to select 3 out of your 6 Pokemon to send into battle, with Pokemon between levels 15-20. The three Pokemon entered cannot have a combined level exceeding 50, leaving 5 levels to be distributed among the picked team. To be accurate to how it was originally played, tradebacks are normally banned.
+Clauses
+Players must abide by the following clauses:
+
+Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time.
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Level Limit - Pokemon must be between levels 15-20, and Pokemon brought into battle cannot have a combined level exceeding 50.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+Pokemon Restrictions
+Mew is banned. Additionally, the following Pokemon cannot be obtained below level 20 without tradebacks, and thus cannot be used;
+
+Venusaur
+Charizard
+Blastoise
+Pidgeot
+Arbok
+Sandslash
+Golbat
+Gloom
+Vileplume
+Venomoth
+Persian
+Primeape
+Machoke
+Weepinbell
+Victreebel
+Graveler
+Rapidash
+Magneton
+Dodrio
+Grimer
+Hypno
+Marowak
+Weezing
+Seaking
+Electabuzz
+Magmar
+Tauros
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Omastar
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dragonite
+
+The following Pokemon can be captured at a legal level through the Japanese version of Pokemon Blue, but otherwise cannot be used in international metagames;
+
+Golem
+Muk
+Kangaskhan
+
+The following Pokemon are available as rental Pokemon in Stadium, but otherwise cannot be captured by the player at a legal level;
+
+Ponyta
+Seel
+Koffing
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+Alakazam
+Arcanine
+Chansey
+Clefable
+Cloyster
+Dragonair
+Dugtrio
+Electrode
+Exeggutor
+Gengar
+Golem
+Gyarados
+Jynx
+Kadabra
+Kangaskhan
+Lapras
+Mr. Mime
+Muk
+Nidoking
+Ninetales
+Raichu
+Rhydon
+Slowbro
+Starmie
+Tangela
+Tentacruel
+
+
+Generation: rb
+Format: Poke Cup Rentals
+
+Overview: 
+
+Description: Composition
+Poké Cup Rentals is a twist on the International Pokemon Stadium's Poke Cup, only allowing Pokemon from the game's selection of rentals for Poké Cup and Anything Goes. This means that each of the Pokemon below only have 4 possible moves to use, and highly specific Stat Exp investments. This forces many Pokemon to have less than optimal sets, and several unevolved Pokemon with better movesets to be far more viable than usual.
+This format can be played in either a 3v3 or 6v6 style, but the sets will remain the same. The Japanese version of Pokemon Stadium, Pocket Monsters Stadium 2, has a completely different set of rentals. The format for that game can be found here.
+Pokemon Stadium has many different mechanics compared to the original RBY games, so reading this article is highly recommended.
+Clauses
+Players must abide by the following clauses:
+
+
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+
+
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+
+
+Level Limit - All rentals are level 50, including Dragonite.
+
+
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+
+Pokemon Restrictions
+Teams may not have the following Pokemon:
+
+Mewtwo
+Mew
+
+Participate
+The Pokemon Stadium Rental Metagames Hub is the best place to learn and experiment with the 9 rental metagames of RBY!
+
+Pokemon List:
+
+Abra
+Aerodactyl
+Alakazam
+Arbok
+Articuno
+Chansey
+Charizard
+Clefable
+Cloyster
+Dewgong
+Dodrio
+Dragonair
+Electabuzz
+Exeggutor
+Gengar
+Geodude
+Graveler
+Gyarados
+Haunter
+Ivysaur
+Jolteon
+Jynx
+Kabutops
+Kadabra
+Lapras
+Meowth
+Moltres
+Ninetales
+Omanyte
+Omastar
+Paras
+Persian
+Poliwhirl
+Poliwrath
+Rapidash
+Raticate
+Rhyhorn
+Snorlax
+Starmie
+Tangela
+Tauros
+Wartortle
+Zapdos
+
+
+Generation: rb
+Format: Poke Cup
+
+Overview: 
+
+Description: Composition
+Poké Cup is a port of Nintendo Cup 1997 for Pokemon Stadium. The metagame allows you to select 3 out of your 6 Pokemon to send into battle, with Pokemon between levels 50-55. The three Pokemon entered cannot have a combined level exceeding 155, leaving 5 levels to be distributed among the team. Because of the large changes in mechanics, being released after Pokemon Yellow, and ruling changes, the metagame is often treated as a separate entity. To be accurate how it was originally played, tradebacks are normally banned.
+Clauses
+Players must abide by the following clauses:
+
+Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time.
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Level Limit - Pokemon must be between levels 50-55, and Pokemon brought into battle cannot have a combined level exceeding 155.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+Pokemon Restrictions
+Teams may not have the following Pokemon:
+
+Mewtwo
+Mew
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: Prime Cup
+
+Overview: 
+
+Description: Composition
+Prime Cup is an official metagame introduced in Pokemon Stadium, acting as the title's "Uber" format. The metagame allows you to select 3 out of your 6 Pokemon to send into battle, with no restrictions on what can be used. To be accurate to how it was originally played, tradebacks are normally banned.
+Clauses
+Players must abide by the following clauses:
+
+Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time.
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+
+Participate
+The Stadium Cup Format Hub contains basic details on each metagame, you can discuss them here!
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: PU
+
+Overview: PU is the third lower tier in RBY. All Pokemon that are not determined to be NU or higher by community consensus can be used in PU. Although PU was not officially supported by Smogon during the RBY generation, it is now regularly included alongside other past generation PU tiers.
+
+Description: Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber, OU, UUBL, UU, NUBL, and NU.
+
+The RBY Forum
+Learn &#x26; Participate
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+The RBY PU Thread is your hub for all metagame resources and discussion.
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+
+Pokemon List:
+
+Abra
+Arbok
+Beedrill
+Butterfree
+Ditto
+Dragonair
+Drowzee
+Exeggcute
+Farfetch'd
+Flareon
+Gastly
+Golbat
+Golduck
+Graveler
+Hitmonchan
+Hitmonlee
+Horsea
+Kingler
+Lickitung
+Machamp
+Magmar
+Marowak
+Muk
+Nidoking
+Nidoqueen
+Omanyte
+Onix
+Parasect
+Pidgeot
+Pinsir
+Poliwag
+Porygon
+Primeape
+Rapidash
+Sandslash
+Scyther
+Seaking
+Slowpoke
+Staryu
+Venusaur
+Vileplume
+Weepinbell
+Weezing
+Wigglytuff
+
+
+Generation: rb
+Format: STABmons
+
+Overview: 
+
+Description: Composition
+STABmons is an Other Metagame based on OU with one simple change: Pokemon now learn all moves that match their typing. Eevee, a Normal-type, has access to every Normal move in the game plus all the regular moves it learns naturally. This access to moves continues with evolution, so Jolteon, an Electric-type Pokemon that evolves from Eevee, now learns all Electric and Normal moves.
+This metagame is led by in the hills and Volk. You can discuss strategies with friends in the Other Metas room on the simulator or in the main thread on the forums. The RBY Other Metas Hub also contains several resources.
+Play Restrictions
+
+All standard OU clauses apply.
+
+Move Restrictions
+Players may only use these moves on Pokemon that learn them naturally:
+
+Bind
+Clamp
+Hypnosis
+Lovely Kiss
+Sing
+Spore
+Wrap
+
+Resources
+The STABmons Old Gens Hub includes Viability Rankings and Sample Teams.
+
+Pokemon List:
+
+Aerodactyl
+Alakazam
+Chansey
+Clefable
+Cloyster
+Dodrio
+Dragonite
+Exeggutor
+Gengar
+Golem
+Gyarados
+Haunter
+Jolteon
+Jynx
+Kabutops
+Kangaskhan
+Omastar
+Persian
+Poliwrath
+Rhydon
+Snorlax
+Starmie
+Tauros
+Tentacruel
+Vaporeon
+Zapdos
+
+
+Generation: rb
+Format: Stadium OU
+
+Overview: 
+
+Description: Composition
+Stadium OU (Stadium OverUsed) is the RBY OU metagame played on Pokemon Stadium for the Nintendo 64. This game changes many RBY mechanics, such fixing bugs like the Semi-invulnerability glitch involving Fly and Dig. It also adds new ones, like allowing Substitute to block status moves such as Thunder Wave.
+Clauses
+Players must abide by the following clauses:
+
+Team Preview - Run innately in Stadium, teams are shown before a battle begins.
+Stadium Sleep Clause - A player cannot put two of their opponent's Pokemon to sleep at one time. Run innately by Stadium itself, only it also counts an opposing Pokemon using Rest as well. This doesn't affect its activation, so multiple Pokemon can be resting at one time.
+Freeze Clause - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. This is run innately in Stadium.
+Self-KO Clause - In the event a Pokemon KOes itself with Self-Destruct or Explosion and the use results in a tie, the user automatically loses.
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber.
+
+The RBY Forum
+Learn
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Want to dive head-first into the tier? Pick up one of the Stadium OU Sample Teams and get started!
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+Interested in what Stadium mechanics do for the OU tier? View the Beginner's Guide to Stadium OU for a brief introduction!
+Participate
+The Stadium OU Viability Rankings is a good way to gauge how each viable Pokemon fares in the tier.
+Discuss Stadium OU via the Stadium OU Hub on the forums!
+
+Pokemon List:
+
+Alakazam
+Articuno
+Chansey
+Cloyster
+Dragonite
+Exeggutor
+Flareon
+Gengar
+Golem
+Hypno
+Jolteon
+Jynx
+Kabutops
+Kangaskhan
+Kingler
+Lapras
+Moltres
+Nidoking
+Persian
+Porygon
+Raichu
+Rhydon
+Sandslash
+Slowbro
+Snorlax
+Starmie
+Tauros
+Victreebel
+Zapdos
+
+
+Generation: rb
+Format: Tradebacks OU
+
+Overview: 
+
+Description: Composition
+Tradebacks OU (Tradebacks OverUsed) is the RBY OU metagame with Tradeback Clause removed. As a result, all moves that can be learned through trading with GSC through the Time Capsule are legal, such as Lovely Kiss Snorlax and Thunder Punch Alakazam.
+Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber.
+
+The RBY Forum
+Learn
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Want to dive head-first into the tier? Pick up one of the Tradebacks OU Sample Teams and get started!
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+Interested in what Tradebacks do for the OU tier? View the Beginner's Guide to Tradebacks OU for a brief introduction!
+Participate
+The Tradebacks OU Discussion Thread is a good starting point for any Tradebacks OU player, featuring a role compendium, viability rankings, and more!
+
+Pokemon List:
+
+Aerodactyl
+Alakazam
+Articuno
+Chansey
+Clefable
+Cloyster
+Dragonite
+Electabuzz
+Exeggutor
+Gengar
+Golduck
+Golem
+Gyarados
+Hypno
+Jolteon
+Jynx
+Kingler
+Lapras
+Moltres
+Mr. Mime
+Nidoking
+Nidoqueen
+Persian
+Porygon
+Raichu
+Rapidash
+Rhydon
+Seaking
+Slowbro
+Snorlax
+Starmie
+Tauros
+Tentacruel
+Vaporeon
+Victreebel
+Zapdos
+
+
+Generation: rb
+Format: Uber
+
+Overview: Ubers is the most inclusive of Smogon's tiers, aiming to allow the use of as many Pokemon as competitively possible. Ubers is not influenced by Pokemon usage in OU, UU, RU, NU, PU, or ZU and the usage of Pokemon in Ubers has no influence on the compositions of those tiers.
+
+Description: Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+The RBY Forum
+Learn
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Want to dive head-first into the tier? Pick up one of the RBY Ubers Sample Teams and get started!
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+Participate
+The RBY Ubers Viability Rankings is a good way to gauge how each viable Pokemon fares in the tier.
+The RBY Ubers Discussion Thread is the perfect place to discuss current trends, share teams, and research the first Uber tier!
+
+Pokemon List:
+
+Aerodactyl
+Alakazam
+Articuno
+Chansey
+Cloyster
+Ditto
+Dragonite
+Electrode
+Exeggutor
+Gengar
+Golem
+Hypno
+Jolteon
+Jynx
+Lapras
+Mew
+Mewtwo
+Persian
+Rhydon
+Slowbro
+Snorlax
+Starmie
+Tauros
+Victreebel
+Zapdos
+
+
+Generation: rb
+Format: UU
+
+Overview: UU (UnderUsed) is the first lower tier in RBY. All Pokemon that are not determined to be OU or higher by community consensus can be used in UU. Although UU was not officially supported by Smogon during the RBY generation, it is now regularly included alongside other past generation UU tiers.
+
+Description: Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+APT Clause - A Pokemon may not have the move Agility alongside Wrap or Fire Spin in its moveset.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber, OU, and UUBL.
+
+The RBY Forum
+Learn
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Want to dive head-first into the tier? Pick up one of the RBY UU Sample Teams and get started!
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+Participate
+The RBY UU Viability Rankings is a good way to gauge how each UU-viable Pokemon fares in the tier.
+The RBY UU Discussion Thread is the perfect place to discuss current trends, share teams, and research UU!
+
+Pokemon List:
+
+Aerodactyl
+Arbok
+Arcanine
+Blastoise
+Charizard
+Clefable
+Dewgong
+Dodrio
+Dragonite
+Dugtrio
+Electabuzz
+Electrode
+Golduck
+Golem
+Gyarados
+Haunter
+Kabutops
+Kadabra
+Kangaskhan
+Magneton
+Moltres
+Nidoking
+Ninetales
+Omastar
+Persian
+Pinsir
+Poliwrath
+Porygon
+Raichu
+Rapidash
+Raticate
+Tangela
+Tentacruel
+Vaporeon
+Venusaur
+
+
+Generation: rb
+Format: UUBL
+
+Overview: 
+
+Description: Composition
+UUBL (UnderUsed Banlist) is the banlist for UU and not a playable tier. Originally determined by community consensus, UUBL was produced for Pokém that can be considered "Borderline Standard" (Standard being the old name for "OU"). These were Pokém usable in OU, but not standard. This UUBL was abolished by Hipmonlee in 2011.
+In 2022, UUBL was reinstated for Lapras and Slowbro, which were deemed too powerful for UU and banned by council vote. Slowbro has since returned to OU. Lapras was later made legal in UU, though it and Hypno were banned after a suspect test.
+
+Pokemon List:
+
+
+
+Generation: rb
+Format: ZU
+
+Overview: ZeroUsed (ZU) is an Other Metagame that forms the usage-based tier below PU. ZU was not officially supported by Smogon during the RBY generation and its metagame is now undergoing development.
+
+Description: Clauses
+Players must abide by the following clauses:
+
+Species Clause - A player cannot have two Pokemon with the same National Pokédex number on a team. For example, you cannot have 2 Koffing on your team.
+Evasion Clause - A Pokemon may not have the moves Double Team or Minimize in its moveset.
+OHKO Clause - A Pokemon may not have the moves Fissure, Guillotine, or Horn Drill in its moveset.
+Endless Battle Clause - In the event of an endless battle (such as only two Dittos remaining who can only transform forever, two Gengar forced to Struggle against each other, etc.), a draw is called.
+Cleric Clause - All Pokemon must have full HP and PP, and not have any status conditions prior to the battle.
+Invulnerability Clause - A Pokemon may not have the moves Fly or Dig in its moveset. This is due to a glitch where a Pokemon that becomes fully paralyzed while in a semi-invulnerable state (the second turn of the attack) will remain in that semi-invulnerable state until switching or using Fly or Dig again.
+Tradeback Clause - Tradeback moves from GSC are not allowed.
+
+Mods
+Our simulator has implemented these modifications:
+
+Sleep Clause Mod - No more than one Pokemon on each player's side may be sleeping as the direct result of an opponent's move. All effects of moves that would cause sleep are prevented from taking effect while Sleep Clause is active. For cartridge players, you lose if, at the end of your turn, two of your opponent's Pokemon were put to sleep by a move you used, but were not forced into, and neither have had their sleep removed since then.
+Freeze Clause Mod - A player cannot freeze two of their opponent's Pokemon at the same time. All effects of moves that would cause freeze are prevented from taking effect while Freeze Clause is active. For cartridge players, a player has the option of requesting a redo or playing it out in the case of receiving multiple freezes.
+Desync Clause Mod - If a move would cause a situation that leads to battles desynchronizing during a Link Battle on cartridge, the move will fail. For example, in the event Psywave would deal 0 damage on one side and 1 damage on the other, the move will fail.
+
+Restrictions
+The following are not allowed in the format:
+
+Banned Pokemon - A team cannot have any of the Pokemon found in the following tiers: Uber, OU, UUBL, UU, NUBL, NU, PU and ZUBL.
+
+The RBY Forum
+Learn &#x26; Participate
+The RBY Resource Hub is a boundless spreadsheet containing resources dating from modern-day all the way back to 1998.
+Have questions about RBY? Try the RBY Simple Questions Simple Answers Thread!
+The ZU Forum
+The RBY ZU Information Hub contains RBY ZU resources
+
+Pokemon List:
+
+Arbok
+Butterfree
+Charmeleon
+Diglett
+Dragonair
+Drowzee
+Flareon
+Golbat
+Hitmonchan
+Hitmonlee
+Horsea
+Kabuto
+Lickitung
+Machoke
+Magmar
+Marowak
+Muk
+Omanyte
+Onix
+Parasect
+Pidgeot
+Pikachu
+Poliwag
+Ponyta
+Primeape
+Rhyhorn
+Sandslash
+Scyther
+Slowpoke
+Tentacool
+Voltorb
+Wartortle
+Weepinbell
+Weezing
+
+
+Generation: rb
+Format: ZUBL
+
+Overview: 
+
+Description: ZUBL is the list of all Pokemon banned from ZU.
+
+Pokemon List:
+
+
+

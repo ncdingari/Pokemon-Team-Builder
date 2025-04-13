@@ -1,0 +1,2803 @@
+Generation: rb
+
+Pokemon List:
+
+Bulbasaur: #1
+Stats: hp: 45, atk: 49, def: 49, spa: 65, spd: 65, spe: 45
+Weight: 6.9, Height: 0.7
+Types: Grass, Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Ivysaur
+Alts: 
+
+Caterpie: #10
+Stats: hp: 45, atk: 30, def: 35, spa: 20, spd: 20, spe: 45
+Weight: 2.9, Height: 0.3
+Types: Bug
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Metapod
+Alts: 
+
+Voltorb: #100
+Stats: hp: 40, atk: 30, def: 50, spa: 55, spd: 55, spe: 100
+Weight: 10.4, Height: 0.5
+Types: Electric
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Electrode
+Alts: 
+
+Electrode: #101
+Stats: hp: 60, atk: 50, def: 70, spa: 80, spd: 80, spe: 140
+Weight: 66.6, Height: 1.2
+Types: Electric
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Exeggcute: #102
+Stats: hp: 60, atk: 40, def: 80, spa: 60, spd: 60, spe: 40
+Weight: 2.5, Height: 0.4
+Types: Grass, Psychic
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: Exeggutor
+Alts: 
+
+Exeggutor: #103
+Stats: hp: 95, atk: 95, def: 85, spa: 125, spd: 125, spe: 55
+Weight: 120, Height: 2
+Types: Grass, Psychic
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Cubone: #104
+Stats: hp: 50, atk: 50, def: 95, spa: 40, spd: 40, spe: 35
+Weight: 6.5, Height: 0.4
+Types: Ground
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Marowak
+Alts: 
+
+Marowak: #105
+Stats: hp: 60, atk: 80, def: 110, spa: 50, spd: 50, spe: 45
+Weight: 45, Height: 1
+Types: Ground
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Hitmonlee: #106
+Stats: hp: 50, atk: 120, def: 53, spa: 35, spd: 35, spe: 87
+Weight: 49.8, Height: 1.5
+Types: Fighting
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Hitmonchan: #107
+Stats: hp: 50, atk: 105, def: 79, spa: 35, spd: 35, spe: 76
+Weight: 50.2, Height: 1.4
+Types: Fighting
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Lickitung: #108
+Stats: hp: 90, atk: 55, def: 75, spa: 60, spd: 60, spe: 30
+Weight: 65.5, Height: 1.2
+Types: Normal
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Koffing: #109
+Stats: hp: 40, atk: 65, def: 95, spa: 60, spd: 60, spe: 35
+Weight: 1, Height: 0.6
+Types: Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Weezing
+Alts: 
+
+Metapod: #11
+Stats: hp: 50, atk: 20, def: 55, spa: 25, spd: 25, spe: 30
+Weight: 9.9, Height: 0.7
+Types: Bug
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Butterfree
+Alts: 
+
+Weezing: #110
+Stats: hp: 65, atk: 90, def: 120, spa: 85, spd: 85, spe: 60
+Weight: 9.5, Height: 1.2
+Types: Poison
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Rhyhorn: #111
+Stats: hp: 80, atk: 85, def: 95, spa: 30, spd: 30, spe: 25
+Weight: 115, Height: 1
+Types: Ground, Rock
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Rhydon
+Alts: 
+
+Rhydon: #112
+Stats: hp: 105, atk: 130, def: 120, spa: 45, spd: 45, spe: 40
+Weight: 120, Height: 1.9
+Types: Ground, Rock
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Chansey: #113
+Stats: hp: 250, atk: 5, def: 5, spa: 105, spd: 105, spe: 50
+Weight: 34.6, Height: 1.1
+Types: Normal
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Tangela: #114
+Stats: hp: 65, atk: 55, def: 115, spa: 100, spd: 100, spe: 60
+Weight: 35, Height: 1
+Types: Grass
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Kangaskhan: #115
+Stats: hp: 105, atk: 95, def: 80, spa: 40, spd: 40, spe: 90
+Weight: 80, Height: 2.2
+Types: Normal
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Horsea: #116
+Stats: hp: 30, atk: 40, def: 70, spa: 70, spd: 70, spe: 60
+Weight: 8, Height: 0.4
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Seadra
+Alts: 
+
+Seadra: #117
+Stats: hp: 55, atk: 65, def: 95, spa: 95, spd: 95, spe: 85
+Weight: 25, Height: 1.2
+Types: Water
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Goldeen: #118
+Stats: hp: 45, atk: 67, def: 60, spa: 50, spd: 50, spe: 63
+Weight: 15, Height: 0.6
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Seaking
+Alts: 
+
+Seaking: #119
+Stats: hp: 80, atk: 92, def: 65, spa: 80, spd: 80, spe: 68
+Weight: 39, Height: 1.3
+Types: Water
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Butterfree: #12
+Stats: hp: 60, atk: 45, def: 50, spa: 80, spd: 80, spe: 70
+Weight: 32, Height: 1.1
+Types: Bug, Flying
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Staryu: #120
+Stats: hp: 30, atk: 45, def: 55, spa: 70, spd: 70, spe: 85
+Weight: 34.5, Height: 0.8
+Types: Water
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: Starmie
+Alts: 
+
+Starmie: #121
+Stats: hp: 60, atk: 75, def: 85, spa: 100, spd: 100, spe: 115
+Weight: 80, Height: 1.1
+Types: Water, Psychic
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Mr. Mime: #122
+Stats: hp: 40, atk: 45, def: 65, spa: 100, spd: 100, spe: 90
+Weight: 54.5, Height: 1.3
+Types: Psychic
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Scyther: #123
+Stats: hp: 70, atk: 110, def: 80, spa: 55, spd: 55, spe: 105
+Weight: 56, Height: 1.5
+Types: Bug, Flying
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Jynx: #124
+Stats: hp: 65, atk: 50, def: 35, spa: 95, spd: 95, spe: 95
+Weight: 40.6, Height: 1.4
+Types: Ice, Psychic
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Electabuzz: #125
+Stats: hp: 65, atk: 83, def: 57, spa: 85, spd: 85, spe: 105
+Weight: 30, Height: 1.1
+Types: Electric
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Magmar: #126
+Stats: hp: 65, atk: 95, def: 57, spa: 85, spd: 85, spe: 93
+Weight: 44.5, Height: 1.3
+Types: Fire
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Pinsir: #127
+Stats: hp: 65, atk: 125, def: 100, spa: 55, spd: 55, spe: 85
+Weight: 55, Height: 1.5
+Types: Bug
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Tauros: #128
+Stats: hp: 75, atk: 100, def: 95, spa: 70, spd: 70, spe: 110
+Weight: 88.4, Height: 1.4
+Types: Normal
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Magikarp: #129
+Stats: hp: 20, atk: 10, def: 55, spa: 20, spd: 20, spe: 80
+Weight: 10, Height: 0.9
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Gyarados
+Alts: 
+
+Weedle: #13
+Stats: hp: 40, atk: 35, def: 30, spa: 20, spd: 20, spe: 50
+Weight: 3.2, Height: 0.3
+Types: Bug, Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Kakuna
+Alts: 
+
+Gyarados: #130
+Stats: hp: 95, atk: 125, def: 79, spa: 100, spd: 100, spe: 81
+Weight: 235, Height: 6.5
+Types: Water, Flying
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Lapras: #131
+Stats: hp: 130, atk: 85, def: 80, spa: 95, spd: 95, spe: 60
+Weight: 220, Height: 2.5
+Types: Water, Ice
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Ditto: #132
+Stats: hp: 48, atk: 48, def: 48, spa: 48, spd: 48, spe: 48
+Weight: 4, Height: 0.3
+Types: Normal
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Eevee: #133
+Stats: hp: 55, atk: 55, def: 50, spa: 65, spd: 65, spe: 55
+Weight: 6.5, Height: 0.3
+Types: Normal
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Flareon, Jolteon, Vaporeon
+Alts: 
+
+Vaporeon: #134
+Stats: hp: 130, atk: 65, def: 60, spa: 110, spd: 110, spe: 65
+Weight: 29, Height: 1
+Types: Water
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Jolteon: #135
+Stats: hp: 65, atk: 65, def: 60, spa: 110, spd: 110, spe: 130
+Weight: 24.5, Height: 0.8
+Types: Electric
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Flareon: #136
+Stats: hp: 65, atk: 130, def: 60, spa: 110, spd: 110, spe: 65
+Weight: 25, Height: 0.9
+Types: Fire
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Porygon: #137
+Stats: hp: 65, atk: 60, def: 70, spa: 75, spd: 75, spe: 40
+Weight: 36.5, Height: 0.8
+Types: Normal
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Omanyte: #138
+Stats: hp: 35, atk: 40, def: 100, spa: 90, spd: 90, spe: 35
+Weight: 7.5, Height: 0.4
+Types: Rock, Water
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Omastar
+Alts: 
+
+Omastar: #139
+Stats: hp: 70, atk: 60, def: 125, spa: 115, spd: 115, spe: 55
+Weight: 35, Height: 1
+Types: Rock, Water
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Kakuna: #14
+Stats: hp: 45, atk: 25, def: 50, spa: 25, spd: 25, spe: 35
+Weight: 10, Height: 0.6
+Types: Bug, Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Beedrill
+Alts: 
+
+Kabuto: #140
+Stats: hp: 30, atk: 80, def: 90, spa: 45, spd: 45, spe: 55
+Weight: 11.5, Height: 0.5
+Types: Rock, Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Kabutops
+Alts: 
+
+Kabutops: #141
+Stats: hp: 60, atk: 115, def: 105, spa: 70, spd: 70, spe: 80
+Weight: 40.5, Height: 1.3
+Types: Rock, Water
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Aerodactyl: #142
+Stats: hp: 80, atk: 105, def: 65, spa: 60, spd: 60, spe: 130
+Weight: 59, Height: 1.8
+Types: Rock, Flying
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Snorlax: #143
+Stats: hp: 160, atk: 110, def: 65, spa: 65, spd: 65, spe: 30
+Weight: 460, Height: 2.1
+Types: Normal
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Articuno: #144
+Stats: hp: 90, atk: 85, def: 100, spa: 125, spd: 125, spe: 85
+Weight: 55.4, Height: 1.7
+Types: Ice, Flying
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Zapdos: #145
+Stats: hp: 90, atk: 90, def: 85, spa: 125, spd: 125, spe: 100
+Weight: 52.6, Height: 1.6
+Types: Electric, Flying
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Moltres: #146
+Stats: hp: 90, atk: 100, def: 90, spa: 125, spd: 125, spe: 90
+Weight: 60, Height: 2
+Types: Fire, Flying
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Dratini: #147
+Stats: hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50
+Weight: 3.3, Height: 1.8
+Types: Dragon
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Dragonair
+Alts: 
+
+Dragonair: #148
+Stats: hp: 61, atk: 84, def: 65, spa: 70, spd: 70, spe: 70
+Weight: 16.5, Height: 4
+Types: Dragon
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Dragonite
+Alts: 
+
+Dragonite: #149
+Stats: hp: 91, atk: 134, def: 95, spa: 100, spd: 100, spe: 80
+Weight: 210, Height: 2.2
+Types: Dragon, Flying
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Beedrill: #15
+Stats: hp: 65, atk: 80, def: 40, spa: 45, spd: 45, spe: 75
+Weight: 29.5, Height: 1
+Types: Bug, Poison
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Mewtwo: #150
+Stats: hp: 106, atk: 110, def: 90, spa: 154, spd: 154, spe: 130
+Weight: 122, Height: 2
+Types: Psychic
+Abilities: 
+Formats: Uber
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Mew: #151
+Stats: hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100
+Weight: 4, Height: 0.4
+Types: Psychic
+Abilities: 
+Formats: Uber
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Pidgey: #16
+Stats: hp: 40, atk: 45, def: 40, spa: 35, spd: 35, spe: 56
+Weight: 1.8, Height: 0.3
+Types: Normal, Flying
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Pidgeotto
+Alts: 
+
+Pidgeotto: #17
+Stats: hp: 63, atk: 60, def: 55, spa: 50, spd: 50, spe: 71
+Weight: 30, Height: 1.1
+Types: Normal, Flying
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Pidgeot
+Alts: 
+
+Pidgeot: #18
+Stats: hp: 83, atk: 80, def: 75, spa: 70, spd: 70, spe: 91
+Weight: 39.5, Height: 1.5
+Types: Normal, Flying
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Rattata: #19
+Stats: hp: 30, atk: 56, def: 35, spa: 25, spd: 25, spe: 72
+Weight: 3.5, Height: 0.3
+Types: Normal
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Raticate
+Alts: 
+
+Ivysaur: #2
+Stats: hp: 60, atk: 62, def: 63, spa: 80, spd: 80, spe: 60
+Weight: 13, Height: 1
+Types: Grass, Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Venusaur
+Alts: 
+
+Raticate: #20
+Stats: hp: 55, atk: 81, def: 60, spa: 50, spd: 50, spe: 97
+Weight: 18.5, Height: 0.7
+Types: Normal
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Spearow: #21
+Stats: hp: 40, atk: 60, def: 30, spa: 31, spd: 31, spe: 70
+Weight: 2, Height: 0.3
+Types: Normal, Flying
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Fearow
+Alts: 
+
+Fearow: #22
+Stats: hp: 65, atk: 90, def: 65, spa: 61, spd: 61, spe: 100
+Weight: 38, Height: 1.2
+Types: Normal, Flying
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Ekans: #23
+Stats: hp: 35, atk: 60, def: 44, spa: 40, spd: 40, spe: 55
+Weight: 6.9, Height: 2
+Types: Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Arbok
+Alts: 
+
+Arbok: #24
+Stats: hp: 60, atk: 85, def: 69, spa: 65, spd: 65, spe: 80
+Weight: 65, Height: 3.5
+Types: Poison
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Pikachu: #25
+Stats: hp: 35, atk: 55, def: 30, spa: 50, spd: 50, spe: 90
+Weight: 6, Height: 0.4
+Types: Electric
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Raichu
+Alts: 
+
+Raichu: #26
+Stats: hp: 60, atk: 90, def: 55, spa: 90, spd: 90, spe: 100
+Weight: 30, Height: 0.8
+Types: Electric
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Sandshrew: #27
+Stats: hp: 50, atk: 75, def: 85, spa: 30, spd: 30, spe: 40
+Weight: 12, Height: 0.6
+Types: Ground
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Sandslash
+Alts: 
+
+Sandslash: #28
+Stats: hp: 75, atk: 100, def: 110, spa: 55, spd: 55, spe: 65
+Weight: 29.5, Height: 1
+Types: Ground
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Nidoran-F: #29
+Stats: hp: 55, atk: 47, def: 52, spa: 40, spd: 40, spe: 41
+Weight: 7, Height: 0.4
+Types: Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Nidorina
+Alts: 
+
+Venusaur: #3
+Stats: hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80
+Weight: 100, Height: 2
+Types: Grass, Poison
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Nidorina: #30
+Stats: hp: 70, atk: 62, def: 67, spa: 55, spd: 55, spe: 56
+Weight: 20, Height: 0.8
+Types: Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Nidoqueen
+Alts: 
+
+Nidoqueen: #31
+Stats: hp: 90, atk: 82, def: 87, spa: 75, spd: 75, spe: 76
+Weight: 60, Height: 1.3
+Types: Poison, Ground
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Nidoran-M: #32
+Stats: hp: 46, atk: 57, def: 40, spa: 40, spd: 40, spe: 50
+Weight: 9, Height: 0.5
+Types: Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Nidorino
+Alts: 
+
+Nidorino: #33
+Stats: hp: 61, atk: 72, def: 57, spa: 55, spd: 55, spe: 65
+Weight: 19.5, Height: 0.9
+Types: Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Nidoking
+Alts: 
+
+Nidoking: #34
+Stats: hp: 81, atk: 92, def: 77, spa: 75, spd: 75, spe: 85
+Weight: 62, Height: 1.4
+Types: Poison, Ground
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Clefairy: #35
+Stats: hp: 70, atk: 45, def: 48, spa: 60, spd: 60, spe: 35
+Weight: 7.5, Height: 0.6
+Types: Normal
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Clefable
+Alts: 
+
+Clefable: #36
+Stats: hp: 95, atk: 70, def: 73, spa: 85, spd: 85, spe: 60
+Weight: 40, Height: 1.3
+Types: Normal
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Vulpix: #37
+Stats: hp: 38, atk: 41, def: 40, spa: 65, spd: 65, spe: 65
+Weight: 9.9, Height: 0.6
+Types: Fire
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Ninetales
+Alts: 
+
+Ninetales: #38
+Stats: hp: 73, atk: 76, def: 75, spa: 100, spd: 100, spe: 100
+Weight: 19.9, Height: 1.1
+Types: Fire
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Jigglypuff: #39
+Stats: hp: 115, atk: 45, def: 20, spa: 25, spd: 25, spe: 20
+Weight: 5.5, Height: 0.5
+Types: Normal
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Wigglytuff
+Alts: 
+
+Charmander: #4
+Stats: hp: 39, atk: 52, def: 43, spa: 50, spd: 50, spe: 65
+Weight: 8.5, Height: 0.6
+Types: Fire
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Charmeleon
+Alts: 
+
+Wigglytuff: #40
+Stats: hp: 140, atk: 70, def: 45, spa: 50, spd: 50, spe: 45
+Weight: 12, Height: 1
+Types: Normal
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Zubat: #41
+Stats: hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 55
+Weight: 7.5, Height: 0.8
+Types: Poison, Flying
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Golbat
+Alts: 
+
+Golbat: #42
+Stats: hp: 75, atk: 80, def: 70, spa: 75, spd: 75, spe: 90
+Weight: 55, Height: 1.6
+Types: Poison, Flying
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Oddish: #43
+Stats: hp: 45, atk: 50, def: 55, spa: 75, spd: 75, spe: 30
+Weight: 5.4, Height: 0.5
+Types: Grass, Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Gloom
+Alts: 
+
+Gloom: #44
+Stats: hp: 60, atk: 65, def: 70, spa: 85, spd: 85, spe: 40
+Weight: 8.6, Height: 0.8
+Types: Grass, Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Vileplume
+Alts: 
+
+Vileplume: #45
+Stats: hp: 75, atk: 80, def: 85, spa: 100, spd: 100, spe: 50
+Weight: 18.6, Height: 1.2
+Types: Grass, Poison
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Paras: #46
+Stats: hp: 35, atk: 70, def: 55, spa: 55, spd: 55, spe: 25
+Weight: 5.4, Height: 0.3
+Types: Bug, Grass
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Parasect
+Alts: 
+
+Parasect: #47
+Stats: hp: 60, atk: 95, def: 80, spa: 80, spd: 80, spe: 30
+Weight: 29.5, Height: 1
+Types: Bug, Grass
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Venonat: #48
+Stats: hp: 60, atk: 55, def: 50, spa: 40, spd: 40, spe: 45
+Weight: 30, Height: 1
+Types: Bug, Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Venomoth
+Alts: 
+
+Venomoth: #49
+Stats: hp: 70, atk: 65, def: 60, spa: 90, spd: 90, spe: 90
+Weight: 12.5, Height: 1.5
+Types: Bug, Poison
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Charmeleon: #5
+Stats: hp: 58, atk: 64, def: 58, spa: 65, spd: 65, spe: 80
+Weight: 19, Height: 1.1
+Types: Fire
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Charizard
+Alts: 
+
+Diglett: #50
+Stats: hp: 10, atk: 55, def: 25, spa: 45, spd: 45, spe: 95
+Weight: 0.8, Height: 0.2
+Types: Ground
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Dugtrio
+Alts: 
+
+Dugtrio: #51
+Stats: hp: 35, atk: 80, def: 50, spa: 70, spd: 70, spe: 120
+Weight: 33.3, Height: 0.7
+Types: Ground
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Meowth: #52
+Stats: hp: 40, atk: 45, def: 35, spa: 40, spd: 40, spe: 90
+Weight: 4.2, Height: 0.4
+Types: Normal
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Persian
+Alts: 
+
+Persian: #53
+Stats: hp: 65, atk: 70, def: 60, spa: 65, spd: 65, spe: 115
+Weight: 32, Height: 1
+Types: Normal
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Psyduck: #54
+Stats: hp: 50, atk: 52, def: 48, spa: 50, spd: 50, spe: 55
+Weight: 19.6, Height: 0.8
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Golduck
+Alts: 
+
+Golduck: #55
+Stats: hp: 80, atk: 82, def: 78, spa: 80, spd: 80, spe: 85
+Weight: 76.6, Height: 1.7
+Types: Water
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Mankey: #56
+Stats: hp: 40, atk: 80, def: 35, spa: 35, spd: 35, spe: 70
+Weight: 28, Height: 0.5
+Types: Fighting
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Primeape
+Alts: 
+
+Primeape: #57
+Stats: hp: 65, atk: 105, def: 60, spa: 60, spd: 60, spe: 95
+Weight: 32, Height: 1
+Types: Fighting
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Growlithe: #58
+Stats: hp: 55, atk: 70, def: 45, spa: 50, spd: 50, spe: 60
+Weight: 19, Height: 0.7
+Types: Fire
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Arcanine
+Alts: 
+
+Arcanine: #59
+Stats: hp: 90, atk: 110, def: 80, spa: 80, spd: 80, spe: 95
+Weight: 155, Height: 1.9
+Types: Fire
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Charizard: #6
+Stats: hp: 78, atk: 84, def: 78, spa: 85, spd: 85, spe: 100
+Weight: 90.5, Height: 1.7
+Types: Fire, Flying
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Poliwag: #60
+Stats: hp: 40, atk: 50, def: 40, spa: 40, spd: 40, spe: 90
+Weight: 12.4, Height: 0.6
+Types: Water
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Poliwhirl
+Alts: 
+
+Poliwhirl: #61
+Stats: hp: 65, atk: 65, def: 65, spa: 50, spd: 50, spe: 90
+Weight: 20, Height: 1
+Types: Water
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: Poliwrath
+Alts: 
+
+Poliwrath: #62
+Stats: hp: 90, atk: 85, def: 95, spa: 70, spd: 70, spe: 70
+Weight: 54, Height: 1.3
+Types: Water, Fighting
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Abra: #63
+Stats: hp: 25, atk: 20, def: 15, spa: 105, spd: 105, spe: 90
+Weight: 19.5, Height: 0.9
+Types: Psychic
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: Kadabra
+Alts: 
+
+Kadabra: #64
+Stats: hp: 40, atk: 35, def: 30, spa: 120, spd: 120, spe: 105
+Weight: 56.5, Height: 1.3
+Types: Psychic
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: Alakazam
+Alts: 
+
+Alakazam: #65
+Stats: hp: 55, atk: 50, def: 45, spa: 135, spd: 135, spe: 120
+Weight: 48, Height: 1.5
+Types: Psychic
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Machop: #66
+Stats: hp: 70, atk: 80, def: 50, spa: 35, spd: 35, spe: 35
+Weight: 19.5, Height: 0.8
+Types: Fighting
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Machoke
+Alts: 
+
+Machoke: #67
+Stats: hp: 80, atk: 100, def: 70, spa: 50, spd: 50, spe: 45
+Weight: 70.5, Height: 1.5
+Types: Fighting
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Machamp
+Alts: 
+
+Machamp: #68
+Stats: hp: 90, atk: 130, def: 80, spa: 65, spd: 65, spe: 55
+Weight: 130, Height: 1.6
+Types: Fighting
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Bellsprout: #69
+Stats: hp: 50, atk: 75, def: 35, spa: 70, spd: 70, spe: 40
+Weight: 4, Height: 0.7
+Types: Grass, Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Weepinbell
+Alts: 
+
+Squirtle: #7
+Stats: hp: 44, atk: 48, def: 65, spa: 50, spd: 50, spe: 43
+Weight: 9, Height: 0.5
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Wartortle
+Alts: 
+
+Weepinbell: #70
+Stats: hp: 65, atk: 90, def: 50, spa: 85, spd: 85, spe: 55
+Weight: 6.4, Height: 1
+Types: Grass, Poison
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Victreebel
+Alts: 
+
+Victreebel: #71
+Stats: hp: 80, atk: 105, def: 65, spa: 100, spd: 100, spe: 70
+Weight: 15.5, Height: 1.7
+Types: Grass, Poison
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Tentacool: #72
+Stats: hp: 40, atk: 40, def: 35, spa: 100, spd: 100, spe: 70
+Weight: 45.5, Height: 0.9
+Types: Water, Poison
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Tentacruel
+Alts: 
+
+Tentacruel: #73
+Stats: hp: 80, atk: 70, def: 65, spa: 120, spd: 120, spe: 100
+Weight: 55, Height: 1.6
+Types: Water, Poison
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Geodude: #74
+Stats: hp: 40, atk: 80, def: 100, spa: 30, spd: 30, spe: 20
+Weight: 20, Height: 0.4
+Types: Rock, Ground
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Graveler
+Alts: 
+
+Graveler: #75
+Stats: hp: 55, atk: 95, def: 115, spa: 45, spd: 45, spe: 35
+Weight: 105, Height: 1
+Types: Rock, Ground
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: Golem
+Alts: 
+
+Golem: #76
+Stats: hp: 80, atk: 110, def: 130, spa: 55, spd: 55, spe: 45
+Weight: 300, Height: 1.4
+Types: Rock, Ground
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Ponyta: #77
+Stats: hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90
+Weight: 30, Height: 1
+Types: Fire
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Rapidash
+Alts: 
+
+Rapidash: #78
+Stats: hp: 65, atk: 100, def: 70, spa: 80, spd: 80, spe: 105
+Weight: 95, Height: 1.7
+Types: Fire
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Slowpoke: #79
+Stats: hp: 90, atk: 65, def: 65, spa: 40, spd: 40, spe: 15
+Weight: 36, Height: 1.2
+Types: Water, Psychic
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Slowbro
+Alts: 
+
+Wartortle: #8
+Stats: hp: 59, atk: 63, def: 80, spa: 65, spd: 65, spe: 58
+Weight: 22.5, Height: 1
+Types: Water
+Abilities: 
+Formats: NFE
+IsNonstandard: Standard
+Evos: Blastoise
+Alts: 
+
+Slowbro: #80
+Stats: hp: 95, atk: 75, def: 110, spa: 80, spd: 80, spe: 30
+Weight: 78.5, Height: 1.6
+Types: Water, Psychic
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Magnemite: #81
+Stats: hp: 25, atk: 35, def: 70, spa: 95, spd: 95, spe: 45
+Weight: 6, Height: 0.3
+Types: Electric
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Magneton
+Alts: 
+
+Magneton: #82
+Stats: hp: 50, atk: 60, def: 95, spa: 120, spd: 120, spe: 70
+Weight: 60, Height: 1
+Types: Electric
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Farfetch'd: #83
+Stats: hp: 52, atk: 65, def: 55, spa: 58, spd: 58, spe: 60
+Weight: 15, Height: 0.8
+Types: Normal, Flying
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Doduo: #84
+Stats: hp: 35, atk: 85, def: 45, spa: 35, spd: 35, spe: 75
+Weight: 39.2, Height: 1.4
+Types: Normal, Flying
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Dodrio
+Alts: 
+
+Dodrio: #85
+Stats: hp: 60, atk: 110, def: 70, spa: 60, spd: 60, spe: 100
+Weight: 85.2, Height: 1.8
+Types: Normal, Flying
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Seel: #86
+Stats: hp: 65, atk: 45, def: 55, spa: 70, spd: 70, spe: 45
+Weight: 90, Height: 1.1
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Dewgong
+Alts: 
+
+Dewgong: #87
+Stats: hp: 90, atk: 70, def: 80, spa: 95, spd: 95, spe: 70
+Weight: 120, Height: 1.7
+Types: Water, Ice
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Grimer: #88
+Stats: hp: 80, atk: 80, def: 50, spa: 40, spd: 40, spe: 25
+Weight: 30, Height: 0.9
+Types: Poison
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Muk
+Alts: 
+
+Muk: #89
+Stats: hp: 105, atk: 105, def: 75, spa: 65, spd: 65, spe: 50
+Weight: 30, Height: 1.2
+Types: Poison
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Blastoise: #9
+Stats: hp: 79, atk: 83, def: 100, spa: 85, spd: 85, spe: 78
+Weight: 85.5, Height: 1.6
+Types: Water
+Abilities: 
+Formats: NU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Shellder: #90
+Stats: hp: 30, atk: 65, def: 100, spa: 45, spd: 45, spe: 40
+Weight: 4, Height: 0.3
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Cloyster
+Alts: 
+
+Cloyster: #91
+Stats: hp: 50, atk: 95, def: 180, spa: 85, spd: 85, spe: 70
+Weight: 132.5, Height: 1.5
+Types: Water, Ice
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Gastly: #92
+Stats: hp: 30, atk: 35, def: 30, spa: 100, spd: 100, spe: 80
+Weight: 0.1, Height: 1.3
+Types: Ghost, Poison
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: Haunter
+Alts: 
+
+Haunter: #93
+Stats: hp: 45, atk: 50, def: 45, spa: 115, spd: 115, spe: 95
+Weight: 0.1, Height: 1.6
+Types: Ghost, Poison
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: Gengar
+Alts: 
+
+Gengar: #94
+Stats: hp: 60, atk: 65, def: 60, spa: 130, spd: 130, spe: 110
+Weight: 40.5, Height: 1.5
+Types: Ghost, Poison
+Abilities: 
+Formats: OU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Onix: #95
+Stats: hp: 35, atk: 45, def: 160, spa: 30, spd: 30, spe: 70
+Weight: 210, Height: 8.8
+Types: Rock, Ground
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Drowzee: #96
+Stats: hp: 60, atk: 48, def: 45, spa: 90, spd: 90, spe: 42
+Weight: 32.4, Height: 1
+Types: Psychic
+Abilities: 
+Formats: ZU
+IsNonstandard: Standard
+Evos: Hypno
+Alts: 
+
+Hypno: #97
+Stats: hp: 85, atk: 73, def: 70, spa: 115, spd: 115, spe: 67
+Weight: 75.6, Height: 1.6
+Types: Psychic
+Abilities: 
+Formats: UU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Krabby: #98
+Stats: hp: 30, atk: 105, def: 90, spa: 25, spd: 25, spe: 50
+Weight: 6.5, Height: 0.4
+Types: Water
+Abilities: 
+Formats: LC
+IsNonstandard: Standard
+Evos: Kingler
+Alts: 
+
+Kingler: #99
+Stats: hp: 55, atk: 130, def: 115, spa: 50, spd: 50, spe: 75
+Weight: 60, Height: 1.3
+Types: Water
+Abilities: 
+Formats: PU
+IsNonstandard: Standard
+Evos: 
+Alts: 
+
+Formats List:
+
+1v1 (1v1)
+Little Cup (LC)
+LC Level 100 (LC Level 100)
+Middle Cup (Middle Cup)
+Monotype (Monotype)
+Nintendo Cup 97 Rentals (NC 97 Rentals)
+Nintendo Cup 98 Rentals (NC 98 Rentals)
+Nintendo Cup 99 Rentals (NC 99 Rentals)
+NFE (NFE)
+Nintendo Cup 1997 (Nintendo Cup 1997)
+Nintendo Cup 1998 (Nintendo Cup 1998)
+Nintendo Cup 1999 (Nintendo Cup 1999)
+NeverUsed (NU)
+NUBL (NUBL)
+OverUsed (OU)
+Petit Cup (Petit Cup)
+Petit Cup Rentals (Petit Cup Rentals)
+Pika Cup (Pika Cup)
+Pika Cup Rentals (Pika Cup Rentals)
+Poke Cup (Poke Cup)
+Poke Cup Rentals (Poke Cup Rentals)
+Prime Cup (Prime Cup)
+Prime Cup Rentals (Prime Cup Rentals)
+PU (PU)
+PUBL (PUBL)
+STABmons (STABmons)
+Stadium OU (Stadium OU)
+Tradebacks OU (Tradebacks OU)
+Uber (Uber)
+UnderUsed (UU)
+UUBL (UUBL)
+ZeroUsed (ZU)
+ZUBL (ZUBL)
+Natures List:
+
+Abilities List:
+
+Move Flag List:
+
+Bypasses Substitute: Ignores a target's substitute.
+
+Charge: The user is unable to make a move between turns.
+
+Fail Mimic: Mimic fails if this is the last move used by the target.
+
+Metronome: Can be selected by Metronome.
+
+Mirror: Can be copied by Mirror Move.
+
+Recharge: If this move is successful, the user must recharge on the following turn and cannot make a move.
+
+Move List:
+
+Acid Armor: Raises the user's Defense by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Poison, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Agility: Raises the user's Speed by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Amnesia: Raises the user's Special by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Razor Leaf: High critical hit ratio.
+Category: Special, Power: 55, Accuracy: 95, Priority: 0
+PP: 25, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Barrier: Raises the user's Defense by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Bide: Waits 2-3 turns; deals double the damage taken.
+Category: Physical, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Conversion: User becomes the same type as the target.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Normal, Target: Normal
+
+Flags: Metronome
+IsNonstandard: Standard
+
+String Shot: Lowers the target's Speed by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 95, Priority: 0
+PP: 40, Type: Bug, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Defense Curl: Raises the user's Defense by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Double Team: Raises the user's evasiveness by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 15, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Focus Energy: Quarters the user's chance for a critical hit.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Growth: Raises the user's Special by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Harden: Raises the user's Defense by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Haze: Resets all stat changes. Removes foe's status.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Ice, Target: Self
+
+Flags: Bypasses Substitute, Metronome
+IsNonstandard: Standard
+
+Tackle: No additional effect.
+Category: Physical, Power: 35, Accuracy: 95, Priority: 0
+PP: 35, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Light Screen: While active, user's Special is 2x when damaged.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Meditate: Raises the user's Attack by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Metronome: Picks a random move.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Normal, Target: Self
+
+Flags: 
+IsNonstandard: Standard
+
+Minimize: Raises the user's evasiveness by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Mirror Move: User uses the target's last used move against it.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Flying, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Mist: While active, user is protected from stat drops.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Ice, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Recover: Heals the user by 50% of its max HP.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Reflect: While active, the user's Defense is doubled.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Rest: User sleeps 2 turns and restores HP and status.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Sharpen: Raises the user's Attack by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Soft-Boiled: Heals the user by 50% of its max HP.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Splash: No competitive use.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Substitute: User takes 1/4 its max HP to put in a Substitute.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Swift: Never misses, even against Dig and Fly.
+Category: Physical, Power: 60, Accuracy: 0, Priority: 0
+PP: 20, Type: Normal, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Swords Dance: Raises the user's Attack by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 30, Type: Normal, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Teleport: Fails when used.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 20, Type: Psychic, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Transform: Copies target's stats, moves, types, and species.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Bypasses Substitute, Metronome
+IsNonstandard: Standard
+
+Withdraw: Raises the user's Defense by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 0, Priority: 0
+PP: 40, Type: Water, Target: Self
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Absorb: User recovers 50% of the damage dealt.
+Category: Special, Power: 20, Accuracy: 100, Priority: 0
+PP: 20, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Acid: 33% chance to lower the target's Defense by 1.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 0
+PP: 30, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Aurora Beam: 33% chance to lower the target's Attack by 1.
+Category: Special, Power: 65, Accuracy: 100, Priority: 0
+PP: 20, Type: Ice, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bite: 10% chance to make the target flinch.
+Category: Physical, Power: 60, Accuracy: 100, Priority: 0
+PP: 25, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Body Slam: 30% chance to paralyze the target.
+Category: Physical, Power: 85, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bubble: 33% chance to lower the target's Speed by 1.
+Category: Special, Power: 20, Accuracy: 100, Priority: 0
+PP: 30, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bubble Beam: 33% chance to lower the target's Speed by 1.
+Category: Special, Power: 65, Accuracy: 100, Priority: 0
+PP: 20, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Confuse Ray: Confuses the target.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 10, Type: Ghost, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Confusion: 10% chance to confuse the target.
+Category: Special, Power: 50, Accuracy: 100, Priority: 0
+PP: 25, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Constrict: 33% chance to lower the target's Speed by 1.
+Category: Physical, Power: 10, Accuracy: 100, Priority: 0
+PP: 35, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Counter: If hit by Normal/Fighting move, deals 2x damage.
+Category: Physical, Power: 1, Accuracy: 100, Priority: -1
+PP: 20, Type: Fighting, Target: Scripted
+
+Flags: Metronome
+IsNonstandard: Standard
+
+Dig: Digs underground turn 1, strikes turn 2.
+Category: Physical, Power: 100, Accuracy: 100, Priority: 0
+PP: 10, Type: Ground, Target: Normal
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Dizzy Punch: No additional effect.
+Category: Physical, Power: 70, Accuracy: 100, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Double-Edge: Has 1/4 recoil.
+Category: Physical, Power: 100, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Double Kick: Hits 2 times in one turn.
+Category: Physical, Power: 30, Accuracy: 100, Priority: 0
+PP: 30, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Dragon Rage: Deals 40 HP of damage to the target.
+Category: Special, Power: 1, Accuracy: 100, Priority: 0
+PP: 10, Type: Dragon, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Dream Eater: User gains 1/2 HP inflicted. Sleeping target only.
+Category: Special, Power: 100, Accuracy: 100, Priority: 0
+PP: 15, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Drill Peck: No additional effect.
+Category: Physical, Power: 80, Accuracy: 100, Priority: 0
+PP: 20, Type: Flying, Target: Any
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Earthquake: No additional effect.
+Category: Physical, Power: 100, Accuracy: 100, Priority: 0
+PP: 10, Type: Ground, Target: AllAdjacent
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Ember: 10% chance to burn the target.
+Category: Special, Power: 40, Accuracy: 100, Priority: 0
+PP: 25, Type: Fire, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Explosion: Target's Def halved during damage. User faints.
+Category: Physical, Power: 170, Accuracy: 100, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fire Punch: 10% chance to burn the target.
+Category: Special, Power: 75, Accuracy: 100, Priority: 0
+PP: 15, Type: Fire, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Flamethrower: 10% chance to burn the target.
+Category: Special, Power: 95, Accuracy: 100, Priority: 0
+PP: 15, Type: Fire, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Growl: Lowers the target's Attack by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 40, Type: Normal, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Gust: No additional effect.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 0
+PP: 35, Type: Normal, Target: Any
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Headbutt: 30% chance to make the target flinch.
+Category: Physical, Power: 70, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Horn Attack: No additional effect.
+Category: Physical, Power: 65, Accuracy: 100, Priority: 0
+PP: 25, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Ice Beam: 10% chance to freeze the target.
+Category: Special, Power: 95, Accuracy: 100, Priority: 0
+PP: 10, Type: Ice, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Ice Punch: 10% chance to freeze the target.
+Category: Special, Power: 75, Accuracy: 100, Priority: 0
+PP: 15, Type: Ice, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Karate Chop: High critical hit ratio.
+Category: Physical, Power: 50, Accuracy: 100, Priority: 0
+PP: 25, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Leech Life: User recovers 50% of the damage dealt.
+Category: Physical, Power: 20, Accuracy: 100, Priority: 0
+PP: 15, Type: Bug, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Leer: Lowers the target's Defense by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 30, Type: Normal, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Lick: 30% chance to paralyze the target.
+Category: Physical, Power: 20, Accuracy: 100, Priority: 0
+PP: 30, Type: Ghost, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Mega Drain: User recovers 50% of the damage dealt.
+Category: Special, Power: 40, Accuracy: 100, Priority: 0
+PP: 10, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Mimic: Random move known by the target replaces this.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Bypasses Substitute, Metronome
+IsNonstandard: Standard
+
+Night Shade: Damage = user's level. Can hit Normal types.
+Category: Physical, Power: 1, Accuracy: 100, Priority: 0
+PP: 15, Type: Ghost, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Pay Day: Scatters coins.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Peck: No additional effect.
+Category: Physical, Power: 35, Accuracy: 100, Priority: 0
+PP: 35, Type: Flying, Target: Any
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Petal Dance: Lasts 3-4 turns. Confuses the user afterwards.
+Category: Special, Power: 70, Accuracy: 100, Priority: 0
+PP: 20, Type: Grass, Target: RandomNormal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Poison Sting: 20% chance to poison the target.
+Category: Physical, Power: 15, Accuracy: 100, Priority: 0
+PP: 35, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Pound: No additional effect.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 0
+PP: 35, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Psybeam: 10% chance to confuse the target.
+Category: Special, Power: 65, Accuracy: 100, Priority: 0
+PP: 20, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Psychic: 33% chance to lower the target's Special by 1.
+Category: Special, Power: 90, Accuracy: 100, Priority: 0
+PP: 10, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Quick Attack: Usually goes first.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 1
+PP: 30, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Rage: Lasts forever. Raises user's Attack by 1 when hit.
+Category: Physical, Power: 20, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Roar: No competitive use.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Bypasses Substitute, Metronome, Mirror
+IsNonstandard: Standard
+
+Sand Attack: Lowers the target's accuracy by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Scratch: No additional effect.
+Category: Physical, Power: 40, Accuracy: 100, Priority: 0
+PP: 35, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Seismic Toss: Damage = user's level. Can hit Ghost types.
+Category: Physical, Power: 1, Accuracy: 100, Priority: 0
+PP: 20, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Self-Destruct: Target's Def halved during damage. User faints.
+Category: Physical, Power: 130, Accuracy: 100, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Skull Bash: Charges turn 1. Hits turn 2.
+Category: Physical, Power: 100, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Slash: High critical hit ratio.
+Category: Physical, Power: 70, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Sludge: 40% chance to poison the target.
+Category: Physical, Power: 65, Accuracy: 100, Priority: 0
+PP: 20, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Smokescreen: Lowers the target's accuracy by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Solar Beam: Charges turn 1. Hits turn 2.
+Category: Special, Power: 120, Accuracy: 100, Priority: 0
+PP: 10, Type: Grass, Target: Normal
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Spike Cannon: Hits 2-5 times in one turn.
+Category: Physical, Power: 20, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Spore: Causes the target to fall asleep.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 15, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Stomp: 30% chance to make the target flinch.
+Category: Physical, Power: 65, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Strength: No additional effect.
+Category: Physical, Power: 80, Accuracy: 100, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Struggle: User loses 1/2 the HP lost by the target.
+Category: Physical, Power: 50, Accuracy: 100, Priority: 0
+PP: 10, Type: Normal, Target: RandomNormal
+
+Flags: Fail Mimic
+IsNonstandard: Standard
+
+Surf: No additional effect.
+Category: Special, Power: 95, Accuracy: 100, Priority: 0
+PP: 15, Type: Water, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Tail Whip: Lowers the target's Defense by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 30, Type: Normal, Target: AllAdjacentFoes
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thrash: Lasts 3-4 turns. Confuses the user afterwards.
+Category: Physical, Power: 90, Accuracy: 100, Priority: 0
+PP: 20, Type: Normal, Target: RandomNormal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thunder Punch: 10% chance to paralyze the target.
+Category: Special, Power: 75, Accuracy: 100, Priority: 0
+PP: 15, Type: Electric, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thunder Shock: 10% chance to paralyze the target.
+Category: Special, Power: 40, Accuracy: 100, Priority: 0
+PP: 30, Type: Electric, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thunder Wave: Paralyzes the target.
+Category: Non-Damaging, Power: 0, Accuracy: 100, Priority: 0
+PP: 20, Type: Electric, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thunderbolt: 10% chance to paralyze the target.
+Category: Special, Power: 95, Accuracy: 100, Priority: 0
+PP: 15, Type: Electric, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Tri Attack: No additional effect.
+Category: Physical, Power: 80, Accuracy: 100, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Twineedle: Hits 2 times. Last hit has 20% chance to poison.
+Category: Physical, Power: 25, Accuracy: 100, Priority: 0
+PP: 20, Type: Bug, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Vice Grip: No additional effect.
+Category: Physical, Power: 55, Accuracy: 100, Priority: 0
+PP: 30, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Vine Whip: No additional effect.
+Category: Special, Power: 35, Accuracy: 100, Priority: 0
+PP: 10, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Water Gun: No additional effect.
+Category: Special, Power: 40, Accuracy: 100, Priority: 0
+PP: 25, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Waterfall: No additional effect.
+Category: Special, Power: 80, Accuracy: 100, Priority: 0
+PP: 15, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Wing Attack: No additional effect.
+Category: Physical, Power: 35, Accuracy: 100, Priority: 0
+PP: 35, Type: Flying, Target: Any
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fissure: Deals 65535 damage. Fails if target is faster.
+Category: Physical, Power: 0, Accuracy: 30, Priority: 0
+PP: 5, Type: Ground, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Guillotine: Deals 65535 damage. Fails if target is faster.
+Category: Physical, Power: 0, Accuracy: 30, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Horn Drill: Deals 65535 damage. Fails if target is faster.
+Category: Physical, Power: 0, Accuracy: 30, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Disable: For 0-7 turns, disables one of the target's moves.
+Category: Non-Damaging, Power: 0, Accuracy: 55, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Bypasses Substitute, Metronome, Mirror
+IsNonstandard: Standard
+
+Poison Gas: Poisons the target.
+Category: Non-Damaging, Power: 0, Accuracy: 55, Priority: 0
+PP: 40, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Sing: Causes the target to fall asleep.
+Category: Non-Damaging, Power: 0, Accuracy: 55, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Supersonic: Causes the target to become confused.
+Category: Non-Damaging, Power: 0, Accuracy: 55, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Hypnosis: Causes the target to fall asleep.
+Category: Non-Damaging, Power: 0, Accuracy: 60, Priority: 0
+PP: 20, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Rock Throw: No additional effect.
+Category: Physical, Power: 50, Accuracy: 65, Priority: 0
+PP: 15, Type: Rock, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fire Spin: Prevents the target from moving for 2-5 turns.
+Category: Special, Power: 15, Accuracy: 70, Priority: 0
+PP: 15, Type: Fire, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Flash: Lowers the target's accuracy by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 70, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Smog: 40% chance to poison the target.
+Category: Physical, Power: 20, Accuracy: 70, Priority: 0
+PP: 20, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Thunder: 10% chance to paralyze the target.
+Category: Special, Power: 120, Accuracy: 70, Priority: 0
+PP: 10, Type: Electric, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bind: Prevents the target from moving for 2-5 turns.
+Category: Physical, Power: 15, Accuracy: 75, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Clamp: Prevents the target from moving for 2-5 turns.
+Category: Special, Power: 35, Accuracy: 75, Priority: 0
+PP: 10, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Egg Bomb: No additional effect.
+Category: Physical, Power: 100, Accuracy: 75, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Glare: Paralyzes the target.
+Category: Non-Damaging, Power: 0, Accuracy: 75, Priority: 0
+PP: 30, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Lovely Kiss: Causes the target to fall asleep.
+Category: Non-Damaging, Power: 0, Accuracy: 75, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Mega Kick: No additional effect.
+Category: Physical, Power: 120, Accuracy: 75, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Poison Powder: Poisons the target.
+Category: Non-Damaging, Power: 0, Accuracy: 75, Priority: 0
+PP: 35, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Razor Wind: Charges turn 1. Hits turn 2.
+Category: Physical, Power: 80, Accuracy: 75, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Slam: No additional effect.
+Category: Physical, Power: 80, Accuracy: 75, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Sleep Powder: Causes the target to fall asleep.
+Category: Non-Damaging, Power: 0, Accuracy: 75, Priority: 0
+PP: 15, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Stun Spore: Paralyzes the target.
+Category: Non-Damaging, Power: 0, Accuracy: 75, Priority: 0
+PP: 30, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fury Swipes: Hits 2-5 times in one turn.
+Category: Physical, Power: 18, Accuracy: 80, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Hydro Pump: No additional effect.
+Category: Special, Power: 120, Accuracy: 80, Priority: 0
+PP: 5, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Kinesis: Lowers the target's accuracy by 1.
+Category: Non-Damaging, Power: 0, Accuracy: 80, Priority: 0
+PP: 15, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Psywave: Random damage from 1 to (user's level*1.5 - 1).
+Category: Special, Power: 1, Accuracy: 80, Priority: 0
+PP: 15, Type: Psychic, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Submission: Has 1/4 recoil.
+Category: Physical, Power: 80, Accuracy: 80, Priority: 0
+PP: 25, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Barrage: Hits 2-5 times in one turn.
+Category: Physical, Power: 15, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bone Club: 10% chance to make the target flinch.
+Category: Physical, Power: 65, Accuracy: 85, Priority: 0
+PP: 20, Type: Ground, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Comet Punch: Hits 2-5 times in one turn.
+Category: Physical, Power: 18, Accuracy: 85, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Crabhammer: High critical hit ratio.
+Category: Special, Power: 90, Accuracy: 85, Priority: 0
+PP: 10, Type: Water, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Double Slap: Hits 2-5 times in one turn.
+Category: Physical, Power: 15, Accuracy: 85, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fire Blast: 30% chance to burn the target.
+Category: Special, Power: 120, Accuracy: 85, Priority: 0
+PP: 5, Type: Fire, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fury Attack: Hits 2-5 times in one turn.
+Category: Physical, Power: 15, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Mega Punch: No additional effect.
+Category: Physical, Power: 80, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Pin Missile: Hits 2-5 times in one turn.
+Category: Physical, Power: 14, Accuracy: 85, Priority: 0
+PP: 20, Type: Bug, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Rolling Kick: 30% chance to make the target flinch.
+Category: Physical, Power: 60, Accuracy: 85, Priority: 0
+PP: 15, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Screech: Lowers the target's Defense by 2.
+Category: Non-Damaging, Power: 0, Accuracy: 85, Priority: 0
+PP: 40, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Take Down: Has 1/4 recoil.
+Category: Physical, Power: 90, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Toxic: Badly poisons the target.
+Category: Non-Damaging, Power: 0, Accuracy: 85, Priority: 0
+PP: 10, Type: Poison, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Whirlwind: No competitive use.
+Category: Non-Damaging, Power: 0, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Bypasses Substitute, Metronome, Mirror
+IsNonstandard: Standard
+
+Wrap: Prevents the target from moving for 2-5 turns.
+Category: Physical, Power: 15, Accuracy: 85, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Blizzard: 10% chance to freeze the target.
+Category: Special, Power: 120, Accuracy: 90, Priority: 0
+PP: 5, Type: Ice, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Bonemerang: Hits 2 times in one turn.
+Category: Physical, Power: 50, Accuracy: 90, Priority: 0
+PP: 10, Type: Ground, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+High Jump Kick: User takes 1 HP of damage if it misses.
+Category: Physical, Power: 85, Accuracy: 90, Priority: 0
+PP: 20, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Hyper Beam: Can't move next turn if target or sub is not KOed.
+Category: Physical, Power: 150, Accuracy: 90, Priority: 0
+PP: 5, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror, Recharge
+IsNonstandard: Standard
+
+Hyper Fang: 10% chance to make the target flinch.
+Category: Physical, Power: 80, Accuracy: 90, Priority: 0
+PP: 15, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Leech Seed: 1/8 of target's HP is restored to user every turn.
+Category: Non-Damaging, Power: 0, Accuracy: 90, Priority: 0
+PP: 10, Type: Grass, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Low Kick: 30% chance to make the target flinch.
+Category: Physical, Power: 50, Accuracy: 90, Priority: 0
+PP: 20, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Rock Slide: No additional effect.
+Category: Physical, Power: 75, Accuracy: 90, Priority: 0
+PP: 10, Type: Rock, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Sky Attack: Charges turn 1. Hits turn 2.
+Category: Physical, Power: 140, Accuracy: 90, Priority: 0
+PP: 5, Type: Flying, Target: Any
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Sonic Boom: Always does 20 HP of damage.
+Category: Physical, Power: 1, Accuracy: 90, Priority: 0
+PP: 20, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Super Fang: Damage = 1/2 target's current HP. Hits Ghosts.
+Category: Physical, Power: 1, Accuracy: 90, Priority: 0
+PP: 10, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Cut: No additional effect.
+Category: Physical, Power: 50, Accuracy: 95, Priority: 0
+PP: 30, Type: Normal, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Fly: Flies up on first turn, then strikes the next turn.
+Category: Physical, Power: 70, Accuracy: 95, Priority: 0
+PP: 15, Type: Flying, Target: Any
+
+Flags: Charge, Metronome, Mirror
+IsNonstandard: Standard
+
+Jump Kick: User takes 1 HP of damage if it misses.
+Category: Physical, Power: 70, Accuracy: 95, Priority: 0
+PP: 25, Type: Fighting, Target: Normal
+
+Flags: Metronome, Mirror
+IsNonstandard: Standard
+
+Type List:
+
+Bug: 
+Attack Effectives: Bug: 1, Dragon: 1, Electric: 1, Fighting: 0.5
+
+Dragon: 
+Attack Effectives: Bug: 1, Dragon: 2, Electric: 1, Fighting: 1
+
+Electric: Pokemon of this type cannot become paralyzed by the secondary effect of Electric-type moves.
+Attack Effectives: Bug: 1, Dragon: 0.5, Electric: 0.5, Fighting: 1
+
+Fighting: 
+Attack Effectives: Bug: 0.5, Dragon: 1, Electric: 1, Fighting: 1
+
+Fire: Pokemon of this type cannot become burned by Fire-type moves.
+Attack Effectives: Bug: 2, Dragon: 0.5, Electric: 1, Fighting: 1
+
+Flying: 
+Attack Effectives: Bug: 2, Dragon: 1, Electric: 0.5, Fighting: 2
+
+Ghost: Pokemon of this type cannot become paralyzed by Lick.
+Attack Effectives: Bug: 1, Dragon: 1, Electric: 1, Fighting: 1
+
+Grass: Pokemon of this type cannot become affected by Leech Seed.
+Attack Effectives: Bug: 0.5, Dragon: 0.5, Electric: 1, Fighting: 1
+
+Ground: 
+Attack Effectives: Bug: 0.5, Dragon: 1, Electric: 2, Fighting: 1
+
+Ice: Pokemon of this type cannot become frozen by Ice-type moves.
+Attack Effectives: Bug: 1, Dragon: 2, Electric: 1, Fighting: 1
+
+Normal: Pokemon of this type cannot become paralyzed by Body Slam.
+Attack Effectives: Bug: 1, Dragon: 1, Electric: 1, Fighting: 1
+
+Poison: Pokemon of this type cannot become poisoned.
+Attack Effectives: Bug: 2, Dragon: 1, Electric: 1, Fighting: 1
+
+Psychic: 
+Attack Effectives: Bug: 1, Dragon: 1, Electric: 1, Fighting: 2
+
+Rock: 
+Attack Effectives: Bug: 2, Dragon: 1, Electric: 1, Fighting: 0.5
+
+Water: 
+Attack Effectives: Bug: 1, Dragon: 0.5, Electric: 1, Fighting: 1
+
+Item List:
+
+Fire Stone: Evolves certain species of Pokemon when used.
+IsNonstandard: Standard
+
+Great Ball: A high-performance Ball that provides a higher catch rate than a Poke Ball.
+IsNonstandard: Standard
+
+Leaf Stone: Evolves certain species of Pokemon when used.
+IsNonstandard: Standard
+
+Master Ball: The best Ball with the ultimate performance. It will catch any wild Pokemon.
+IsNonstandard: Standard
+
+Moon Stone: Evolves certain species of Pokemon when used.
+IsNonstandard: Standard
+
+Poke Ball: A device for catching wild Pokemon. It is designed as a capsule system.
+IsNonstandard: Standard
+
+Safari Ball: A special Poke Ball that is used only in the Safari Zone and Great Marsh.
+IsNonstandard: Standard
+
+Thunder Stone: Evolves certain species of Pokemon when used.
+IsNonstandard: Standard
+
+Ultra Ball: An ultra-performance Ball that provides a higher catch rate than a Great Ball.
+IsNonstandard: Standard
+
+Water Stone: Evolves certain species of Pokemon when used.
+IsNonstandard: Standard
+

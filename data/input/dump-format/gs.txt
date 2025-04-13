@@ -1,0 +1,583 @@
+Generation: gs
+Format: 1v1
+
+Overview: 
+
+Description: Composition
+1v1 is an Unofficial Metagame in which players choose a Pokemon they believe is capable of defeating most—if not all—other Pokemon in a one-on-one situation. Players are allowed to bring a team of three Pokemon to the team preview but must select only one to battle with. So while your team of three should be able to cover a wide variety of common threats, the Pokemon you send out must be able to beat any of your opponent's Pokemon, or at least the one you think they will use against you.
+This metagame is run by Elo Bandit, and a council. You can discuss strategies with friends in the 1v1 room on the simulator, the 1v1 Discord, or in the main thread on the forums.
+Play Restrictions
+
+Most standard OU clauses and bans apply. Team Preview also apply here.
+Accuracy Moves Clause: Pokemon cannot use accuracy-lowering moves such as Smokescreen.
+Sleep Moves Clause: Pokemon cannot use moves that induce sleep, such as Hypnosis.
+
+Pokemon Restrictions
+In addition to all Pokemon banned to the Uber tier, players cannot use any of the following Pokemon:
+
+Alakazam
+Clefable
+Snorlax
+Zapdos
+
+Item Restrictions
+The following items are banned:
+
+Berserk Gene
+Bright Powder
+Focus Band
+King's Rock
+Quick Claw
+
+Move Restrictions
+In addition of moves banned by Accuracy Moves Clause and Sleep Moves Clause, players cannot use the following moves:
+
+Explosion
+Destiny Bond
+Perish Song
+Present
+Self-Destruct
+Swagger
+Attract
+
+Basic Strategy
+(incoming)
+
+Pokemon List:
+
+Aerodactyl
+Arcanine
+Articuno
+Bellossom
+Blastoise
+Blissey
+Chansey
+Charizard
+Clefairy
+Cloyster
+Crobat
+Dewgong
+Dodrio
+Donphan
+Dragonite
+Electabuzz
+Entei
+Espeon
+Exeggutor
+Forretress
+Gengar
+Gligar
+Golduck
+Golem
+Gyarados
+Heracross
+Hitmonlee
+Houndoom
+Hypno
+Jolteon
+Jumpluff
+Jynx
+Kadabra
+Kangaskhan
+Kingdra
+Lanturn
+Lapras
+Machamp
+Magmar
+Mantine
+Marowak
+Meganium
+Miltank
+Misdreavus
+Moltres
+Mr. Mime
+Muk
+Murkrow
+Nidoking
+Nidoqueen
+Omastar
+Persian
+Pikachu
+Piloswine
+Politoed
+Poliwrath
+Porygon2
+Primeape
+Quagsire
+Raichu
+Raikou
+Raticate
+Rhydon
+Scizor
+Scyther
+Skarmory
+Slowbro
+Slowking
+Smeargle
+Starmie
+Steelix
+Suicune
+Tauros
+Tentacruel
+Typhlosion
+Tyranitar
+Umbreon
+Ursaring
+Vaporeon
+Venusaur
+Victreebel
+Xatu
+
+
+Generation: gs
+Format: NFE
+
+Overview: 
+
+Description: Composition
+NFE is an indicator for middle-stage Pokemon that are not viable enough to be tiered differently.
+
+Pokemon List:
+
+
+
+Generation: gs
+Format: NU
+
+Overview: 
+
+Description: Composition
+NU (NeverUsed) is the third and lowest tier in GSC. All Pokemon that were not determined to be UU or higher by community consensus at the end of the GSC generation can be used in NU. Although NU was not officially supported by Smogon during the GSC generation, it is now regularly included alongside other past generation NU tiers.
+Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, UUBL, UU, or NUBL.
+Players must abide by the standard Smogon-wide clauses:
+
+Species Clause: A player's team cannot contain two Pokemon with the same National Pokédex number.
+Sleep Clause: If a player has already put a Pokemon on his/her opponent's side to sleep and it is still sleeping, another one can't be put to sleep.
+Evasion Clause: A Pokemon's moveset cannot contain the moves Double Team or Minimize.
+OHKO Clause: A Pokemon's moveset cannot contain the moves Fissure, Guillotine, Horn Drill, or Sheer Cold.
+Endless Battle Clause: A player cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+Swagger Clause: A Pokemon's moveset cannot contain the move Swagger.
+
+
+Pokemon List:
+
+Arbok
+Azumarill
+Chinchou
+Cubone
+Delibird
+Dewgong
+Dragonair
+Dugtrio
+Dunsparce
+Exeggcute
+Farfetch'd
+Fearow
+Flareon
+Gloom
+Graveler
+Hitmonlee
+Houndour
+Kingler
+Ledian
+Lickitung
+Magmar
+Magnemite
+Ninetales
+Octillery
+Persian
+Pidgeot
+Pineco
+Porygon
+Primeape
+Pupitar
+Rapidash
+Raticate
+Shuckle
+Sneasel
+Stantler
+Sudowoodo
+Weezing
+Wigglytuff
+Xatu
+
+
+Generation: gs
+Format: NUBL
+
+Overview: 
+
+Description: Composition
+NUBL (NeverUsed Banlist) is the banlist for NU and is, generally, not a playable tier. Pokemon on this list are too unbalanced for NU, but not consistent enough to placed in UU.
+
+Pokemon List:
+
+
+
+Generation: gs
+Format: OU
+
+Overview: OU (OverUsed) is Smogon's fundamental tier. With the exception of Pokemon banished to the Uber tier, every Pokemon can be used in OU, including Pokemon from UU and NU. A Pokemon is considered OU based on community consensus at the time that GSC OU was the active generation.
+
+Description: Tiering
+Tiering for past generations of OU is handled by a council of the tier's high-level players.
+Play Restrictions
+Players cannot use Pokemon from the Uber tier.
+Players must abide by the following clauses:
+
+Freeze Clause Mod: If a player has already frozen an opposing Pokemon using a freeze-inducing move and that Pokemon is still frozen due to that freeze-inducing move, the player cannot freeze another opposing Pokemon with a freeze-inducing move.
+Sleep Clause Mod: If a player has already put an opposing Pokemon to sleep using a sleep-inducing move and that Pokemon is still sleeping due to that sleep-inducing move, the player cannot put another opposing Pokemon to sleep using a sleep-inducing move.
+Species Clause: A player cannot have two of the same species of Pokemon on their team, based on the National Pokédex number. For example, a player cannot have two Koffing on their team.
+Evasion Clause: Players cannot use Double Team or Minimize in any of their Pokemon's movesets.
+OHKO Clause: Players cannot use Horn Drill, Guillotine, Sheer Cold, or Fissure in any of their Pokemon's movesets.
+Timer Clause: If a player exhausts the timer, they lose.
+Cleric Clause: Pokemon must be at full health and without status conditions at the start of battle.
+SleepTrap Clause: Having a sleep-inducing move and Mean Look or Spider Web on the same moveset is not allowed.
+TrapPass Clause: A Pokemon cannot have Baton Pass alongside the moves Mean Look or Spider Web in its moveset.
+
+
+Pokemon List:
+
+Aerodactyl
+Alakazam
+Arbok
+Arcanine
+Ariados
+Articuno
+Beedrill
+Blastoise
+Blissey
+Butterfree
+Charizard
+Clefable
+Cloyster
+Corsola
+Ditto
+Dodrio
+Donphan
+Dragonite
+Electabuzz
+Electrode
+Entei
+Espeon
+Exeggutor
+Feraligatr
+Forretress
+Furret
+Gengar
+Gligar
+Golduck
+Golem
+Heracross
+Hitmonchan
+Hitmontop
+Houndoom
+Jolteon
+Jumpluff
+Jynx
+Kangaskhan
+Kingdra
+Lanturn
+Lapras
+Ledian
+Lickitung
+Machamp
+Magneton
+Mantine
+Marowak
+Meganium
+Miltank
+Misdreavus
+Moltres
+Muk
+Nidoking
+Nidoqueen
+Noctowl
+Omastar
+Parasect
+Persian
+Pidgeot
+Pikachu
+Piloswine
+Politoed
+Poliwrath
+Porygon2
+Quagsire
+Qwilfish
+Raichu
+Raikou
+Raticate
+Rhydon
+Sandslash
+Scizor
+Seaking
+Shuckle
+Skarmory
+Smeargle
+Snorlax
+Starmie
+Steelix
+Suicune
+Tangela
+Tauros
+Tentacruel
+Togetic
+Typhlosion
+Tyranitar
+Umbreon
+Unown
+Ursaring
+Vaporeon
+Venusaur
+Victreebel
+Vileplume
+Wobbuffet
+Yanma
+Zapdos
+
+
+Generation: gs
+Format: PU
+
+Overview: 
+
+Description: 
+
+Pokemon List:
+
+Abra
+Aipom
+Ariados
+Bayleef
+Beedrill
+Charmeleon
+Clefairy
+Corsola
+Cubone
+Delibird
+Drowzee
+Eevee
+Elekid
+Flaaffy
+Gastly
+Geodude
+Golbat
+Hitmontop
+Machoke
+Magcargo
+Mantine
+Murkrow
+Nidorino
+Noctowl
+Onix
+Poliwhirl
+Ponyta
+Rhyhorn
+Seadra
+Seaking
+Slowpoke
+Sneasel
+Staryu
+Sunflora
+Tangela
+Venomoth
+Voltorb
+
+
+Generation: gs
+Format: PUBL
+
+Overview: 
+
+Description: Composition
+PUBL (PU Banlist) is the banlist for PU and is, generally, not a playable tier. Pokemon on this list are too unbalanced for PU, but not consistent enough to placed in NU.
+
+Pokemon List:
+
+
+
+Generation: gs
+Format: Uber
+
+Overview: Ubers is the most inclusive of Smogon's tiers, allowing the use of any Pokemon species. Ubers is not influenced by Pokemon usage in OU, UU, or NU, and the usage of Pokemon in Ubers has no influence on the compositions of those tiers.
+
+Description: Play Restrictions
+Players must abide by the following clauses:
+
+
+Species Clause: A player cannot have two Pokemon with the same National Pokédex number on a team.
+
+
+Sleep Clause: If a player has already put a Pokemon on his/her opponent's side to sleep and it is still sleeping, another one can't be put to sleep.
+
+
+Evasion Clause: A Pokemon may not have either Double Team or Minimize in its moveset.
+
+
+OHKO Clause: A Pokemon may not have the moves Fissure, Guillotine, Horn Drill, or Sheer Cold in its moveset.
+
+
+Endless Battle Clause: Players cannot intentionally prevent an opponent from being able to end the game without forfeiting.
+
+
+
+Pokemon List:
+
+Celebi
+Cloyster
+Forretress
+Ho-Oh
+Lugia
+Mew
+Mewtwo
+Snorlax
+Tyranitar
+
+
+Generation: gs
+Format: UU
+
+Overview: UU (UnderUsed) is comprised of Pokemon that were considered definite "not standards" at the time that GSC was the current generation. These Pokemon were ones that were determined to not hold a sufficient enough niche that you would encounter them in a standard OU match.
+
+Description: Play Restrictions
+Players cannot use Pokemon from the Uber tier, OU, or UUBL.
+Players must abide by the following clauses:
+
+Freeze Clause Mod: If a player has already frozen an opposing Pokemon using a freeze-inducing move and that Pokemon is still frozen due to that freeze inducing move, the player cannot freeze another opposing Pokemon with a freeze-inducing move.
+Sleep Clause Mod: If a player has already put an opposing Pokemon to sleep using a sleep-inducing move and that Pokemon is still sleeping due to that sleep-inducing move, the player cannot put another opposing Pokemon to sleep using a sleep-inducing move.
+Species Clause: A player cannot have two of the same species of Pokemon on their team, based on the National Pokédex number. For example, a player cannot have two Koffing on their team.
+Evasion Clause: Players cannot use Double Team or Minimize in any of their Pokemon's movesets.
+OHKO Clause: Players cannot use Horn Drill, Guillotine, Sheer Cold, or Fissure in any of their Pokemon's movesets.
+Timer Clause: If a player exhausts the timer, they lose.
+Cleric Clause: Pokemon must be at full health and without status conditions at the start of battle.
+SleepTrap Clause: Having a sleep-inducing move and Mean Look or Spider Web on the same moveset is not allowed.
+
+
+Pokemon List:
+
+Aerodactyl
+Ampharos
+Ariados
+Bellossom
+Blastoise
+Chansey
+Crobat
+Dewgong
+Electabuzz
+Electrode
+Feraligatr
+Flareon
+Girafarig
+Gligar
+Granbull
+Graveler
+Gyarados
+Haunter
+Hypno
+Jumpluff
+Kabutops
+Kadabra
+Lanturn
+Magneton
+Mr. Mime
+Nidoqueen
+Omastar
+Persian
+Pikachu
+Piloswine
+Pinsir
+Politoed
+Poliwhirl
+Quagsire
+Qwilfish
+Sandslash
+Scyther
+Shuckle
+Slowbro
+Slowking
+Sudowoodo
+Victreebel
+Vileplume
+Wigglytuff
+
+
+Generation: gs
+Format: UUBL
+
+Overview: 
+
+Description: Composition
+UUBL (UnderUsed Banlist) is the banlist for UU and is not a tier that is traditionally played. UUBL was determined by community consensus as comprised of Pokemon that were "Borderline Standard" (Standard being the old name for "OU"). They were in effect Pokemon that were "usable" to a degree in OU, but "not quite there" as Pokemon that were consistent enough to be considered "standard."
+
+Pokemon List:
+
+
+
+Generation: gs
+Format: ZU
+
+Overview: ZeroUsed (ZU) is an Unofficial Metagame that forms the usage-based tier below PU.
+The leader of this metagame is File 13.
+
+Description: Play Restrictions
+
+All standard PU clauses apply.
+
+Pokemon Restrictions
+In addition to the Pokemon that are PU by viability, players cannot use the following Pokemon:
+
+Poliwhirl
+
+
+Pokemon List:
+
+Aipom
+Bayleef
+Butterfree
+Charmeleon
+Croconaw
+Diglett
+Doduo
+Dratini
+Geodude
+Goldeen
+Grimer
+Ivysaur
+Koffing
+Magby
+Mankey
+Mantine
+Mareep
+Meowth
+Natu
+Nidorina
+Nidorino
+Omanyte
+Onix
+Parasect
+Quilava
+Sandshrew
+Shellder
+Slowpoke
+Smoochum
+Snubbull
+Teddiursa
+Tentacool
+Togetic
+Voltorb
+Wartortle
+Weepinbell
+
+
+Generation: gs
+Format: ZUBL
+
+Overview: 
+
+Description: ZUBL is the list of all Pokemon banned from ZU.
+
+Pokemon List:
+
+
+
